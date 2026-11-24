@@ -1,0 +1,3185 @@
+{
+  "url": "http://127.0.0.1:4241",
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "failedRequests": [],
+  "httpErrors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4241/?audit=1",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=2",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=3",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=4",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/katalog-DHUrzRTq.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=5",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=6",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=7",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=8",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/katalog-DHUrzRTq.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=9",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=10",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=11",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=12",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/katalog-DHUrzRTq.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=13",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=14",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=15",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=16",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/katalog-DHUrzRTq.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=17",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=18",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=19",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=20",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/katalog-DHUrzRTq.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=21",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=22",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=23",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4241/?audit=24",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-B_Qo0pky.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/GalleryCanvas-DOAiFMj4.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4241/models/japanese-maple.glb",
+      "type": "Fetch"
+    }
+  ],
+  "viewports": [],
+  "interactions": [],
+  "checks": [
+    {
+      "name": "1440: main gallery initializes",
+      "passed": true,
+      "evidence": {
+        "hash": "",
+        "focus": "",
+        "time": 1394.7999999523163,
+        "firstCanvasMs": 281.7000000476837,
+        "firstContextMs": 359.39999997615814,
+        "canvasMounts": 1,
+        "canvasRemovals": 0,
+        "canvasCount": 1,
+        "glb": [
+          {
+            "startTime": 373.7999999523163,
+            "duration": 81.60000002384186,
+            "transferSize": 4439492,
+            "decodedBodySize": 4439192
+          }
+        ],
+        "galleryBundle": [
+          {
+            "startTime": 162.79999995231628,
+            "transferSize": 276606,
+            "decodedBodySize": 1018886
+          }
+        ],
+        "shifts": [
+          {
+            "value": 0.00041328381382305665,
+            "time": 956.6000000238419,
+            "recentInput": false,
+            "sources": [
+              {
+                "class": "gallery-caption",
+                "previous": {
+                  "x": 1168.953125,
+                  "y": 754,
+                  "width": 184.796875,
+                  "height": 74,
+                  "top": 754,
+                  "right": 1353.75,
+                  "bottom": 828,
+                  "left": 1168.953125
+                },
+                "current": {
+                  "x": 1207.4375,
+                  "y": 795,
+                  "width": 146.3125,
+                  "height": 33,
+                  "top": 795,
+                  "right": 1353.75,
+                  "bottom": 828,
+                  "left": 1207.4375
+                }
+              },
+              {
+                "class": "inspect-control",
+                "previous": {
+                  "x": 1263.171875,
+                  "y": 702,
+                  "width": 91,
+                  "height": 44,
+                  "top": 702,
+                  "right": 1354.171875,
+                  "bottom": 746,
+                  "left": 1263.171875
+                },
+                "current": {
+                  "x": 1263.171875,
+                  "y": 743,
+                  "width": 91,
+                  "height": 44,
+                  "top": 743,
+                  "right": 1354.171875,
+                  "bottom": 787,
+                  "left": 1263.171875
+                }
+              }
+            ]
+          }
+        ],
+        "gallery": {
+          "x": 513,
+          "y": 0,
+          "width": 912,
+          "height": 900
+        },
+        "overflow": false,
+        "placeholder": false
+      }
+    },
+    {
+      "name": "1440: gallery no overflow",
+      "passed": true
+    },
+    {
+      "name": "1440: fresh #project-icameal correct focus",
+      "passed": true,
+      "evidence": "project-icameal"
+    },
+    {
+      "name": "1440: #project-icameal no overflow",
+      "passed": true
+    },
+    {
+      "name": "1440: fresh #project-fire-sprinkler correct focus",
+      "passed": true,
+      "evidence": "project-fire-sprinkler"
+    },
+    {
+      "name": "1440: #project-fire-sprinkler no overflow",
+      "passed": true
+    },
+    {
+      "name": "1440: fresh #project-icameal-budget correct focus",
+      "passed": true,
+      "evidence": "project-icameal-budget"
+    },
+    {
+      "name": "1440: #project-icameal-budget no overflow",
+      "passed": true
+    },
+    {
+      "name": "1024: main gallery initializes",
+      "passed": true,
+      "evidence": {
+        "hash": "",
+        "focus": "",
+        "time": 1271.2000000476837,
+        "firstCanvasMs": 340.5,
+        "firstContextMs": 407.40000009536743,
+        "canvasMounts": 1,
+        "canvasRemovals": 0,
+        "canvasCount": 1,
+        "glb": [
+          {
+            "startTime": 414.7000000476837,
+            "duration": 25.5,
+            "transferSize": 4439492,
+            "decodedBodySize": 4439192
+          }
+        ],
+        "galleryBundle": [
+          {
+            "startTime": 28.700000047683716,
+            "transferSize": 276606,
+            "decodedBodySize": 1018886
+          }
+        ],
+        "shifts": [
+          {
+            "value": 0.0009659999016122816,
+            "time": 777.9000000953674,
+            "recentInput": false,
+            "sources": [
+              {
+                "class": "gallery-caption",
+                "previous": {
+                  "x": 773.765625,
+                  "y": 643.609375,
+                  "width": 184.796875,
+                  "height": 74,
+                  "top": 643.609375,
+                  "right": 958.5625,
+                  "bottom": 717.609375,
+                  "left": 773.765625
+                },
+                "current": {
+                  "x": 812.25,
+                  "y": 684.609375,
+                  "width": 146.3125,
+                  "height": 33,
+                  "top": 684.609375,
+                  "right": 958.5625,
+                  "bottom": 717.609375,
+                  "left": 812.25
+                }
+              },
+              {
+                "class": "inspect-control",
+                "previous": {
+                  "x": 867.984375,
+                  "y": 591.609375,
+                  "width": 91,
+                  "height": 44,
+                  "top": 591.609375,
+                  "right": 958.984375,
+                  "bottom": 635.609375,
+                  "left": 867.984375
+                },
+                "current": {
+                  "x": 867.984375,
+                  "y": 632.609375,
+                  "width": 91,
+                  "height": 44,
+                  "top": 632.609375,
+                  "right": 958.984375,
+                  "bottom": 676.609375,
+                  "left": 867.984375
+                }
+              }
+            ]
+          }
+        ],
+        "gallery": {
+          "x": 363.25,
+          "y": 0,
+          "width": 645.75,
+          "height": 780
+        },
+        "overflow": false,
+        "placeholder": false
+      }
+    },
+    {
+      "name": "1024: gallery no overflow",
+      "passed": true
+    },
+    {
+      "name": "1024: fresh #project-icameal correct focus",
+      "passed": true,
+      "evidence": "project-icameal"
+    },
+    {
+      "name": "1024: #project-icameal no overflow",
+      "passed": true
+    },
+    {
+      "name": "1024: fresh #project-fire-sprinkler correct focus",
+      "passed": true,
+      "evidence": "project-fire-sprinkler"
+    },
+    {
+      "name": "1024: #project-fire-sprinkler no overflow",
+      "passed": true
+    },
+    {
+      "name": "1024: fresh #project-icameal-budget correct focus",
+      "passed": true,
+      "evidence": "project-icameal-budget"
+    },
+    {
+      "name": "1024: #project-icameal-budget no overflow",
+      "passed": true
+    },
+    {
+      "name": "900: main gallery initializes",
+      "passed": true,
+      "evidence": {
+        "hash": "",
+        "focus": "",
+        "time": 1294.8999999761581,
+        "firstCanvasMs": 343.7000000476837,
+        "firstContextMs": 411.7000000476837,
+        "canvasMounts": 1,
+        "canvasRemovals": 0,
+        "canvasCount": 1,
+        "glb": [
+          {
+            "startTime": 418.10000002384186,
+            "duration": 27.899999976158142,
+            "transferSize": 4439492,
+            "decodedBodySize": 4439192
+          }
+        ],
+        "galleryBundle": [
+          {
+            "startTime": 42.700000047683716,
+            "transferSize": 276606,
+            "decodedBodySize": 1018886
+          }
+        ],
+        "shifts": [
+          {
+            "value": 0.0010536402315686685,
+            "time": 785.7000000476837,
+            "recentInput": false,
+            "sources": [
+              {
+                "class": "gallery-caption",
+                "previous": {
+                  "x": 655.96875,
+                  "y": 754,
+                  "width": 184.796875,
+                  "height": 74,
+                  "top": 754,
+                  "right": 840.765625,
+                  "bottom": 828,
+                  "left": 655.96875
+                },
+                "current": {
+                  "x": 694.453125,
+                  "y": 795,
+                  "width": 146.3125,
+                  "height": 33,
+                  "top": 795,
+                  "right": 840.765625,
+                  "bottom": 828,
+                  "left": 694.453125
+                }
+              },
+              {
+                "class": "inspect-control",
+                "previous": {
+                  "x": 750.1875,
+                  "y": 702,
+                  "width": 91,
+                  "height": 44,
+                  "top": 702,
+                  "right": 841.1875,
+                  "bottom": 746,
+                  "left": 750.1875
+                },
+                "current": {
+                  "x": 750.1875,
+                  "y": 743,
+                  "width": 91,
+                  "height": 44,
+                  "top": 743,
+                  "right": 841.1875,
+                  "bottom": 787,
+                  "left": 750.1875
+                }
+              }
+            ]
+          }
+        ],
+        "gallery": {
+          "x": 318.609375,
+          "y": 0,
+          "width": 566.390625,
+          "height": 900
+        },
+        "overflow": false,
+        "placeholder": false
+      }
+    },
+    {
+      "name": "900: gallery no overflow",
+      "passed": true
+    },
+    {
+      "name": "900: fresh #project-icameal correct focus",
+      "passed": true,
+      "evidence": "project-icameal"
+    },
+    {
+      "name": "900: #project-icameal no overflow",
+      "passed": true
+    },
+    {
+      "name": "900: fresh #project-fire-sprinkler correct focus",
+      "passed": true,
+      "evidence": "project-fire-sprinkler"
+    },
+    {
+      "name": "900: #project-fire-sprinkler no overflow",
+      "passed": true
+    },
+    {
+      "name": "900: fresh #project-icameal-budget correct focus",
+      "passed": true,
+      "evidence": "project-icameal-budget"
+    },
+    {
+      "name": "900: #project-icameal-budget no overflow",
+      "passed": true
+    },
+    {
+      "name": "768: main gallery initializes",
+      "passed": true,
+      "evidence": {
+        "hash": "",
+        "focus": "",
+        "time": 1274.3000000715256,
+        "firstCanvasMs": 339.8000000715256,
+        "firstContextMs": 398.3000000715256,
+        "canvasMounts": 1,
+        "canvasRemovals": 0,
+        "canvasCount": 1,
+        "glb": [
+          {
+            "startTime": 403.8000000715256,
+            "duration": 26.799999952316284,
+            "transferSize": 4439492,
+            "decodedBodySize": 4439192
+          }
+        ],
+        "galleryBundle": [
+          {
+            "startTime": 39,
+            "transferSize": 276606,
+            "decodedBodySize": 1018886
+          }
+        ],
+        "shifts": [
+          {
+            "value": 0.0009379064043362936,
+            "time": 760.4000000953674,
+            "recentInput": false,
+            "sources": [
+              {
+                "class": "gallery-caption",
+                "previous": {
+                  "x": 559.203125,
+                  "y": 847.59375,
+                  "width": 184.796875,
+                  "height": 74,
+                  "top": 847.59375,
+                  "right": 744,
+                  "bottom": 921.59375,
+                  "left": 559.203125
+                },
+                "current": {
+                  "x": 597.6875,
+                  "y": 888.59375,
+                  "width": 146.3125,
+                  "height": 33,
+                  "top": 888.59375,
+                  "right": 744,
+                  "bottom": 921.59375,
+                  "left": 597.6875
+                }
+              },
+              {
+                "class": "inspect-control",
+                "previous": {
+                  "x": 653.421875,
+                  "y": 795.59375,
+                  "width": 91,
+                  "height": 44,
+                  "top": 795.59375,
+                  "right": 744.421875,
+                  "bottom": 839.59375,
+                  "left": 653.421875
+                },
+                "current": {
+                  "x": 653.421875,
+                  "y": 836.59375,
+                  "width": 91,
+                  "height": 44,
+                  "top": 836.59375,
+                  "right": 744.421875,
+                  "bottom": 880.59375,
+                  "left": 653.421875
+                }
+              }
+            ]
+          }
+        ],
+        "gallery": {
+          "x": 0,
+          "y": 465.59375,
+          "width": 768,
+          "height": 480
+        },
+        "overflow": false,
+        "placeholder": false
+      }
+    },
+    {
+      "name": "768: gallery no overflow",
+      "passed": true
+    },
+    {
+      "name": "768: fresh #project-icameal correct focus",
+      "passed": true,
+      "evidence": "project-icameal"
+    },
+    {
+      "name": "768: #project-icameal no overflow",
+      "passed": true
+    },
+    {
+      "name": "768: fresh #project-fire-sprinkler correct focus",
+      "passed": true,
+      "evidence": "project-fire-sprinkler"
+    },
+    {
+      "name": "768: #project-fire-sprinkler no overflow",
+      "passed": true
+    },
+    {
+      "name": "768: fresh #project-icameal-budget correct focus",
+      "passed": true,
+      "evidence": "project-icameal-budget"
+    },
+    {
+      "name": "768: #project-icameal-budget no overflow",
+      "passed": true
+    },
+    {
+      "name": "390: main gallery initializes",
+      "passed": true,
+      "evidence": {
+        "hash": "",
+        "focus": "",
+        "time": 1284.2000000476837,
+        "firstCanvasMs": 333.10000002384186,
+        "firstContextMs": 390.8000000715256,
+        "canvasMounts": 1,
+        "canvasRemovals": 0,
+        "canvasCount": 1,
+        "glb": [
+          {
+            "startTime": 396.2000000476837,
+            "duration": 25.5,
+            "transferSize": 4439492,
+            "decodedBodySize": 4439192
+          }
+        ],
+        "galleryBundle": [
+          {
+            "startTime": 32.60000002384186,
+            "transferSize": 276606,
+            "decodedBodySize": 1018886
+          }
+        ],
+        "shifts": [
+          {
+            "value": 0.0016266524181328432,
+            "time": 760.3000000715256,
+            "recentInput": false,
+            "sources": [
+              {
+                "class": "inspect-control",
+                "previous": {
+                  "x": 275.421875,
+                  "y": 758.46875,
+                  "width": 91,
+                  "height": 44,
+                  "top": 758.46875,
+                  "right": 366.421875,
+                  "bottom": 802.46875,
+                  "left": 275.421875
+                },
+                "current": {
+                  "x": 275.421875,
+                  "y": 799.46875,
+                  "width": 91,
+                  "height": 44,
+                  "top": 799.46875,
+                  "right": 366.421875,
+                  "bottom": 843.46875,
+                  "left": 275.421875
+                }
+              },
+              {
+                "class": "gallery-caption",
+                "previous": {
+                  "x": 181.203125,
+                  "y": 810.46875,
+                  "width": 184.796875,
+                  "height": 33.53125,
+                  "top": 810.46875,
+                  "right": 366,
+                  "bottom": 844,
+                  "left": 181.203125
+                },
+                "current": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          }
+        ],
+        "gallery": {
+          "x": 0,
+          "y": 479.46875,
+          "width": 390,
+          "height": 429
+        },
+        "overflow": false,
+        "placeholder": false
+      }
+    },
+    {
+      "name": "390: gallery no overflow",
+      "passed": true
+    },
+    {
+      "name": "390: fresh #project-icameal correct focus",
+      "passed": true,
+      "evidence": "project-icameal"
+    },
+    {
+      "name": "390: #project-icameal no overflow",
+      "passed": true
+    },
+    {
+      "name": "390: fresh #project-fire-sprinkler correct focus",
+      "passed": true,
+      "evidence": "project-fire-sprinkler"
+    },
+    {
+      "name": "390: #project-fire-sprinkler no overflow",
+      "passed": true
+    },
+    {
+      "name": "390: fresh #project-icameal-budget correct focus",
+      "passed": true,
+      "evidence": "project-icameal-budget"
+    },
+    {
+      "name": "390: #project-icameal-budget no overflow",
+      "passed": true
+    },
+    {
+      "name": "320: main gallery initializes",
+      "passed": true,
+      "evidence": {
+        "hash": "",
+        "focus": "",
+        "time": 1268.4000000953674,
+        "firstCanvasMs": 336.10000002384186,
+        "firstContextMs": 396.8000000715256,
+        "canvasMounts": 1,
+        "canvasRemovals": 0,
+        "canvasCount": 1,
+        "glb": [
+          {
+            "startTime": 402.2000000476837,
+            "duration": 22.799999952316284,
+            "transferSize": 4439492,
+            "decodedBodySize": 4439192
+          }
+        ],
+        "galleryBundle": [
+          {
+            "startTime": 32,
+            "transferSize": 276606,
+            "decodedBodySize": 1018886
+          }
+        ],
+        "shifts": [
+          {
+            "value": 0.002675570382012261,
+            "time": 762.6000000238419,
+            "recentInput": false,
+            "sources": [
+              {
+                "class": "inspect-control",
+                "previous": {
+                  "x": 205.421875,
+                  "y": 674.75,
+                  "width": 91,
+                  "height": 44,
+                  "top": 674.75,
+                  "right": 296.421875,
+                  "bottom": 718.75,
+                  "left": 205.421875
+                },
+                "current": {
+                  "x": 205.421875,
+                  "y": 715.75,
+                  "width": 91,
+                  "height": 44,
+                  "top": 715.75,
+                  "right": 296.421875,
+                  "bottom": 759.75,
+                  "left": 205.421875
+                }
+              },
+              {
+                "class": "gallery-caption",
+                "previous": {
+                  "x": 111.203125,
+                  "y": 726.75,
+                  "width": 184.796875,
+                  "height": 41.25,
+                  "top": 726.75,
+                  "right": 296,
+                  "bottom": 768,
+                  "left": 111.203125
+                },
+                "current": {
+                  "x": 149.6875,
+                  "y": 767.75,
+                  "width": 146.3125,
+                  "height": 0.25,
+                  "top": 767.75,
+                  "right": 296,
+                  "bottom": 768,
+                  "left": 149.6875
+                }
+              },
+              {
+                "previous": {
+                  "x": 111.203125,
+                  "y": 727.75,
+                  "width": 184.796875,
+                  "height": 14,
+                  "top": 727.75,
+                  "right": 296,
+                  "bottom": 741.75,
+                  "left": 111.203125
+                },
+                "current": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "previous": {
+                  "x": 111.203125,
+                  "y": 744.25,
+                  "width": 184.796875,
+                  "height": 14,
+                  "top": 744.25,
+                  "right": 296,
+                  "bottom": 758.25,
+                  "left": 111.203125
+                },
+                "current": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          }
+        ],
+        "gallery": {
+          "x": 0,
+          "y": 464.75,
+          "width": 320,
+          "height": 360
+        },
+        "overflow": false,
+        "placeholder": false
+      }
+    },
+    {
+      "name": "320: gallery no overflow",
+      "passed": true
+    },
+    {
+      "name": "320: fresh #project-icameal correct focus",
+      "passed": true,
+      "evidence": "project-icameal"
+    },
+    {
+      "name": "320: #project-icameal no overflow",
+      "passed": true
+    },
+    {
+      "name": "320: fresh #project-fire-sprinkler correct focus",
+      "passed": true,
+      "evidence": "project-fire-sprinkler"
+    },
+    {
+      "name": "320: #project-fire-sprinkler no overflow",
+      "passed": true
+    },
+    {
+      "name": "320: fresh #project-icameal-budget correct focus",
+      "passed": true,
+      "evidence": "project-icameal-budget"
+    },
+    {
+      "name": "320: #project-icameal-budget no overflow",
+      "passed": true
+    },
+    {
+      "name": "No unexpected console/runtime or network errors",
+      "passed": true,
+      "evidence": {
+        "errors": [],
+        "http": [],
+        "failed": []
+      }
+    }
+  ],
+  "timings": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/157.0.8103.79",
+    "revision": "@6dc9bc3bdaea5c35ed6d41fceab2f7a3a2227c4f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "jsVersion": "15.7.112.43"
+  },
+  "loading": [
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": "",
+      "hash": "",
+      "focus": "",
+      "time": 1394.7999999523163,
+      "firstCanvasMs": 281.7000000476837,
+      "firstContextMs": 359.39999997615814,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 373.7999999523163,
+          "duration": 81.60000002384186,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 162.79999995231628,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [
+        {
+          "value": 0.00041328381382305665,
+          "time": 956.6000000238419,
+          "recentInput": false,
+          "sources": [
+            {
+              "class": "gallery-caption",
+              "previous": {
+                "x": 1168.953125,
+                "y": 754,
+                "width": 184.796875,
+                "height": 74,
+                "top": 754,
+                "right": 1353.75,
+                "bottom": 828,
+                "left": 1168.953125
+              },
+              "current": {
+                "x": 1207.4375,
+                "y": 795,
+                "width": 146.3125,
+                "height": 33,
+                "top": 795,
+                "right": 1353.75,
+                "bottom": 828,
+                "left": 1207.4375
+              }
+            },
+            {
+              "class": "inspect-control",
+              "previous": {
+                "x": 1263.171875,
+                "y": 702,
+                "width": 91,
+                "height": 44,
+                "top": 702,
+                "right": 1354.171875,
+                "bottom": 746,
+                "left": 1263.171875
+              },
+              "current": {
+                "x": 1263.171875,
+                "y": 743,
+                "width": 91,
+                "height": 44,
+                "top": 743,
+                "right": 1354.171875,
+                "bottom": 787,
+                "left": 1263.171875
+              }
+            }
+          ]
+        }
+      ],
+      "gallery": {
+        "x": 513,
+        "y": 0,
+        "width": 912,
+        "height": 900
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": "#project-icameal",
+      "hash": "#project-icameal",
+      "focus": "project-icameal",
+      "article": "project-icameal",
+      "time": 1277.6999999284744,
+      "firstCanvasMs": 340.39999997615814,
+      "firstContextMs": 627.0999999046326,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 632,
+          "duration": 24.09999990463257,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 39.5,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 513,
+        "y": -940,
+        "width": 912,
+        "height": 900
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": "#project-fire-sprinkler",
+      "hash": "#project-fire-sprinkler",
+      "focus": "project-fire-sprinkler",
+      "article": "project-fire-sprinkler",
+      "time": 1267.6000000238419,
+      "firstCanvasMs": 332.2000000476837,
+      "firstContextMs": 617.6000000238419,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 623.7000000476837,
+          "duration": 26.299999952316284,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 29.300000071525574,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 513,
+        "y": -940,
+        "width": 912,
+        "height": 900
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": "#project-icameal-budget",
+      "hash": "#project-icameal-budget",
+      "focus": "project-icameal-budget",
+      "article": "project-icameal",
+      "time": 1609.2000000476837,
+      "firstCanvasMs": 269.60000002384186,
+      "firstContextMs": 1074.5,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 1079.8000000715256,
+          "duration": 25.899999976158142,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 32,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 513,
+        "y": -3327,
+        "width": 912,
+        "height": 900
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "requested": "",
+      "hash": "",
+      "focus": "",
+      "time": 1271.2000000476837,
+      "firstCanvasMs": 340.5,
+      "firstContextMs": 407.40000009536743,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 414.7000000476837,
+          "duration": 25.5,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 28.700000047683716,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [
+        {
+          "value": 0.0009659999016122816,
+          "time": 777.9000000953674,
+          "recentInput": false,
+          "sources": [
+            {
+              "class": "gallery-caption",
+              "previous": {
+                "x": 773.765625,
+                "y": 643.609375,
+                "width": 184.796875,
+                "height": 74,
+                "top": 643.609375,
+                "right": 958.5625,
+                "bottom": 717.609375,
+                "left": 773.765625
+              },
+              "current": {
+                "x": 812.25,
+                "y": 684.609375,
+                "width": 146.3125,
+                "height": 33,
+                "top": 684.609375,
+                "right": 958.5625,
+                "bottom": 717.609375,
+                "left": 812.25
+              }
+            },
+            {
+              "class": "inspect-control",
+              "previous": {
+                "x": 867.984375,
+                "y": 591.609375,
+                "width": 91,
+                "height": 44,
+                "top": 591.609375,
+                "right": 958.984375,
+                "bottom": 635.609375,
+                "left": 867.984375
+              },
+              "current": {
+                "x": 867.984375,
+                "y": 632.609375,
+                "width": 91,
+                "height": 44,
+                "top": 632.609375,
+                "right": 958.984375,
+                "bottom": 676.609375,
+                "left": 867.984375
+              }
+            }
+          ]
+        }
+      ],
+      "gallery": {
+        "x": 363.25,
+        "y": 0,
+        "width": 645.75,
+        "height": 780
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "requested": "#project-icameal",
+      "hash": "#project-icameal",
+      "focus": "project-icameal",
+      "article": "project-icameal",
+      "time": 1293.5,
+      "firstCanvasMs": 332.6999999284744,
+      "firstContextMs": 589.1000000238419,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 594.3999999761581,
+          "duration": 24.5,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 34.10000002384186,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 363.25,
+        "y": -820,
+        "width": 645.75,
+        "height": 780
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "requested": "#project-fire-sprinkler",
+      "hash": "#project-fire-sprinkler",
+      "focus": "project-fire-sprinkler",
+      "article": "project-fire-sprinkler",
+      "time": 1277.2000000476837,
+      "firstCanvasMs": 338,
+      "firstContextMs": 594.8000000715256,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 600.3000000715256,
+          "duration": 28.799999952316284,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 37.300000071525574,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 363.25,
+        "y": -820,
+        "width": 645.75,
+        "height": 780
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "requested": "#project-icameal-budget",
+      "hash": "#project-icameal-budget",
+      "focus": "project-icameal-budget",
+      "article": "project-icameal",
+      "time": 1441.5999999046326,
+      "firstCanvasMs": 271.39999997615814,
+      "firstContextMs": 1028.1999999284744,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 1035.2999999523163,
+          "duration": 30.299999952316284,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 42.59999990463257,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 363.25,
+        "y": -3008,
+        "width": 645.75,
+        "height": 780
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "requested": "",
+      "hash": "",
+      "focus": "",
+      "time": 1294.8999999761581,
+      "firstCanvasMs": 343.7000000476837,
+      "firstContextMs": 411.7000000476837,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 418.10000002384186,
+          "duration": 27.899999976158142,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 42.700000047683716,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [
+        {
+          "value": 0.0010536402315686685,
+          "time": 785.7000000476837,
+          "recentInput": false,
+          "sources": [
+            {
+              "class": "gallery-caption",
+              "previous": {
+                "x": 655.96875,
+                "y": 754,
+                "width": 184.796875,
+                "height": 74,
+                "top": 754,
+                "right": 840.765625,
+                "bottom": 828,
+                "left": 655.96875
+              },
+              "current": {
+                "x": 694.453125,
+                "y": 795,
+                "width": 146.3125,
+                "height": 33,
+                "top": 795,
+                "right": 840.765625,
+                "bottom": 828,
+                "left": 694.453125
+              }
+            },
+            {
+              "class": "inspect-control",
+              "previous": {
+                "x": 750.1875,
+                "y": 702,
+                "width": 91,
+                "height": 44,
+                "top": 702,
+                "right": 841.1875,
+                "bottom": 746,
+                "left": 750.1875
+              },
+              "current": {
+                "x": 750.1875,
+                "y": 743,
+                "width": 91,
+                "height": 44,
+                "top": 743,
+                "right": 841.1875,
+                "bottom": 787,
+                "left": 750.1875
+              }
+            }
+          ]
+        }
+      ],
+      "gallery": {
+        "x": 318.609375,
+        "y": 0,
+        "width": 566.390625,
+        "height": 900
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "requested": "#project-icameal",
+      "hash": "#project-icameal",
+      "focus": "project-icameal",
+      "article": "project-icameal",
+      "time": 1291.7000000476837,
+      "firstCanvasMs": 345.39999997615814,
+      "firstContextMs": 631.8999999761581,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 639.2000000476837,
+          "duration": 34.199999928474426,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 47,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 318.609375,
+        "y": -940,
+        "width": 566.390625,
+        "height": 900
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "requested": "#project-fire-sprinkler",
+      "hash": "#project-fire-sprinkler",
+      "focus": "project-fire-sprinkler",
+      "article": "project-fire-sprinkler",
+      "time": 1286.8000000715256,
+      "firstCanvasMs": 353.5,
+      "firstContextMs": 648.3999999761581,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 654.5,
+          "duration": 38.89999997615814,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 52,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 318.609375,
+        "y": -940,
+        "width": 566.390625,
+        "height": 900
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "requested": "#project-icameal-budget",
+      "hash": "#project-icameal-budget",
+      "focus": "project-icameal-budget",
+      "article": "project-icameal",
+      "time": 1647.5,
+      "firstCanvasMs": 279.8000000715256,
+      "firstContextMs": 1112.7000000476837,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 1118.3000000715256,
+          "duration": 27.199999928474426,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 41.300000071525574,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 318.609375,
+        "y": -3589,
+        "width": 566.390625,
+        "height": 900
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "requested": "",
+      "hash": "",
+      "focus": "",
+      "time": 1274.3000000715256,
+      "firstCanvasMs": 339.8000000715256,
+      "firstContextMs": 398.3000000715256,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 403.8000000715256,
+          "duration": 26.799999952316284,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 39,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [
+        {
+          "value": 0.0009379064043362936,
+          "time": 760.4000000953674,
+          "recentInput": false,
+          "sources": [
+            {
+              "class": "gallery-caption",
+              "previous": {
+                "x": 559.203125,
+                "y": 847.59375,
+                "width": 184.796875,
+                "height": 74,
+                "top": 847.59375,
+                "right": 744,
+                "bottom": 921.59375,
+                "left": 559.203125
+              },
+              "current": {
+                "x": 597.6875,
+                "y": 888.59375,
+                "width": 146.3125,
+                "height": 33,
+                "top": 888.59375,
+                "right": 744,
+                "bottom": 921.59375,
+                "left": 597.6875
+              }
+            },
+            {
+              "class": "inspect-control",
+              "previous": {
+                "x": 653.421875,
+                "y": 795.59375,
+                "width": 91,
+                "height": 44,
+                "top": 795.59375,
+                "right": 744.421875,
+                "bottom": 839.59375,
+                "left": 653.421875
+              },
+              "current": {
+                "x": 653.421875,
+                "y": 836.59375,
+                "width": 91,
+                "height": 44,
+                "top": 836.59375,
+                "right": 744.421875,
+                "bottom": 880.59375,
+                "left": 653.421875
+              }
+            }
+          ]
+        }
+      ],
+      "gallery": {
+        "x": 0,
+        "y": 465.59375,
+        "width": 768,
+        "height": 480
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "requested": "#project-icameal",
+      "hash": "#project-icameal",
+      "focus": "project-icameal",
+      "article": "project-icameal",
+      "time": 1301.7999999523163,
+      "firstCanvasMs": 349.2000000476837,
+      "firstContextMs": 641.7999999523163,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 648.3999999761581,
+          "duration": 26.700000047683716,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 48.799999952316284,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -567.40625,
+        "width": 768,
+        "height": 480
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "requested": "#project-fire-sprinkler",
+      "hash": "#project-fire-sprinkler",
+      "focus": "project-fire-sprinkler",
+      "article": "project-fire-sprinkler",
+      "time": 1289.6999999284744,
+      "firstCanvasMs": 341,
+      "firstContextMs": 644.7999999523163,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 650.1999999284744,
+          "duration": 26.399999976158142,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 42.699999928474426,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -567.40625,
+        "width": 768,
+        "height": 480
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "requested": "#project-icameal-budget",
+      "hash": "#project-icameal-budget",
+      "focus": "project-icameal-budget",
+      "article": "project-icameal",
+      "time": 1631.1999999284744,
+      "firstCanvasMs": 292.39999997615814,
+      "firstContextMs": 1219.8999999761581,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 1225.2999999523163,
+          "duration": 27.200000047683716,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 38.699999928474426,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -3980.40625,
+        "width": 768,
+        "height": 480
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": "",
+      "hash": "",
+      "focus": "",
+      "time": 1284.2000000476837,
+      "firstCanvasMs": 333.10000002384186,
+      "firstContextMs": 390.8000000715256,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 396.2000000476837,
+          "duration": 25.5,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 32.60000002384186,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [
+        {
+          "value": 0.0016266524181328432,
+          "time": 760.3000000715256,
+          "recentInput": false,
+          "sources": [
+            {
+              "class": "inspect-control",
+              "previous": {
+                "x": 275.421875,
+                "y": 758.46875,
+                "width": 91,
+                "height": 44,
+                "top": 758.46875,
+                "right": 366.421875,
+                "bottom": 802.46875,
+                "left": 275.421875
+              },
+              "current": {
+                "x": 275.421875,
+                "y": 799.46875,
+                "width": 91,
+                "height": 44,
+                "top": 799.46875,
+                "right": 366.421875,
+                "bottom": 843.46875,
+                "left": 275.421875
+              }
+            },
+            {
+              "class": "gallery-caption",
+              "previous": {
+                "x": 181.203125,
+                "y": 810.46875,
+                "width": 184.796875,
+                "height": 33.53125,
+                "top": 810.46875,
+                "right": 366,
+                "bottom": 844,
+                "left": 181.203125
+              },
+              "current": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "gallery": {
+        "x": 0,
+        "y": 479.46875,
+        "width": 390,
+        "height": 429
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": "#project-icameal",
+      "hash": "#project-icameal",
+      "focus": "project-icameal",
+      "article": "project-icameal",
+      "time": 1294.7999999523163,
+      "firstCanvasMs": 353.5,
+      "firstContextMs": 634.6000000238419,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 639.6999999284744,
+          "duration": 24.300000071525574,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 51.5,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -516.53125,
+        "width": 390,
+        "height": 429
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": "#project-fire-sprinkler",
+      "hash": "#project-fire-sprinkler",
+      "focus": "project-fire-sprinkler",
+      "article": "project-fire-sprinkler",
+      "time": 1279.2999999523163,
+      "firstCanvasMs": 336.1999999284744,
+      "firstContextMs": 616.7999999523163,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 621.3999999761581,
+          "duration": 23.5,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 35.299999952316284,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -516.53125,
+        "width": 390,
+        "height": 429
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": "#project-icameal-budget",
+      "hash": "#project-icameal-budget",
+      "focus": "project-icameal-budget",
+      "article": "project-icameal",
+      "time": 1595.3999999761581,
+      "firstCanvasMs": 286.5,
+      "firstContextMs": 1179.3999999761581,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 1184.0999999046326,
+          "duration": 22.800000071525574,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 42.699999928474426,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -3667.53125,
+        "width": 390,
+        "height": 429
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "requested": "",
+      "hash": "",
+      "focus": "",
+      "time": 1268.4000000953674,
+      "firstCanvasMs": 336.10000002384186,
+      "firstContextMs": 396.8000000715256,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 402.2000000476837,
+          "duration": 22.799999952316284,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 32,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [
+        {
+          "value": 0.002675570382012261,
+          "time": 762.6000000238419,
+          "recentInput": false,
+          "sources": [
+            {
+              "class": "inspect-control",
+              "previous": {
+                "x": 205.421875,
+                "y": 674.75,
+                "width": 91,
+                "height": 44,
+                "top": 674.75,
+                "right": 296.421875,
+                "bottom": 718.75,
+                "left": 205.421875
+              },
+              "current": {
+                "x": 205.421875,
+                "y": 715.75,
+                "width": 91,
+                "height": 44,
+                "top": 715.75,
+                "right": 296.421875,
+                "bottom": 759.75,
+                "left": 205.421875
+              }
+            },
+            {
+              "class": "gallery-caption",
+              "previous": {
+                "x": 111.203125,
+                "y": 726.75,
+                "width": 184.796875,
+                "height": 41.25,
+                "top": 726.75,
+                "right": 296,
+                "bottom": 768,
+                "left": 111.203125
+              },
+              "current": {
+                "x": 149.6875,
+                "y": 767.75,
+                "width": 146.3125,
+                "height": 0.25,
+                "top": 767.75,
+                "right": 296,
+                "bottom": 768,
+                "left": 149.6875
+              }
+            },
+            {
+              "previous": {
+                "x": 111.203125,
+                "y": 727.75,
+                "width": 184.796875,
+                "height": 14,
+                "top": 727.75,
+                "right": 296,
+                "bottom": 741.75,
+                "left": 111.203125
+              },
+              "current": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            },
+            {
+              "previous": {
+                "x": 111.203125,
+                "y": 744.25,
+                "width": 184.796875,
+                "height": 14,
+                "top": 744.25,
+                "right": 296,
+                "bottom": 758.25,
+                "left": 111.203125
+              },
+              "current": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "gallery": {
+        "x": 0,
+        "y": 464.75,
+        "width": 320,
+        "height": 360
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "requested": "#project-icameal",
+      "hash": "#project-icameal",
+      "focus": "project-icameal",
+      "article": "project-icameal",
+      "time": 1275.3999999761581,
+      "firstCanvasMs": 329.09999990463257,
+      "firstContextMs": 610.2999999523163,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 615.2999999523163,
+          "duration": 23.5,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 37.09999990463257,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -448.25,
+        "width": 320,
+        "height": 360
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "requested": "#project-fire-sprinkler",
+      "hash": "#project-fire-sprinkler",
+      "focus": "project-fire-sprinkler",
+      "article": "project-fire-sprinkler",
+      "time": 1279.1999999284744,
+      "firstCanvasMs": 342.60000002384186,
+      "firstContextMs": 655.8999999761581,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 661,
+          "duration": 23.299999952316284,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 44.10000002384186,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -448.25,
+        "width": 320,
+        "height": 360
+      },
+      "overflow": false,
+      "placeholder": false
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "requested": "#project-icameal-budget",
+      "hash": "#project-icameal-budget",
+      "focus": "project-icameal-budget",
+      "article": "project-icameal",
+      "time": 1600.2999999523163,
+      "firstCanvasMs": 282.5,
+      "firstContextMs": 1202.2999999523163,
+      "canvasMounts": 1,
+      "canvasRemovals": 0,
+      "canvasCount": 1,
+      "glb": [
+        {
+          "startTime": 1207.2999999523163,
+          "duration": 23,
+          "transferSize": 4439492,
+          "decodedBodySize": 4439192
+        }
+      ],
+      "galleryBundle": [
+        {
+          "startTime": 45.799999952316284,
+          "transferSize": 276606,
+          "decodedBodySize": 1018886
+        }
+      ],
+      "shifts": [],
+      "gallery": {
+        "x": 0,
+        "y": -3939.25,
+        "width": 320,
+        "height": 360
+      },
+      "overflow": false,
+      "placeholder": false
+    }
+  ]
+}

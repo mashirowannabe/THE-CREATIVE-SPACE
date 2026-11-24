@@ -1,0 +1,1610 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "dom": {
+        "title": "The Creative Space",
+        "heading": "THECREATIVESPACE.",
+        "innerWidth": 1440,
+        "innerHeight": 900,
+        "scrollWidth": 1440,
+        "header": {
+          "left": 72,
+          "top": 54,
+          "right": 1368,
+          "bottom": 83.375,
+          "width": 1296,
+          "height": 29.375
+        },
+        "copy": {
+          "left": 100.796875,
+          "top": 279,
+          "right": 748.796875,
+          "bottom": 619.03125,
+          "width": 648,
+          "height": 340.03125
+        },
+        "gallery": {
+          "left": 518.40625,
+          "top": 0,
+          "right": 1440,
+          "bottom": 900,
+          "width": 921.59375,
+          "height": 900
+        },
+        "index": {
+          "left": 100.796875,
+          "top": 786.40625,
+          "right": 284.78125,
+          "bottom": 828,
+          "width": 183.984375,
+          "height": 41.59375
+        },
+        "headingFontSize": "89.28px",
+        "headingLineHeights": [
+          82.125,
+          82.125
+        ],
+        "headingLineHeight": 82.1376,
+        "canvasCount": 1,
+        "canvasWidth": 921,
+        "canvasHeight": 900,
+        "pointerEvents": "none",
+        "mask": "linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0) 18%)",
+        "deadAnchors": []
+      },
+      "scene": {
+        "camera": {
+          "type": "PerspectiveCamera",
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341462
+          ],
+          "focalLength": 45,
+          "filmGauge": 36,
+          "fov": 42.67398196113915,
+          "aspect": 1.0239930555555556
+        },
+        "portal": {
+          "worldMin": [
+            0.05000000298023233,
+            4.768371586472142e-8,
+            -0.3299999940395355
+          ],
+          "worldMax": [
+            4.149999997019767,
+            3.4000000059604645,
+            0.11999999403953551
+          ],
+          "minX": -0.6268083825540304,
+          "maxX": 0.8417141140813946,
+          "minY": -0.5470381593067867,
+          "maxY": 0.6462140300055698,
+          "allInFront": true
+        },
+        "plinth": {
+          "worldMin": [
+            1.6,
+            -5.9604643443123e-10,
+            0.2500000119209289
+          ],
+          "worldMax": [
+            2.6,
+            0.28000000059604646,
+            1.149999988079071
+          ],
+          "minX": -0.07779439899550672,
+          "maxX": 0.3111775959820274,
+          "minY": -0.6940208293161165,
+          "maxY": -0.4697013005131026,
+          "allInFront": true
+        },
+        "meshes": [
+          {
+            "name": "gallery-floor",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 10,
+              "height": 0.08,
+              "depth": 8,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-back-wall",
+            "geometry": "ExtrudeGeometry",
+            "size": {
+              "depth": 0.16
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 3.4,
+              "height": 2.85,
+              "depth": 0.16,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-left-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-right-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-header",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 4.1,
+              "height": 0.5499999999999998,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "plinth-pedestal",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 1,
+              "height": 0.28,
+              "depth": 0.9,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.95,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          }
+        ],
+        "lights": [
+          {
+            "name": "gallery-fill",
+            "type": "HemisphereLight",
+            "castShadow": false,
+            "intensity": 1.25
+          },
+          {
+            "name": "gallery-key",
+            "type": "DirectionalLight",
+            "castShadow": true,
+            "intensity": 2.25,
+            "shadowMapSize": [
+              1024,
+              1024
+            ]
+          }
+        ],
+        "renderCalls": 11,
+        "triangles": 148,
+        "geometries": 7,
+        "textures": 3,
+        "renderFrame": 1,
+        "pendingFrames": 0,
+        "frameSubscribers": 0,
+        "frameloop": "demand",
+        "pixelRatio": 1,
+        "shadowEnabled": true,
+        "shadowType": 1,
+        "toneMapping": 4,
+        "outputColorSpace": "srgb",
+        "contextLost": false,
+        "glError": 0,
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "hasFog": false
+      },
+      "frameStableWhileIdle": true,
+      "screenshot": "desktop-1440x900.png"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "dom": {
+        "title": "The Creative Space",
+        "heading": "THECREATIVESPACE.",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "scrollWidth": 390,
+        "header": {
+          "left": 24,
+          "top": 24,
+          "right": 366,
+          "bottom": 53.375,
+          "width": 342,
+          "height": 29.375
+        },
+        "copy": {
+          "left": 24,
+          "top": 157.375,
+          "right": 366,
+          "bottom": 421.46875,
+          "width": 342,
+          "height": 264.09375
+        },
+        "gallery": {
+          "left": 0,
+          "top": 455.46875,
+          "right": 390,
+          "bottom": 884.46875,
+          "width": 390,
+          "height": 429
+        },
+        "index": {
+          "left": 24,
+          "top": 910.46875,
+          "right": 366,
+          "bottom": 952.0625,
+          "width": 342,
+          "height": 41.59375
+        },
+        "headingFontSize": "48px",
+        "headingLineHeights": [
+          44.15625,
+          44.15625
+        ],
+        "headingLineHeight": 44.16,
+        "canvasCount": 1,
+        "canvasWidth": 390,
+        "canvasHeight": 429,
+        "pointerEvents": "none",
+        "mask": "none",
+        "deadAnchors": []
+      },
+      "scene": {
+        "camera": {
+          "type": "PerspectiveCamera",
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "focalLength": 45,
+          "filmGauge": 36,
+          "fov": 43.60281897270362,
+          "aspect": 0.9090909090909091
+        },
+        "portal": {
+          "worldMin": [
+            0.05000000298023233,
+            4.768371586472142e-8,
+            -0.3299999940395355
+          ],
+          "worldMax": [
+            4.149999997019767,
+            3.4000000059604645,
+            0.11999999403953551
+          ],
+          "minX": -0.8276992915983229,
+          "maxX": 0.827699291598323,
+          "minY": -0.5455406010282406,
+          "maxY": 0.6462196881862623,
+          "allInFront": true
+        },
+        "plinth": {
+          "worldMin": [
+            1.6,
+            -5.9604643443123e-10,
+            0.2500000119209289
+          ],
+          "worldMax": [
+            2.6,
+            0.28000000059604646,
+            1.149999988079071
+          ],
+          "minX": -0.21931587965201108,
+          "maxX": 0.21931587965201144,
+          "minY": -0.6958004573430042,
+          "maxY": -0.4688869339907026,
+          "allInFront": true
+        },
+        "meshes": [
+          {
+            "name": "gallery-floor",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 10,
+              "height": 0.08,
+              "depth": 8,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-back-wall",
+            "geometry": "ExtrudeGeometry",
+            "size": {
+              "depth": 0.16
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 3.4,
+              "height": 2.85,
+              "depth": 0.16,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-left-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-right-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-header",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 4.1,
+              "height": 0.5499999999999998,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "plinth-pedestal",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 1,
+              "height": 0.28,
+              "depth": 0.9,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.95,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          }
+        ],
+        "lights": [
+          {
+            "name": "gallery-fill",
+            "type": "HemisphereLight",
+            "castShadow": false,
+            "intensity": 1.25
+          },
+          {
+            "name": "gallery-key",
+            "type": "DirectionalLight",
+            "castShadow": true,
+            "intensity": 2.25,
+            "shadowMapSize": [
+              1024,
+              1024
+            ]
+          }
+        ],
+        "renderCalls": 11,
+        "triangles": 148,
+        "geometries": 7,
+        "textures": 3,
+        "renderFrame": 1,
+        "pendingFrames": 0,
+        "frameSubscribers": 0,
+        "frameloop": "demand",
+        "pixelRatio": 1,
+        "shadowEnabled": true,
+        "shadowType": 1,
+        "toneMapping": 4,
+        "outputColorSpace": "srgb",
+        "contextLost": false,
+        "glError": 0,
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "hasFog": false
+      },
+      "frameStableWhileIdle": true,
+      "screenshot": "mobile-390x844.png"
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "dom": {
+        "title": "The Creative Space",
+        "heading": "THECREATIVESPACE.",
+        "innerWidth": 320,
+        "innerHeight": 768,
+        "scrollWidth": 320,
+        "header": {
+          "left": 24,
+          "top": 24,
+          "right": 296,
+          "bottom": 65.59375,
+          "width": 272,
+          "height": 41.59375
+        },
+        "copy": {
+          "left": 24,
+          "top": 169.59375,
+          "right": 296,
+          "bottom": 418.96875,
+          "width": 272,
+          "height": 249.375
+        },
+        "gallery": {
+          "left": 0,
+          "top": 452.96875,
+          "right": 320,
+          "bottom": 812.96875,
+          "width": 320,
+          "height": 360
+        },
+        "index": {
+          "left": 24,
+          "top": 838.96875,
+          "right": 296,
+          "bottom": 880.5625,
+          "width": 272,
+          "height": 41.59375
+        },
+        "headingFontSize": "40px",
+        "headingLineHeights": [
+          36.796875,
+          36.796875
+        ],
+        "headingLineHeight": 36.8,
+        "canvasCount": 1,
+        "canvasWidth": 320,
+        "canvasHeight": 360,
+        "pointerEvents": "none",
+        "mask": "none",
+        "deadAnchors": []
+      },
+      "scene": {
+        "camera": {
+          "type": "PerspectiveCamera",
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "focalLength": 45,
+          "filmGauge": 36,
+          "fov": 43.60281897270362,
+          "aspect": 0.8888888888888888
+        },
+        "portal": {
+          "worldMin": [
+            0.05000000298023233,
+            4.768371586472142e-8,
+            -0.3299999940395355
+          ],
+          "worldMax": [
+            4.149999997019767,
+            3.4000000059604645,
+            0.11999999403953551
+          ],
+          "minX": -0.8425464231532779,
+          "maxX": 0.8425464231532777,
+          "minY": -0.5433575458576025,
+          "maxY": 0.6432880787444575,
+          "allInFront": true
+        },
+        "plinth": {
+          "worldMin": [
+            1.6,
+            -5.9604643443123e-10,
+            0.2500000119209289
+          ],
+          "worldMax": [
+            2.6,
+            0.28000000059604646,
+            1.149999988079071
+          ],
+          "minX": -0.22323536252334739,
+          "maxX": 0.22323536252334739,
+          "minY": -0.6923069335393773,
+          "maxY": -0.466919707969766,
+          "allInFront": true
+        },
+        "meshes": [
+          {
+            "name": "gallery-floor",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 10,
+              "height": 0.08,
+              "depth": 8,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-back-wall",
+            "geometry": "ExtrudeGeometry",
+            "size": {
+              "depth": 0.16
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 3.4,
+              "height": 2.85,
+              "depth": 0.16,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-left-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-right-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-header",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 4.1,
+              "height": 0.5499999999999998,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "plinth-pedestal",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 1,
+              "height": 0.28,
+              "depth": 0.9,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.95,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          }
+        ],
+        "lights": [
+          {
+            "name": "gallery-fill",
+            "type": "HemisphereLight",
+            "castShadow": false,
+            "intensity": 1.25
+          },
+          {
+            "name": "gallery-key",
+            "type": "DirectionalLight",
+            "castShadow": true,
+            "intensity": 2.25,
+            "shadowMapSize": [
+              1024,
+              1024
+            ]
+          }
+        ],
+        "renderCalls": 11,
+        "triangles": 148,
+        "geometries": 7,
+        "textures": 3,
+        "renderFrame": 1,
+        "pendingFrames": 0,
+        "frameSubscribers": 0,
+        "frameloop": "demand",
+        "pixelRatio": 1,
+        "shadowEnabled": true,
+        "shadowType": 1,
+        "toneMapping": 4,
+        "outputColorSpace": "srgb",
+        "contextLost": false,
+        "glError": 0,
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "hasFog": false
+      },
+      "frameStableWhileIdle": true,
+      "screenshot": "mobile-320x768.png"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "dom": {
+        "title": "The Creative Space",
+        "heading": "THECREATIVESPACE.",
+        "innerWidth": 1024,
+        "innerHeight": 768,
+        "scrollWidth": 1009,
+        "header": {
+          "left": 50.4375,
+          "top": 46.796875,
+          "right": 958.5625,
+          "bottom": 76.171875,
+          "width": 908.125,
+          "height": 29.375
+        },
+        "copy": {
+          "left": 70.625,
+          "top": 241.796875,
+          "right": 524.671875,
+          "bottom": 534.359375,
+          "width": 454.046875,
+          "height": 292.5625
+        },
+        "gallery": {
+          "left": 363.25,
+          "top": 0,
+          "right": 1009,
+          "bottom": 780,
+          "width": 645.75,
+          "height": 780
+        },
+        "index": {
+          "left": 70.625,
+          "top": 676.015625,
+          "right": 254.609375,
+          "bottom": 717.609375,
+          "width": 183.984375,
+          "height": 41.59375
+        },
+        "headingFontSize": "63.488px",
+        "headingLineHeights": [
+          58.390625,
+          58.390625
+        ],
+        "headingLineHeight": 58.409,
+        "canvasCount": 1,
+        "canvasWidth": 645,
+        "canvasHeight": 780,
+        "pointerEvents": "none",
+        "mask": "linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0) 18%)",
+        "deadAnchors": []
+      },
+      "scene": {
+        "camera": {
+          "type": "PerspectiveCamera",
+          "position": [
+            1.8,
+            2.7,
+            8.774145774907225
+          ],
+          "focalLength": 45,
+          "filmGauge": 36,
+          "fov": 43.60281897270362,
+          "aspect": 0.8278846153846153
+        },
+        "portal": {
+          "worldMin": [
+            0.05000000298023233,
+            4.768371586472142e-8,
+            -0.3299999940395355
+          ],
+          "worldMax": [
+            4.149999997019767,
+            3.4000000059604645,
+            0.11999999403953551
+          ],
+          "minX": -0.6217229702435664,
+          "maxX": 0.834885131832945,
+          "minY": -0.4489905365777043,
+          "maxY": 0.5209184482714846,
+          "allInFront": true
+        },
+        "plinth": {
+          "worldMin": [
+            1.6,
+            -5.9604643443123e-10,
+            0.2500000119209289
+          ],
+          "worldMax": [
+            2.6,
+            0.28000000059604646,
+            1.149999988079071
+          ],
+          "minX": -0.07678003643110176,
+          "maxX": 0.3071201457244071,
+          "minY": -0.5476115702640408,
+          "maxY": -0.38270642899543295,
+          "allInFront": true
+        },
+        "meshes": [
+          {
+            "name": "gallery-floor",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 10,
+              "height": 0.08,
+              "depth": 8,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-back-wall",
+            "geometry": "ExtrudeGeometry",
+            "size": {
+              "depth": 0.16
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 3.4,
+              "height": 2.85,
+              "depth": 0.16,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-left-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-right-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-header",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 4.1,
+              "height": 0.5499999999999998,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "plinth-pedestal",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 1,
+              "height": 0.28,
+              "depth": 0.9,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.95,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          }
+        ],
+        "lights": [
+          {
+            "name": "gallery-fill",
+            "type": "HemisphereLight",
+            "castShadow": false,
+            "intensity": 1.25
+          },
+          {
+            "name": "gallery-key",
+            "type": "DirectionalLight",
+            "castShadow": true,
+            "intensity": 2.25,
+            "shadowMapSize": [
+              1024,
+              1024
+            ]
+          }
+        ],
+        "renderCalls": 11,
+        "triangles": 148,
+        "geometries": 7,
+        "textures": 3,
+        "renderFrame": 1,
+        "pendingFrames": 0,
+        "frameSubscribers": 0,
+        "frameloop": "demand",
+        "pixelRatio": 1,
+        "shadowEnabled": true,
+        "shadowType": 1,
+        "toneMapping": 4,
+        "outputColorSpace": "srgb",
+        "contextLost": false,
+        "glError": 0,
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "hasFog": false
+      },
+      "frameStableWhileIdle": true,
+      "screenshot": null
+    },
+    {
+      "width": 801,
+      "height": 900,
+      "dom": {
+        "title": "The Creative Space",
+        "heading": "THECREATIVESPACE.",
+        "innerWidth": 801,
+        "innerHeight": 900,
+        "scrollWidth": 801,
+        "header": {
+          "left": 40.046875,
+          "top": 54,
+          "right": 760.953125,
+          "bottom": 83.375,
+          "width": 720.90625,
+          "height": 29.375
+        },
+        "copy": {
+          "left": 56.0625,
+          "top": 279,
+          "right": 416.5,
+          "bottom": 554.125,
+          "width": 360.4375,
+          "height": 275.125
+        },
+        "gallery": {
+          "left": 288.375,
+          "top": 0,
+          "right": 801,
+          "bottom": 900,
+          "width": 512.625,
+          "height": 900
+        },
+        "index": {
+          "left": 56.0625,
+          "top": 786.40625,
+          "right": 240.046875,
+          "bottom": 828,
+          "width": 183.984375,
+          "height": 41.59375
+        },
+        "headingFontSize": "54px",
+        "headingLineHeights": [
+          49.671875,
+          49.671875
+        ],
+        "headingLineHeight": 49.68,
+        "canvasCount": 1,
+        "canvasWidth": 512,
+        "canvasHeight": 900,
+        "pointerEvents": "none",
+        "mask": "linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0) 18%)",
+        "deadAnchors": []
+      },
+      "scene": {
+        "camera": {
+          "type": "PerspectiveCamera",
+          "position": [
+            1.8,
+            2.7,
+            12.698728567095472
+          ],
+          "focalLength": 45,
+          "filmGauge": 36,
+          "fov": 43.60281897270362,
+          "aspect": 0.5695833333333333
+        },
+        "portal": {
+          "worldMin": [
+            0.05000000298023233,
+            4.768371586472142e-8,
+            -0.3299999940395355
+          ],
+          "worldMax": [
+            4.149999997019767,
+            3.4000000059604645,
+            0.11999999403953551
+          ],
+          "minX": -0.6158939104437342,
+          "maxX": 0.8270575372411956,
+          "minY": -0.31422065091765766,
+          "maxY": 0.35740374451729084,
+          "allInFront": true
+        },
+        "plinth": {
+          "worldMin": [
+            1.6,
+            -5.9604643443123e-10,
+            0.2500000119209289
+          ],
+          "worldMax": [
+            2.6,
+            0.28000000059604646,
+            1.149999988079071
+          ],
+          "minX": -0.07493581189991935,
+          "maxX": 0.2997432475996779,
+          "minY": -0.36061964071304403,
+          "maxY": -0.2649743238064736,
+          "allInFront": true
+        },
+        "meshes": [
+          {
+            "name": "gallery-floor",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 10,
+              "height": 0.08,
+              "depth": 8,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-back-wall",
+            "geometry": "ExtrudeGeometry",
+            "size": {
+              "depth": 0.16
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 3.4,
+              "height": 2.85,
+              "depth": 0.16,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-left-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-right-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-header",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 4.1,
+              "height": 0.5499999999999998,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "plinth-pedestal",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 1,
+              "height": 0.28,
+              "depth": 0.9,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.95,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          }
+        ],
+        "lights": [
+          {
+            "name": "gallery-fill",
+            "type": "HemisphereLight",
+            "castShadow": false,
+            "intensity": 1.25
+          },
+          {
+            "name": "gallery-key",
+            "type": "DirectionalLight",
+            "castShadow": true,
+            "intensity": 2.25,
+            "shadowMapSize": [
+              1024,
+              1024
+            ]
+          }
+        ],
+        "renderCalls": 11,
+        "triangles": 148,
+        "geometries": 7,
+        "textures": 3,
+        "renderFrame": 1,
+        "pendingFrames": 0,
+        "frameSubscribers": 0,
+        "frameloop": "demand",
+        "pixelRatio": 1,
+        "shadowEnabled": true,
+        "shadowType": 1,
+        "toneMapping": 4,
+        "outputColorSpace": "srgb",
+        "contextLost": false,
+        "glError": 0,
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "hasFog": false
+      },
+      "frameStableWhileIdle": true,
+      "screenshot": null
+    },
+    {
+      "width": 800,
+      "height": 900,
+      "dom": {
+        "title": "The Creative Space",
+        "heading": "THECREATIVESPACE.",
+        "innerWidth": 800,
+        "innerHeight": 900,
+        "scrollWidth": 800,
+        "header": {
+          "left": 24,
+          "top": 24,
+          "right": 776,
+          "bottom": 53.375,
+          "width": 752,
+          "height": 29.375
+        },
+        "copy": {
+          "left": 24,
+          "top": 157.375,
+          "right": 776,
+          "bottom": 472.96875,
+          "width": 752,
+          "height": 315.59375
+        },
+        "gallery": {
+          "left": 0,
+          "top": 506.96875,
+          "right": 800,
+          "bottom": 986.96875,
+          "width": 800,
+          "height": 480
+        },
+        "index": {
+          "left": 24,
+          "top": 1012.96875,
+          "right": 776,
+          "bottom": 1054.5625,
+          "width": 752,
+          "height": 41.59375
+        },
+        "headingFontSize": "76px",
+        "headingLineHeights": [
+          69.90625,
+          69.90625
+        ],
+        "headingLineHeight": 69.92,
+        "canvasCount": 1,
+        "canvasWidth": 800,
+        "canvasHeight": 480,
+        "pointerEvents": "none",
+        "mask": "none",
+        "deadAnchors": []
+      },
+      "scene": {
+        "camera": {
+          "type": "PerspectiveCamera",
+          "position": [
+            2.1,
+            2.7,
+            9.44017543859649
+          ],
+          "focalLength": 45,
+          "filmGauge": 36,
+          "fov": 26.991466561591622,
+          "aspect": 1.6666666666666667
+        },
+        "portal": {
+          "worldMin": [
+            0.05000000298023233,
+            4.768371586472142e-8,
+            -0.3299999940395355
+          ],
+          "worldMax": [
+            4.149999997019767,
+            3.4000000059604645,
+            0.11999999403953551
+          ],
+          "minX": -0.5584905015261337,
+          "maxX": 0.5584905015261336,
+          "minY": -0.6979840064338368,
+          "maxY": 0.8055041908617181,
+          "allInFront": true
+        },
+        "plinth": {
+          "worldMin": [
+            1.6,
+            -5.9604643443123e-10,
+            0.2500000119209289
+          ],
+          "worldMax": [
+            2.6,
+            0.28000000059604646,
+            1.149999988079071
+          ],
+          "minX": -0.1468074764758342,
+          "maxX": 0.1468074764758342,
+          "minY": -0.8396496308269628,
+          "maxY": -0.5934630941183059,
+          "allInFront": true
+        },
+        "meshes": [
+          {
+            "name": "gallery-floor",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 10,
+              "height": 0.08,
+              "depth": 8,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-back-wall",
+            "geometry": "ExtrudeGeometry",
+            "size": {
+              "depth": 0.16
+            },
+            "color": "f1efe8",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 3.4,
+              "height": 2.85,
+              "depth": 0.16,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.96,
+            "metalness": 0,
+            "castShadow": false,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-left-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-right-return",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 0.34999999999999987,
+              "height": 2.85,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "portal-header",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 4.1,
+              "height": 0.5499999999999998,
+              "depth": 0.45,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "f1efe8",
+            "roughness": 0.94,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          },
+          {
+            "name": "plinth-pedestal",
+            "geometry": "BoxGeometry",
+            "size": {
+              "width": 1,
+              "height": 0.28,
+              "depth": 0.9,
+              "widthSegments": 1,
+              "heightSegments": 1,
+              "depthSegments": 1
+            },
+            "color": "e5e1d7",
+            "roughness": 0.95,
+            "metalness": 0,
+            "castShadow": true,
+            "receiveShadow": true
+          }
+        ],
+        "lights": [
+          {
+            "name": "gallery-fill",
+            "type": "HemisphereLight",
+            "castShadow": false,
+            "intensity": 1.25
+          },
+          {
+            "name": "gallery-key",
+            "type": "DirectionalLight",
+            "castShadow": true,
+            "intensity": 2.25,
+            "shadowMapSize": [
+              1024,
+              1024
+            ]
+          }
+        ],
+        "renderCalls": 11,
+        "triangles": 148,
+        "geometries": 7,
+        "textures": 3,
+        "renderFrame": 1,
+        "pendingFrames": 0,
+        "frameSubscribers": 0,
+        "frameloop": "demand",
+        "pixelRatio": 1,
+        "shadowEnabled": true,
+        "shadowType": 1,
+        "toneMapping": 4,
+        "outputColorSpace": "srgb",
+        "contextLost": false,
+        "glError": 0,
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "hasFog": false
+      },
+      "frameStableWhileIdle": true,
+      "screenshot": null
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "failures": [],
+  "preservedFiles": [
+    {
+      "file": "mission-004b.html",
+      "sha256": "DD11AF3121D54397E45660C88403649D35468302C93E8015E08F7A7D7D297EC8",
+      "unchanged": true
+    },
+    {
+      "file": "public/models/japanese-maple.glb",
+      "sha256": "167858B8C7E4F3E51B1FC702B1C61061741D5DECFE2B14FA277457EA6E15615D",
+      "unchanged": true
+    },
+    {
+      "file": "source-assets/blender/Japanese+Maple-Tree_Pack+JSGraphics_CGTrader.blend",
+      "sha256": "5C537AF924AE4068EA1945EBBAF96521B38F13BFE2482B8663DB90B98CB8C544",
+      "unchanged": true
+    },
+    {
+      "file": "package.json",
+      "sha256": "4775F0328AA9753AD08ED9C60CC118D444A73A51DBF83AED662C30E46B90D7B1",
+      "unchanged": true
+    },
+    {
+      "file": "package-lock.json",
+      "sha256": "841E22A1FC1F58181B258BB61A5AB8C4C6A52D6463448712EE2EB09CDCBAA884",
+      "unchanged": true
+    },
+    {
+      "file": "src/components/SiteHeader.tsx",
+      "sha256": "38B77F77FF55E0C98E3A52D69B162C51456EA2749D867FDD75AE6F33401A5404",
+      "unchanged": true
+    },
+    {
+      "file": "src/components/HeroCopy.tsx",
+      "sha256": "906FB61E4CAE6DDD58858D7BA1E1E0D3F258CDDEA148B5DDA131A37487377442",
+      "unchanged": true
+    },
+    {
+      "file": "src/components/FeaturedWorkIndex.tsx",
+      "sha256": "3526418FAA23426457764C39BFAA691634C06AF62D512243DC27C2F35873D1B4",
+      "unchanged": true
+    },
+    {
+      "file": "src/App.tsx",
+      "sha256": "301907FD16F5D898D78F82418AF8EDFDBF7B36196942A5F1D84FA3E06094EEEE",
+      "unchanged": true
+    },
+    {
+      "file": "src/styles/tokens.css",
+      "sha256": "6154FA092F106082A0F9AA7132129712FDB587BC79A36D5BD296AF0037C472E2",
+      "unchanged": true
+    },
+    {
+      "file": "src/styles/global.css",
+      "sha256": "A76948CB7729D0079B97F1F84A52A0FADDCB2EA71B464BBDF1F9DCA0C30E7338",
+      "unchanged": true
+    }
+  ],
+  "modelRequests": [],
+  "externalRequests": [],
+  "placeholderRequests": []
+}

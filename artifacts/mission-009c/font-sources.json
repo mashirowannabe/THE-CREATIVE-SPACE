@@ -1,0 +1,34 @@
+﻿[
+    {
+        "Family":  "Instrument Sans",
+        "Source":  "https://raw.githubusercontent.com/google/fonts/06bfe0d62a98375cb09c942fa18e68bd32cff057/ofl/instrumentsans/InstrumentSans%5Bwdth%2Cwght%5D.ttf",
+        "Commit":  "06bfe0d62a98375cb09c942fa18e68bd32cff057",
+        "File":  "public/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+        "Bytes":  194336,
+        "SHA256":  "B24F1812584816958AFCF22E22D08E44318C5E51651E25D2438EFDDE389B33B1"
+    },
+    {
+        "Family":  "Instrument Sans",
+        "Source":  "https://raw.githubusercontent.com/google/fonts/06bfe0d62a98375cb09c942fa18e68bd32cff057/ofl/instrumentsans/OFL.txt",
+        "Commit":  "06bfe0d62a98375cb09c942fa18e68bd32cff057",
+        "File":  "public/fonts/instrument-sans/OFL.txt",
+        "Bytes":  4403,
+        "SHA256":  "9E27A72ED30EB49A08678F6A5D6ED98EC7BA5368F541637EE0683EC9134EF966"
+    },
+    {
+        "Family":  "IBM Plex Mono",
+        "Source":  "https://raw.githubusercontent.com/google/fonts/06bfe0d62a98375cb09c942fa18e68bd32cff057/ofl/ibmplexmono/IBMPlexMono-Regular.ttf",
+        "Commit":  "06bfe0d62a98375cb09c942fa18e68bd32cff057",
+        "File":  "public/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+        "Bytes":  135580,
+        "SHA256":  "6A3412F058C7D8DFD9170C41E85ADE48E5156ECB89356110CA57A0A27734AF46"
+    },
+    {
+        "Family":  "IBM Plex Mono",
+        "Source":  "https://raw.githubusercontent.com/google/fonts/06bfe0d62a98375cb09c942fa18e68bd32cff057/ofl/ibmplexmono/OFL.txt",
+        "Commit":  "06bfe0d62a98375cb09c942fa18e68bd32cff057",
+        "File":  "public/fonts/ibm-plex-mono/OFL.txt",
+        "Bytes":  4456,
+        "SHA256":  "7E6B2818EDBD8F6A01AE80641CC8F16A51080D08FB4E532BE3A0B6F74ADB07DA"
+    }
+]

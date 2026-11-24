@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "source": "source-assets/icameal/screenshots/bahan.png",
+      "emitted": "dist/assets/bahan-RUEhm3Gc.png",
+      "bytes": 97809,
+      "byteIdentical": true,
+      "sha256": "06e5b9ddffd6fd82fa9a7155cbc26ece066df3d06bcd3434dbd17197cc91447c"
+    },
+    {
+      "source": "source-assets/icameal/screenshots/anggaran.png",
+      "emitted": "dist/assets/anggaran-Dgnnkmxf.png",
+      "bytes": 238062,
+      "byteIdentical": true,
+      "sha256": "4ad41d614543355d5866e819e445fa38ed43875788471fa1229e576ee76e9b36"
+    },
+    {
+      "source": "source-assets/icameal/screenshots/week plan.png",
+      "emitted": "dist/assets/week plan-ALiaedfE.png",
+      "bytes": 2007119,
+      "byteIdentical": true,
+      "sha256": "8de17ed321ccc66ac0b67551d7bdc09f0d888a6717adf42d1bcf1056e03ddbd6"
+    },
+    {
+      "source": "source-assets/icameal/screenshots/katalog.png",
+      "emitted": "dist/assets/katalog-DHUrzRTq.png",
+      "bytes": 295067,
+      "byteIdentical": true,
+      "sha256": "67ad6187d21dd362bc732a73a7642b12ade5ee10b23ded8c6f7f779d67296b5a"
+    },
+    {
+      "source": "source-assets/icameal/screenshots/monthly plan.png",
+      "emitted": "dist/assets/monthly plan-By13WU41.png",
+      "bytes": 636394,
+      "byteIdentical": true,
+      "sha256": "fe89ff68abb43864460f448db31b5529f403d6fd0bfa0e750046160d0a04ccb4"
+    },
+    {
+      "source": "source-assets/icameal/screenshots/footer.png",
+      "emitted": "dist/assets/footer-BymU2Wy0.png",
+      "bytes": 170684,
+      "byteIdentical": true,
+      "sha256": "1ac1d2cb4fd45a593b417314e8e5b12a486a50105bbca56b51003d32e643da85"
+    },
+    {
+      "source": "source-assets/icameal/source code/assets/hero-botanical.svg",
+      "emitted": "dist/assets/hero-botanical-DZEFhpS7.svg",
+      "bytes": 1204,
+      "byteIdentical": true,
+      "sha256": "adb90e8f87bfb027534b793527590ec56d64612a4fd5993b53eba2bf8fa7382e"
+    }
+  ],
+  "allByteIdentical": true,
+  "blendFilesInBuild": []
+}

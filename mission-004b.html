@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Creative Space — Hero Study</title>
+<style>
+/* Standalone prototype: Instrument Sans and IBM Plex Mono are not bundled.
+   Arial and Courier New are the offline fallbacks until the approved fonts are supplied. */
+:root{--ivory:#f1efe8;--raised:#e5e1d7;--ink:#242520;--green:#536348;--terra:#9a4934}
+*{box-sizing:border-box}body{margin:0;background:var(--ivory);color:var(--ink);font-family:"Instrument Sans",Arial,sans-serif}.hero{min-height:780px;height:100svh;max-height:1100px;position:relative;overflow:hidden}.scene{position:absolute;top:0;right:0;width:64%;height:100%;z-index:0}.scene svg{width:100%;height:100%;display:block}.header{position:absolute;z-index:2;top:6%;left:5%;right:5%;display:flex;justify-content:space-between;align-items:flex-start}.brand{font-weight:600;font-size:14px;line-height:1.05;letter-spacing:-.04em}.nav{display:flex;gap:32px}.nav span{font-size:13px}.copy{position:absolute;z-index:1;left:7%;top:31%;width:45%}.eyebrow,.label{font-family:"IBM Plex Mono","Courier New",monospace;font-size:10px;letter-spacing:.1em;line-height:1.5;text-transform:uppercase}.eyebrow{color:var(--green)}h1{margin:22px 0 26px;font-size:clamp(54px,6.2vw,100px);line-height:.92;letter-spacing:-.065em;font-weight:500}h1 span{display:block}.intro{font-size:16px;line-height:1.55;color:#55574f;max-width:300px;margin:0}.explore{display:inline-block;margin-top:36px;font-size:13px;border-bottom:1px solid var(--ink);padding-bottom:8px}.index{position:absolute;z-index:2;left:7%;bottom:8%;display:flex;align-items:flex-start;gap:22px}.number{font:11px "Courier New",monospace;color:var(--terra)}.label{color:#55574f}.projects{font-size:14px;margin-top:7px}.caption{position:absolute;right:5%;bottom:8%;z-index:1;text-align:right}.caption .label{font-size:9px}
+@media(max-width:800px){.hero{height:auto;min-height:0;padding-bottom:40px}.header{position:relative;top:auto;left:auto;right:auto;margin:24px;align-items:start}.nav{gap:14px;flex-wrap:wrap;justify-content:flex-end;max-width:235px}.nav span{font-size:12px}.copy{position:relative;left:auto;top:auto;width:auto;margin:80px 24px 34px}h1{font-size:clamp(48px,11vw,76px)}.scene{position:relative;top:auto;right:auto;width:100%;height:480px}.index{position:relative;left:auto;bottom:auto;margin:26px 24px 0}.caption{right:24px;bottom:105px}}
+</style>
+</head>
+<body>
+<div class="hero">
+ <div class="scene" aria-hidden="true">
+ <svg viewBox="0 0 920 920" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8e4d9"/><stop offset="1" stop-color="#d1cec1"/></linearGradient>
+  <linearGradient id="floor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9e6dc"/><stop offset="1" stop-color="#c9c5b8"/></linearGradient>
+  <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8f9a80"/><stop offset=".5" stop-color="#536348"/><stop offset="1" stop-color="#303f32"/></linearGradient>
+  <linearGradient id="leaflight" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#adb49a"/><stop offset="1" stop-color="#596b51"/></linearGradient>
+  <filter id="shadow"><feGaussianBlur stdDeviation="16"/></filter>
+  <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".55" numOctaves="3" seed="4"/><feColorMatrix type="saturate" values="0"/></filter>
+ </defs>
+ <path d="M190 68H852V713H190Z" fill="#d9d5ca"/>
+ <path d="M190 68H852L810 116H239Z" fill="#faf8f1"/><path d="M190 68L239 116V688L190 729Z" fill="#c6c3b7"/>
+ <path d="M239 116H810V688H239Z" fill="url(#wall)"/><path d="M810 116L852 68V729L810 688Z" fill="#bcb9ac"/>
+ <path d="M239 688H810L920 920H65Z" fill="url(#floor)"/>
+ <path d="M239 116H810V688H595Z" fill="#f8f6ec" opacity=".32"/><path d="M239 688H810L920 920H570Z" fill="#faf8ef" opacity=".22"/>
+ <path d="M307 755C425 720 565 725 700 795C760 825 765 847 686 849L450 835Z" fill="#777b69" opacity=".22" filter="url(#shadow)"/>
+ <path d="M394 685L581 685L618 710L433 714Z" fill="#e9e6dc"/><path d="M433 714L618 710L618 840L433 854Z" fill="#ccc8bc"/><path d="M394 685L433 714L433 854L394 822Z" fill="#b9b7aa"/>
+ <ellipse cx="496" cy="691" rx="61" ry="12" fill="#7a806f" opacity=".22"/>
+ <g fill="none" stroke="#424f3d" stroke-linecap="round"><path d="M488 687C488 584 485 430 500 286" stroke-width="5"/><path d="M488 630C459 546 419 480 369 421M490 584C532 502 576 455 630 413M492 520C458 443 445 380 439 321M493 479C538 415 557 348 565 294" stroke-width="3"/></g>
+ <g fill="url(#leaf)"><path d="M478 600C404 605 343 564 330 504C383 504 445 526 478 600Z"/><path d="M497 569C547 492 623 492 675 510C640 562 580 590 497 569Z"/><path d="M481 503C408 481 383 425 390 372C438 389 480 431 481 503Z"/><path d="M500 466C523 392 585 365 633 371C612 425 568 461 500 466Z"/><path d="M497 378C463 322 473 260 508 219C533 270 532 328 497 378Z"/></g>
+ <g fill="url(#leaflight)" opacity=".94"><path d="M464 572C411 550 369 516 330 504C375 502 433 518 464 572Z"/><path d="M512 551C570 525 620 518 675 510C641 541 580 558 512 551Z"/><path d="M473 485C430 450 403 412 390 372C437 394 469 435 473 485Z"/><path d="M509 449C551 412 592 386 633 371C610 413 565 441 509 449Z"/><path d="M498 365C490 304 498 256 508 219C522 266 514 321 498 365Z"/></g>
+ <g stroke="#d6d9c7" stroke-width="1.2" opacity=".45" fill="none"><path d="M480 597Q410 538 330 504M500 568Q590 532 675 510M480 502Q426 434 390 372M502 465Q565 411 633 371M497 378Q502 298 508 219"/></g>
+ <path d="M239 116H810V688H239Z" filter="url(#grain)" opacity=".045"/>
+ </svg></div>
+ <header class="header"><div class="brand">THE CREATIVE<br>SPACE.</div><nav class="nav" aria-label="Prototype navigation"><span>Work</span><span>Studies</span><span>About</span><span>Contact</span></nav></header>
+ <main class="copy"><div class="eyebrow">A personal creative studio</div><h1><span>THE CREATIVE</span><span>SPACE<span style="display:inline;color:#9a4934">.</span></span></h1><p class="intro">Ideas take shape through design, code, and experimentation.</p><span class="explore">Explore the work &nbsp; ↗</span></main>
+ <div class="index"><span class="number">01—02</span><div><div class="label">Featured work</div><div class="projects">IcaMeal &nbsp; / &nbsp; Blender</div></div></div>
+ <div class="caption"><div class="label">Botanical study<br>Blender experiments</div></div>
+</div>
+</body>
+</html>

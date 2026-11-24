@@ -1,0 +1,849 @@
+{
+  "date": "2026-11-24",
+  "timezone": "Asia/Barnaul",
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/157.0.8103.79",
+    "revision": "@6dc9bc3bdaea5c35ed6d41fceab2f7a3a2227c4f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "jsVersion": "15.7.112.43"
+  },
+  "method": "Local Chrome CDP, cache disabled, no network/CPU throttling. Baseline and measurements each ran alone. Other functional suites ran concurrently. Times are single-run diagnostics, not field-performance claims.",
+  "comparisons": [
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": "",
+      "before": {
+        "firstCanvasMs": 282,
+        "firstContextMs": 359,
+        "glbStartMs": 374,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0.00041328381382305665
+      },
+      "after": {
+        "firstCanvasMs": 456,
+        "firstContextMs": 555,
+        "glbStartMs": 569,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "observationEndMs": 1369
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": "#project-icameal",
+      "before": {
+        "firstCanvasMs": 340,
+        "firstContextMs": 627,
+        "glbStartMs": 632,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1280
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": "#project-fire-sprinkler",
+      "before": {
+        "firstCanvasMs": 332,
+        "firstContextMs": 618,
+        "glbStartMs": 624,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1286
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "requested": "#project-icameal-budget",
+      "before": {
+        "firstCanvasMs": 270,
+        "firstContextMs": 1075,
+        "glbStartMs": 1080,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1283
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "requested": "",
+      "before": {
+        "firstCanvasMs": 341,
+        "firstContextMs": 407,
+        "glbStartMs": 415,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0.0009659999016122816
+      },
+      "after": {
+        "firstCanvasMs": 364,
+        "firstContextMs": 422,
+        "glbStartMs": 428,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "observationEndMs": 1284
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "requested": "#project-icameal",
+      "before": {
+        "firstCanvasMs": 333,
+        "firstContextMs": 589,
+        "glbStartMs": 594,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1276
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "requested": "#project-fire-sprinkler",
+      "before": {
+        "firstCanvasMs": 338,
+        "firstContextMs": 595,
+        "glbStartMs": 600,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1278
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "requested": "#project-icameal-budget",
+      "before": {
+        "firstCanvasMs": 271,
+        "firstContextMs": 1028,
+        "glbStartMs": 1035,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1277
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "requested": "",
+      "before": {
+        "firstCanvasMs": 344,
+        "firstContextMs": 412,
+        "glbStartMs": 418,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0.0010536402315686685
+      },
+      "after": {
+        "firstCanvasMs": 338,
+        "firstContextMs": 404,
+        "glbStartMs": 409,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "observationEndMs": 1275
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "requested": "#project-icameal",
+      "before": {
+        "firstCanvasMs": 345,
+        "firstContextMs": 632,
+        "glbStartMs": 639,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1288
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "requested": "#project-fire-sprinkler",
+      "before": {
+        "firstCanvasMs": 354,
+        "firstContextMs": 648,
+        "glbStartMs": 655,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1312
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "requested": "#project-icameal-budget",
+      "before": {
+        "firstCanvasMs": 280,
+        "firstContextMs": 1113,
+        "glbStartMs": 1118,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1269
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "requested": "",
+      "before": {
+        "firstCanvasMs": 340,
+        "firstContextMs": 398,
+        "glbStartMs": 404,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0.0009379064043362936
+      },
+      "after": {
+        "firstCanvasMs": 343,
+        "firstContextMs": 408,
+        "glbStartMs": 412,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "observationEndMs": 1269
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "requested": "#project-icameal",
+      "before": {
+        "firstCanvasMs": 349,
+        "firstContextMs": 642,
+        "glbStartMs": 648,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1273
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "requested": "#project-fire-sprinkler",
+      "before": {
+        "firstCanvasMs": 341,
+        "firstContextMs": 645,
+        "glbStartMs": 650,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1291
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "requested": "#project-icameal-budget",
+      "before": {
+        "firstCanvasMs": 292,
+        "firstContextMs": 1220,
+        "glbStartMs": 1225,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1281
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": "",
+      "before": {
+        "firstCanvasMs": 333,
+        "firstContextMs": 391,
+        "glbStartMs": 396,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0.0016266524181328432
+      },
+      "after": {
+        "firstCanvasMs": 340,
+        "firstContextMs": 404,
+        "glbStartMs": 409,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "observationEndMs": 1277
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": "#project-icameal",
+      "before": {
+        "firstCanvasMs": 354,
+        "firstContextMs": 635,
+        "glbStartMs": 640,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1274
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": "#project-fire-sprinkler",
+      "before": {
+        "firstCanvasMs": 336,
+        "firstContextMs": 617,
+        "glbStartMs": 621,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1279
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "requested": "#project-icameal-budget",
+      "before": {
+        "firstCanvasMs": 287,
+        "firstContextMs": 1179,
+        "glbStartMs": 1184,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1285
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "requested": "",
+      "before": {
+        "firstCanvasMs": 336,
+        "firstContextMs": 397,
+        "glbStartMs": 402,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0.002675570382012261
+      },
+      "after": {
+        "firstCanvasMs": 342,
+        "firstContextMs": 407,
+        "glbStartMs": 412,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "observationEndMs": 1283
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "requested": "#project-icameal",
+      "before": {
+        "firstCanvasMs": 329,
+        "firstContextMs": 610,
+        "glbStartMs": 615,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1282
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "requested": "#project-fire-sprinkler",
+      "before": {
+        "firstCanvasMs": 343,
+        "firstContextMs": 656,
+        "glbStartMs": 661,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1289
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "requested": "#project-icameal-budget",
+      "before": {
+        "firstCanvasMs": 283,
+        "firstContextMs": 1202,
+        "glbStartMs": 1207,
+        "canvasMounts": 1,
+        "glbRequests": 1,
+        "galleryTransferBytes": 4716098,
+        "captionShift": 0
+      },
+      "after": {
+        "firstCanvasMs": null,
+        "firstContextMs": null,
+        "glbStartMs": null,
+        "canvasMounts": 0,
+        "glbRequests": 0,
+        "galleryTransferBytes": 0,
+        "captionShift": 0
+      },
+      "observationEndMs": 1282
+    }
+  ],
+  "returnTimings": [
+    {
+      "width": 1440,
+      "height": 900,
+      "canvasFromReturnMs": 112,
+      "contextFromReturnMs": 580,
+      "glbFromReturnMs": 588,
+      "firstCanvasMs": 9199,
+      "firstContextMs": 9667,
+      "glbStartMs": 9674,
+      "canvasMounts": 1,
+      "glbRequests": 1,
+      "galleryTransferBytes": 4716098,
+      "captionShift": 0
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "canvasFromReturnMs": 105,
+      "contextFromReturnMs": 547,
+      "glbFromReturnMs": 553,
+      "firstCanvasMs": 9170,
+      "firstContextMs": 9612,
+      "glbStartMs": 9617,
+      "canvasMounts": 1,
+      "glbRequests": 1,
+      "galleryTransferBytes": 4716098,
+      "captionShift": 0
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "canvasFromReturnMs": 111,
+      "contextFromReturnMs": 581,
+      "glbFromReturnMs": 586,
+      "firstCanvasMs": 9192,
+      "firstContextMs": 9661,
+      "glbStartMs": 9666,
+      "canvasMounts": 1,
+      "glbRequests": 1,
+      "galleryTransferBytes": 4716098,
+      "captionShift": 0
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "canvasFromReturnMs": 86,
+      "contextFromReturnMs": 440,
+      "glbFromReturnMs": 447,
+      "firstCanvasMs": 9153,
+      "firstContextMs": 9508,
+      "glbStartMs": 9515,
+      "canvasMounts": 1,
+      "glbRequests": 1,
+      "galleryTransferBytes": 4716098,
+      "captionShift": 0
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "canvasFromReturnMs": 86,
+      "contextFromReturnMs": 444,
+      "glbFromReturnMs": 449,
+      "firstCanvasMs": 9161,
+      "firstContextMs": 9519,
+      "glbStartMs": 9524,
+      "canvasMounts": 1,
+      "glbRequests": 1,
+      "galleryTransferBytes": 4716098,
+      "captionShift": 0
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "canvasFromReturnMs": 77,
+      "contextFromReturnMs": 391,
+      "glbFromReturnMs": 396,
+      "firstCanvasMs": 9128,
+      "firstContextMs": 9442,
+      "glbStartMs": 9448,
+      "canvasMounts": 1,
+      "glbRequests": 1,
+      "galleryTransferBytes": 4716098,
+      "captionShift": 0
+    }
+  ],
+  "checks": {
+    "baseline": {
+      "passed": 49,
+      "failed": [],
+      "errors": [],
+      "httpErrors": [],
+      "failedRequests": [],
+      "harnessError": null
+    },
+    "measurements": {
+      "passed": 67,
+      "failed": [],
+      "errors": [],
+      "httpErrors": [],
+      "failedRequests": [],
+      "harnessError": null
+    },
+    "loading": {
+      "passed": 367,
+      "failed": [],
+      "errors": [],
+      "httpErrors": [],
+      "failedRequests": [],
+      "harnessError": null
+    },
+    "reading": {
+      "passed": 265,
+      "failed": [],
+      "errors": [],
+      "httpErrors": [],
+      "failedRequests": [],
+      "harnessError": null
+    },
+    "gallery": {
+      "passed": 42,
+      "failed": [],
+      "errors": [],
+      "httpErrors": [],
+      "failedRequests": [],
+      "harnessError": null
+    },
+    "lifecycle": {
+      "passed": 17,
+      "failed": [],
+      "errors": [],
+      "httpErrors": [],
+      "failedRequests": [],
+      "harnessError": null
+    },
+    "failures": {
+      "passed": 7,
+      "failed": [],
+      "errors": [
+        "THREE.WebGLRenderer: THREE.WebGLRenderer: Error creating WebGL context.",
+        "Error: THREE.WebGLRenderer: Error creating WebGL context.\n    at new Yb (http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js:4225:24361)\n    at B3 (http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js:4225:90403)\n    at b (http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js:4236:11837)\n    at Object.configure (http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js:4236:11951)\n    at http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js:4236:20250\n    at sn (http://127.0.0.1:4240/assets/index-D5oEAk7F.js:8:92576)\n    at uo (http://127.0.0.1:4240/assets/index-D5oEAk7F.js:8:97089)\n    at Wt (http://127.0.0.1:4240/assets/index-D5oEAk7F.js:8:105956)\n    at uo (http://127.0.0.1:4240/assets/index-D5oEAk7F.js:8:98081)\n    at Wt (http://127.0.0.1:4240/assets/index-D5oEAk7F.js:8:105956)",
+        "Failed to load resource: net::ERR_FAILED",
+        "Error: Could not load /models/japanese-maple.glb: Failed to fetch\n    at http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js:4225:94383\n    at Object.c [as onError] (http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js:4236:27913)\n    at http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js:5:36963",
+        "Failed to load resource: net::ERR_FAILED",
+        "TypeError: Failed to fetch dynamically imported module: http://127.0.0.1:4240/assets/GalleryCanvas-CGA9s_zE.js"
+      ],
+      "httpErrors": [],
+      "failedRequests": [
+        {
+          "requestId": "4516.91",
+          "timestamp": 665025.900682,
+          "type": "Fetch",
+          "errorText": "net::ERR_FAILED",
+          "canceled": false
+        },
+        {
+          "requestId": "4516.133",
+          "timestamp": 665029.02222,
+          "type": "Script",
+          "errorText": "net::ERR_FAILED",
+          "canceled": false
+        }
+      ],
+      "harnessError": null
+    }
+  },
+  "normalChecks": 691,
+  "bundles": {
+    "before": {
+      "mainJS": {
+        "name": "index-B_Qo0pky.js",
+        "bytes": 247509,
+        "gzipBytes": 76983
+      },
+      "galleryJS": {
+        "name": "GalleryCanvas-DOAiFMj4.js",
+        "bytes": 1018886,
+        "gzipBytes": 276306
+      },
+      "css": {
+        "name": "index-Df-D-zNQ.css",
+        "bytes": 16801,
+        "gzipBytes": 3981
+      }
+    },
+    "after": {
+      "mainJS": {
+        "name": "index-D5oEAk7F.js",
+        "bytes": 248281,
+        "gzipBytes": 77266
+      },
+      "galleryJS": {
+        "name": "GalleryCanvas-CGA9s_zE.js",
+        "bytes": 1018886,
+        "gzipBytes": 276306
+      },
+      "css": {
+        "name": "index-CAU8C65L.css",
+        "bytes": 16883,
+        "gzipBytes": 4012
+      }
+    }
+  },
+  "renderer": [
+    {
+      "width": 1440,
+      "height": 900,
+      "calls": 313,
+      "triangles": 34854,
+      "geometries": 308,
+      "textures": 4,
+      "skinned": 301
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "calls": 313,
+      "triangles": 34854,
+      "geometries": 308,
+      "textures": 4,
+      "skinned": 301
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "calls": 313,
+      "triangles": 34854,
+      "geometries": 308,
+      "textures": 4,
+      "skinned": 301
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "calls": 313,
+      "triangles": 34854,
+      "geometries": 308,
+      "textures": 4,
+      "skinned": 301
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "calls": 313,
+      "triangles": 34854,
+      "geometries": 308,
+      "textures": 4,
+      "skinned": 301
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "calls": 313,
+      "triangles": 34854,
+      "geometries": 308,
+      "textures": 4,
+      "skinned": 301
+    }
+  ]
+}

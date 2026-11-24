@@ -1,0 +1,427 @@
+﻿[
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\App.tsx",
+        "Unchanged":  true,
+        "Hash":  "365BF3B19B9B5284588F278F31AEAC393B8B220E6235CE508D219AEB3D742013"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\main.tsx",
+        "Unchanged":  true,
+        "Hash":  "20192AE95C10DFB814B7EAB353026100A7464139E702ABFBDDD05DDAFF420E48"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\vite-env.d.ts",
+        "Unchanged":  true,
+        "Hash":  "E2534C64F488C801F0F0080E4A04F4B8793FCE5FEC159EB53280C1652F520FCA"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\components\\EditorialSections.tsx",
+        "Unchanged":  true,
+        "Hash":  "BE9E52D7E2F26B76C9634033A7EC1958AC6023F1320A9F65F2B3E824DEB97998"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\components\\FeaturedWorkIndex.tsx",
+        "Unchanged":  true,
+        "Hash":  "41662A5D0A32E958D34BB2001635429B14EA3E840B98E0A95546D0FE4A450A54"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\components\\HeroCopy.tsx",
+        "Unchanged":  true,
+        "Hash":  "906FB61E4CAE6DDD58858D7BA1E1E0D3F258CDDEA148B5DDA131A37487377442"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\components\\SiteHeader.tsx",
+        "Unchanged":  true,
+        "Hash":  "5096F2439DA1D69F2DEF7557711ABDDDC4F414EA71B91A597A2EF900CC360F96"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\ExhibitionPrimitives.tsx",
+        "Unchanged":  true,
+        "Hash":  "131F321F088DE6FF026B99737544EE9A0DCA91A27495189C998FD743CE638860"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\ExhibitionVideo.tsx",
+        "Unchanged":  true,
+        "Hash":  "6049722823345D075BB0E0E7886025B04407AF98188EEA325D03413455AE2A68"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\fire-sprinkler.media.ts",
+        "Unchanged":  true,
+        "Hash":  "B26802094DFD84088E8EF6DFF5523AE1F543456F2F1BAC71EB0DC59E93D6BCD9"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\FireSprinklerExhibition.tsx",
+        "Unchanged":  true,
+        "Hash":  "405F9A1D57FC367F712DA98196FABA4AD754B16947D7FAAA4FA260E660CC4148"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\icameal.media.ts",
+        "Unchanged":  true,
+        "Hash":  "68348404855A2C205EAC0585AC8CAA14F3E024A2F4C3194340528ADABE229766"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\IcaMealExhibition.tsx",
+        "Unchanged":  true,
+        "Hash":  "9B0C3E31C5F50CAB290CD165C3250823E77B284E9114B272740293D792CB2116"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\ProjectExhibitionRegion.tsx",
+        "Unchanged":  true,
+        "Hash":  "7A249D9558EB4D8F4015CD24C6DA8D0DE53D25EB260D415B3DA23A4D59EF3359"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\projects.ts",
+        "Unchanged":  true,
+        "Hash":  "64FC2598837242AA8516B49D9369E674EFBDCB0686EAC42F106B2E6BB9C5BE80"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\exhibitions\\useProjectNavigation.ts",
+        "Unchanged":  true,
+        "Hash":  "9D6C857907C5952F773AAF8D983E318C6148DD4EE7E90C740C1740B10F3BB2C0"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\ArchitecturalPortal.tsx",
+        "Unchanged":  true,
+        "Hash":  "CD7E162AB015F5417CF51580E3C630924BBEDEF438033C45786F12A829224492"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\ExhibitionPlinth.tsx",
+        "Unchanged":  true,
+        "Hash":  "788FA0E08E8A5BB37BD520714B3E23F9F14921CC008F043D497BDC9AE5AA6365"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\gallery-placeholder.svg",
+        "Unchanged":  true,
+        "Hash":  "76DFAE1E39251CD72DED5913FB296F939D405144AC9069FF092DB828B088FA62"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\gallery.config.ts",
+        "Unchanged":  true,
+        "Hash":  "1D20B331829F2675EA77469D4B67E62F453535B75B222DBFB228742F58ECC8D1"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\GalleryCamera.tsx",
+        "Unchanged":  true,
+        "Hash":  "39E9C79D6BF277C36FD0D06B8B73666A58A347090588ACDD50B9700D20476737"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\GalleryCanvas.tsx",
+        "Unchanged":  true,
+        "Hash":  "A969BA1A5B7C00F6601FF9C48064157F574A091310FFB67F2B794CE74F826360"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\GalleryEnvironment.tsx",
+        "Unchanged":  true,
+        "Hash":  "AF1D46451E7505AF7978309C4B3793AEBAF977EBE6F08471E0B560F8FB7D635F"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\GalleryErrorBoundary.tsx",
+        "Unchanged":  true,
+        "Hash":  "D1A3DC793C2BCA9EBCE981DDE31EA8373BE1933B8B7681CE84A130F47B119CD0"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\GalleryLighting.tsx",
+        "Unchanged":  true,
+        "Hash":  "E254BD5F66FFE52C77B14AB45895524BEDB876D93E16006D954198DC01B8F59A"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\GalleryPlaceholder.tsx",
+        "Unchanged":  true,
+        "Hash":  "C2A811C18215E557BF6C9F0287301AA11DA316954D95823CBF175E332E14A8F4"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\GalleryScene.tsx",
+        "Unchanged":  true,
+        "Hash":  "F83B6E59B51FD08FB5A4CA64720371DBF57B5F450B85606A2170ACB50762A6BA"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\GalleryViewport.tsx",
+        "Unchanged":  true,
+        "Hash":  "83738064416DBAB4D83B732994F4FEA2958C2D059FD44AC5A24B55C2067973D9"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\JapaneseMaple.tsx",
+        "Unchanged":  true,
+        "Hash":  "D4720D39730D463DE814A6FB25198DFBE8258395AD6CDDDEAE18EEC93C040AD3"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\gallery\\maple.asset.ts",
+        "Unchanged":  true,
+        "Hash":  "402293EDCA12CF9D3CAC5187D05D3CBE3409E897D424669A1CA5958E0861B959"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\hooks\\useGalleryActivity.ts",
+        "Unchanged":  true,
+        "Hash":  "1054F363E5C39E772967019D7674C0DE82B2B0F75AC319FA212D15A62095576A"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\styles\\app.css",
+        "Unchanged":  true,
+        "Hash":  "AAB6AC72338BBEE8427E04D68023DD8700E225EF894A2CE6B955E3E03AC796F7"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\styles\\exhibitions.css",
+        "Unchanged":  true,
+        "Hash":  "A6770B9FF8BCD1C51A38D0884CF1BC2BE7B33256C59BD264A6DC0917F86BD940"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\styles\\fire-sprinkler.css",
+        "Unchanged":  true,
+        "Hash":  "70B8D98750C2BDCB7A7B220B0105B7350DA222D2542C11D619C24E9529B412A4"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\styles\\global.css",
+        "Unchanged":  true,
+        "Hash":  "CC805D1B9DB8430FC1E5826B889B8A6C90597F7B300326FFB709DAA473D759BA"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\src\\styles\\tokens.css",
+        "Unchanged":  true,
+        "Hash":  "6154FA092F106082A0F9AA7132129712FDB587BC79A36D5BD296AF0037C472E2"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\public\\models\\japanese-maple.glb",
+        "Unchanged":  true,
+        "Hash":  "167858B8C7E4F3E51B1FC702B1C61061741D5DECFE2B14FA277457EA6E15615D"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\public\\projects\\blender\\fire-sprinkler\\animation\\sprinkler-preview.mkv",
+        "Unchanged":  true,
+        "Hash":  "C01B5972C09C991B0A9791157C049C03A81BF3761DFF8B33CBCF08C6C8B26428"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\public\\projects\\blender\\fire-sprinkler\\images\\assembly.png",
+        "Unchanged":  true,
+        "Hash":  "21F601A02B4A923F515E26E75C6C01B99FE89460E9822811605FD2DE68ADA44F"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\public\\projects\\blender\\fire-sprinkler\\images\\hero.png",
+        "Unchanged":  true,
+        "Hash":  "7CE2001EF05CB2C1C45F556C96A89C801F3F0865574D5F87BCC6E822FB8E8525"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\public\\projects\\blender\\fire-sprinkler\\images\\material.png",
+        "Unchanged":  true,
+        "Hash":  "B57CBBF1C7E82DE8370819225162B0F36C796BD39204568185DE0F7605372781"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\public\\projects\\blender\\fire-sprinkler\\images\\technical.png",
+        "Unchanged":  true,
+        "Hash":  "5FE0BE127E6912229775D7A6EB4DBFE683641D4ABD7D660E3BB8C3F932E500DB"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\animation\\sprinkler-simulation.mkv",
+        "Unchanged":  true,
+        "Hash":  "C01B5972C09C991B0A9791157C049C03A81BF3761DFF8B33CBCF08C6C8B26428"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\blend-files\\fire sprikler.blend",
+        "Unchanged":  true,
+        "Hash":  "3FF753866E3BB81BCE3ED35EDB64F33C93439743969A799686E23855D16B5C56"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\fire-sprinkler\\brass.png",
+        "Unchanged":  true,
+        "Hash":  "D13D00E8255E4F24696DDAB56DCC61216FBD45BD3A062359BF8C53A3A1C82354"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\fire-sprinkler\\collision.png",
+        "Unchanged":  true,
+        "Hash":  "AD63092C0188C0681F7C528BA64FFE6EC82E082B69EC617A1FEF7AA19F87E36E"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\fire-sprinkler\\collision2.png",
+        "Unchanged":  true,
+        "Hash":  "55BF34906B811503F551E9D072FC10246474D09F83968C4EA0CA4E04CF4D37DC"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\fire-sprinkler\\glass.png",
+        "Unchanged":  true,
+        "Hash":  "4835D07EED6061C47C26E7ED557EF06ED753A73296DC38C985F8CD5A954A9CFD"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\fire-sprinkler\\model preview.png",
+        "Unchanged":  true,
+        "Hash":  "7CE2001EF05CB2C1C45F556C96A89C801F3F0865574D5F87BCC6E822FB8E8525"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\fire-sprinkler\\stainless steel.png",
+        "Unchanged":  true,
+        "Hash":  "E205C6D088F11EC2FECBF4BA40FE7295FF83427D6C550DDA9AEF46E6EA5C7D28"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\documentation\\README.md",
+        "Unchanged":  true,
+        "Hash":  "EF0EBE739D6A1A769A02FFF732B13D9D286E1E23EB220F6777C277125811D115"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\references\\uchiko-hero-dry-aged-duck.webp",
+        "Unchanged":  true,
+        "Hash":  "D383D023099B2E8331567A5D305752F3F58381BC6A42DEA3117A37D0468177FA"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\screenshots\\anggaran.png",
+        "Unchanged":  true,
+        "Hash":  "4AD41D614543355D5866E819E445FA38ED43875788471FA1229E576EE76E9B36"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\screenshots\\bahan.png",
+        "Unchanged":  true,
+        "Hash":  "06E5B9DDFFD6FD82FA9A7155CBC26ECE066DF3D06BCD3434DBD17197CC91447C"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\screenshots\\footer.png",
+        "Unchanged":  true,
+        "Hash":  "1AC1D2CB4FD45A593B417314E8E5B12A486A50105BBCA56B51003D32E643DA85"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\screenshots\\hero.png",
+        "Unchanged":  true,
+        "Hash":  "1FC22A7D9A2BA03DA17DCBDEDCAA954491826992AE4AAF1B96C7F5919162F309"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\screenshots\\katalog.png",
+        "Unchanged":  true,
+        "Hash":  "67AD6187D21DD362BC732A73A7642B12ADE5EE10B23DED8C6F7F779D67296B5A"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\screenshots\\monthly plan.png",
+        "Unchanged":  true,
+        "Hash":  "FE89FF68ABB43864460F448DB31B5529F403D6FD0BFA0E750046160D0A04CCB4"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\screenshots\\week plan.png",
+        "Unchanged":  true,
+        "Hash":  "8DE17ED321CCC66AC0B67551D7BDC09F0D888A6717ADF42D1BCF1056E03DDBD6"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\source code\\app.js",
+        "Unchanged":  true,
+        "Hash":  "E9DE992063A108723AE90B8F9B874DAF8C9C38B56F219B4A9E8CB1AD062E9AEC"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\source code\\index.html",
+        "Unchanged":  true,
+        "Hash":  "6C5A30CD505A9B46C17F68E913DBF2C081FA37B2E17C002455678F49A95BA060"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\source code\\styles.css",
+        "Unchanged":  true,
+        "Hash":  "E481490188E60621A8C0EDB2F8CF05777849A7B05AEE0AB7F66F5BA5606EAB8D"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\source code\\supabase-client.js",
+        "Unchanged":  true,
+        "Hash":  "1E29E0AE12355BA46B752E0F2DDB1632302136E9803184EB0D8805A23BCC816F"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\source code\\SUPABASE_SETUP.md",
+        "Unchanged":  true,
+        "Hash":  "EEB0C60E1348AC3EE0C5157B0E1E4C518D86F28BF04D68034A2DE68F298C5701"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\source code\\assets\\hero-botanical.svg",
+        "Unchanged":  true,
+        "Hash":  "ADB90E8F87BFB027534B793527590EC56D64612A4FD5993B53EBA2BF8FA7382E"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\source code\\supabase\\migrations\\20261118000000_expand_recipe_catalog_and_local_atlas.sql",
+        "Unchanged":  true,
+        "Hash":  "95B258C8E66D65A955E70FA3BFCECFAC0642A0AA32D9CEBCEE7AB367523145BB"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\icameal\\source code\\supabase\\migrations\\20261118020000_replace_recipe_atlas_with_real_photos.sql",
+        "Unchanged":  true,
+        "Hash":  "72099B0A77C1A3D541211AF1816A00F486E335683F15574E622FBD0427A3EF3D"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\.gitignore",
+        "Unchanged":  true,
+        "Hash":  "396A575B51DA55DA7F74C67E7AFDDF4A60ADD59022E5B6FFD8379F01FA895F49"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\index.html",
+        "Unchanged":  true,
+        "Hash":  "E068E9DA607CB14B242910F1E6A140D691FEB1B34B326F1AD3CA7FF0C960E6F6"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\mission-004b.html",
+        "Unchanged":  true,
+        "Hash":  "DD11AF3121D54397E45660C88403649D35468302C93E8015E08F7A7D7D297EC8"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\MISSION-006A.md",
+        "Unchanged":  true,
+        "Hash":  "6FAF3EF2BBE24598B9EE855FEB03CF5BD1C8C37A385EAF1B948E705BC08960E5"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\MISSION-006B.md",
+        "Unchanged":  true,
+        "Hash":  "5FC42FFA3A279251D1783FA7AD7489D5D627BB920DAED58663187FA0CE0B63F2"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\MISSION-006C.md",
+        "Unchanged":  true,
+        "Hash":  "ADB183544FE13A8BA53132FC3BF00882DD876425523248E86301C52340932EE9"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\MISSION-007.md",
+        "Unchanged":  true,
+        "Hash":  "00698EF13B15529B64D018AE82DF1AD76EA6EA32BDB01155F4E5EB73254B07EE"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\MISSION-008A.md",
+        "Unchanged":  true,
+        "Hash":  "1168862584E67DAB4059CDB8AAE12DCADE4014A793FC822558797768A78D3B7E"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\MISSION-008B.md",
+        "Unchanged":  true,
+        "Hash":  "3B9D4D5862D3C96D0459E93CD43BBDBA55E0C4C34837F619DFCDE0D8BC98C339"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\MISSION-008C-A.md",
+        "Unchanged":  true,
+        "Hash":  "A1A1AF5C6EB948A31E28CAB76E96299C71A63CA2AC63B91C784737AADF8F8504"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\MISSION-008C-B.md",
+        "Unchanged":  true,
+        "Hash":  "B2DED0E0783114C882A136BB344FEC71D8035640D61D879481DE0D732442040F"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\package-lock.json",
+        "Unchanged":  true,
+        "Hash":  "841E22A1FC1F58181B258BB61A5AB8C4C6A52D6463448712EE2EB09CDCBAA884"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\package.json",
+        "Unchanged":  true,
+        "Hash":  "4775F0328AA9753AD08ED9C60CC118D444A73A51DBF83AED662C30E46B90D7B1"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\README.md",
+        "Unchanged":  true,
+        "Hash":  "CD155D0F3750D3D0F26B39A1F86942106751ED0710C231875936D587B196367F"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\tsconfig.app.json",
+        "Unchanged":  true,
+        "Hash":  "8D072177DD9CAA120C74B657684C21F7EEDAD5CC8B99AD9FC4A85CBFDC5580E1"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\tsconfig.json",
+        "Unchanged":  true,
+        "Hash":  "770B4140BBB581E2DFD9EA9946FFC9C75A1D86BA7D2DB5F77C83E37CBDF9D808"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\tsconfig.node.json",
+        "Unchanged":  true,
+        "Hash":  "D7E09F25ACE085A5F2F189735AC78DD3456559842DE442D9066A8129CD48CC94"
+    },
+    {
+        "Path":  "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\vite.config.ts",
+        "Unchanged":  true,
+        "Hash":  "502EB069F8795A29EDE9DCF83D0B4B46D355D14106E61C4CACE62492D9389AF0"
+    }
+]

@@ -1,0 +1,4303 @@
+{
+  "url": "http://127.0.0.1:4251",
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "failedRequests": [],
+  "httpErrors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4251/?audit=1",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=2",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=3",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=4",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=5",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=6",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=7",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=8",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=9",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=10",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=11",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=12",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=13",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=14",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=15",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=16",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=17",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=18",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=19",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/katalog-DHUrzRTq.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/?audit=20",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4251/assets/index-CAU8C65L.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4251/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    }
+  ],
+  "viewports": [],
+  "interactions": [],
+  "checks": [
+    {
+      "name": "1440 sample 0: expected scene counts and original triangle/texture/bone counts",
+      "passed": false,
+      "evidence": {
+        "firstCanvasMs": 185.10000002384186,
+        "firstContextMs": 438.2000000476837,
+        "firstModelFrameMs": 932.7000000476837,
+        "readyMs": 1000.7000000476837,
+        "glb": [
+          {
+            "startTime": 450.5,
+            "duration": 77.80000007152557,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 25.700000047683716,
+            "duration": 25.100000023841858,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 86.30000007152557,
+            "duration": 23.799999952316284,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 309,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        },
+        "mode": "always",
+        "frame": 112,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.20597500000000013,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "1440 sample 0: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.20597500000000013,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1510.6000000238419,
+          "frames": 272,
+          "fps": 180.06090294962732,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.5,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.699999928474426
+        }
+      }
+    },
+    {
+      "name": "1440 sample 1: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 349.1999999284744,
+        "firstContextMs": 405.6999999284744,
+        "firstModelFrameMs": 757.0999999046326,
+        "readyMs": 758.2999999523163,
+        "glb": [
+          {
+            "startTime": 412,
+            "duration": 26.199999928474426,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 8.5,
+            "duration": 16.59999990463257,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 49,
+            "duration": 30.299999952316284,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        },
+        "mode": "always",
+        "frame": 151,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2853549999833111,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "1440 sample 1: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2853549999833111,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1515.2000000476837,
+          "frames": 273,
+          "fps": 180.1742344188283,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "1440 sample 2: expected scene counts and original triangle/texture/bone counts",
+      "passed": false,
+      "evidence": {
+        "firstCanvasMs": 334.7000000476837,
+        "firstContextMs": 392.3000000715256,
+        "firstModelFrameMs": 756.9000000953674,
+        "readyMs": 777.6000000238419,
+        "glb": [
+          {
+            "startTime": 397.2000000476837,
+            "duration": 22.100000023841858,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 5.400000095367432,
+            "duration": 12.599999904632568,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 34.90000009536743,
+            "duration": 23.199999928474426,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 309,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        },
+        "mode": "always",
+        "frame": 150,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.28073499996662177,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "1440 sample 2: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.28073499996662177,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1506,
+          "frames": 271,
+          "fps": 179.9468791500664,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.700000047683716
+        }
+      }
+    },
+    {
+      "name": "1440: reduced motion idles",
+      "passed": true
+    },
+    {
+      "name": "1024 sample 0: expected scene counts and original triangle/texture/bone counts",
+      "passed": false,
+      "evidence": {
+        "firstCanvasMs": 353,
+        "firstContextMs": 418.10000002384186,
+        "firstModelFrameMs": 769.3000000715256,
+        "readyMs": 789.3999999761581,
+        "glb": [
+          {
+            "startTime": 423.10000002384186,
+            "duration": 25.899999976158142,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 6.399999976158142,
+            "duration": 13,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 38.700000047683716,
+            "duration": 23.399999976158142,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 309,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            8.774145774907225
+          ],
+          "quaternion": [
+            -0.062318413442528905,
+            0,
+            0,
+            0.9980563187245528
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 147,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2751700000166897,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "1024 sample 0: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2751700000166897,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1504.2000000476837,
+          "frames": 271,
+          "fps": 180.16221246603456,
+          "cpuP50Ms": 0.2999999523162842,
+          "cpuP95Ms": 0.5,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.699999928474426
+        }
+      }
+    },
+    {
+      "name": "1024 sample 1: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 340.7999999523163,
+        "firstContextMs": 405.2999999523163,
+        "firstModelFrameMs": 748.3999999761581,
+        "readyMs": 749.1000000238419,
+        "glb": [
+          {
+            "startTime": 410.39999997615814,
+            "duration": 25,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 5.399999976158142,
+            "duration": 11.5,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 33.699999928474426,
+            "duration": 23.800000071525574,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            8.774145774907225
+          ],
+          "quaternion": [
+            -0.062318413442528905,
+            0,
+            0,
+            0.9980563187245528
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 155,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2922149999916558,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "1024 sample 1: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2922149999916558,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1507.7000000476837,
+          "frames": 271,
+          "fps": 179.74398089237192,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.3999999761581421,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "1024 sample 2: expected scene counts and original triangle/texture/bone counts",
+      "passed": false,
+      "evidence": {
+        "firstCanvasMs": 349.8000000715256,
+        "firstContextMs": 406,
+        "firstModelFrameMs": 759.1000000238419,
+        "readyMs": 780.7000000476837,
+        "glb": [
+          {
+            "startTime": 411.2000000476837,
+            "duration": 23.100000023841858,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 10,
+            "duration": 16.100000023841858,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 50.200000047683716,
+            "duration": 22.699999928474426,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 309,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            8.774145774907225
+          ],
+          "quaternion": [
+            -0.062318413442528905,
+            0,
+            0,
+            0.9980563187245528
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 151,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.28304500001668964,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "1024 sample 2: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.28304500001668964,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1508.3999999761581,
+          "frames": 271,
+          "fps": 179.6605674915695,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "1024: reduced motion idles",
+      "passed": true
+    },
+    {
+      "name": "900 sample 0: expected scene counts and original triangle/texture/bone counts",
+      "passed": false,
+      "evidence": {
+        "firstCanvasMs": 343.5,
+        "firstContextMs": 408.3000000715256,
+        "firstModelFrameMs": 762.3000000715256,
+        "readyMs": 781.8000000715256,
+        "glb": [
+          {
+            "startTime": 413.2000000476837,
+            "duration": 22.600000023841858,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 6.600000023841858,
+            "duration": 14.700000047683716,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 36.800000071525574,
+            "duration": 22.199999928474426,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 309,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            11.504670662067044
+          ],
+          "quaternion": [
+            -0.04764373993607779,
+            0,
+            0,
+            0.9988643922199367
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 148,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.27972000001668973,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "900 sample 0: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.27972000001668973,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1501.7000000476837,
+          "frames": 270,
+          "fps": 179.79623093256086,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "900 sample 1: expected scene counts and original triangle/texture/bone counts",
+      "passed": false,
+      "evidence": {
+        "firstCanvasMs": 352.60000002384186,
+        "firstContextMs": 417.2999999523163,
+        "firstModelFrameMs": 759.1000000238419,
+        "readyMs": 778.8999999761581,
+        "glb": [
+          {
+            "startTime": 422.2999999523163,
+            "duration": 22.300000071525574,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 5.700000047683716,
+            "duration": 10.799999952316284,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 36.799999952316284,
+            "duration": 23.700000047683716,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 309,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            11.504670662067044
+          ],
+          "quaternion": [
+            -0.04764373993607779,
+            0,
+            0,
+            0.9988643922199367
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 151,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2829400000333791,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "900 sample 1: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2829400000333791,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1503.7000000476837,
+          "frames": 270,
+          "fps": 179.55709249946003,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "900 sample 2: expected scene counts and original triangle/texture/bone counts",
+      "passed": false,
+      "evidence": {
+        "firstCanvasMs": 332.7999999523163,
+        "firstContextMs": 390.39999997615814,
+        "firstModelFrameMs": 754.0999999046326,
+        "readyMs": 774.8999999761581,
+        "glb": [
+          {
+            "startTime": 395.5,
+            "duration": 22.799999952316284,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 5.099999904632568,
+            "duration": 11.300000071525574,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 32.5,
+            "duration": 21.399999976158142,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 309,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            11.504670662067044
+          ],
+          "quaternion": [
+            -0.04764373993607779,
+            0,
+            0,
+            0.9988643922199367
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 150,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.28087500000000043,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "900 sample 2: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.28087500000000043,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1511.3000000715256,
+          "frames": 272,
+          "fps": 179.97750280363064,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.699999928474426
+        }
+      }
+    },
+    {
+      "name": "900: reduced motion idles",
+      "passed": true
+    },
+    {
+      "name": "768 sample 0: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 342.7999999523163,
+        "firstContextMs": 407.7000000476837,
+        "firstModelFrameMs": 753.1000000238419,
+        "readyMs": 753.8999999761581,
+        "glb": [
+          {
+            "startTime": 412.60000002384186,
+            "duration": 22.5,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 7.600000023841858,
+            "duration": 11.100000023841858,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 37.89999997615814,
+            "duration": 23.100000023841858,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            9.067368421052631
+          ],
+          "quaternion": [
+            -0.060325455309488726,
+            0,
+            0,
+            0.9981787612655877
+          ],
+          "fov": 28.072486935852957
+        },
+        "mode": "always",
+        "frame": 154,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2903950000166897,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "768 sample 0: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2903950000166897,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1511.3999999761581,
+          "frames": 272,
+          "fps": 179.9655948155953,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.3999999761581421,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.699999928474426
+        }
+      }
+    },
+    {
+      "name": "768 sample 1: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 346.3000000715256,
+        "firstContextMs": 410.60000002384186,
+        "firstModelFrameMs": 752.8999999761581,
+        "readyMs": 753.6000000238419,
+        "glb": [
+          {
+            "startTime": 415.60000002384186,
+            "duration": 22.600000023841858,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 5.899999976158142,
+            "duration": 23.300000071525574,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 44.800000071525574,
+            "duration": 23.299999952316284,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            9.067368421052631
+          ],
+          "quaternion": [
+            -0.060325455309488726,
+            0,
+            0,
+            0.9981787612655877
+          ],
+          "fov": 28.072486935852957
+        },
+        "mode": "always",
+        "frame": 153,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2909899999916559,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "768 sample 1: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2909899999916559,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1507.1999999284744,
+          "frames": 271,
+          "fps": 179.80360935035864,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.699999928474426
+        }
+      }
+    },
+    {
+      "name": "768 sample 2: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 341.60000002384186,
+        "firstContextMs": 404.2999999523163,
+        "firstModelFrameMs": 749.2999999523163,
+        "readyMs": 750.1000000238419,
+        "glb": [
+          {
+            "startTime": 409.10000002384186,
+            "duration": 24.09999990463257,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 5.600000023841858,
+            "duration": 16.09999990463257,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 39.699999928474426,
+            "duration": 26.200000047683716,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            9.067368421052631
+          ],
+          "quaternion": [
+            -0.060325455309488726,
+            0,
+            0,
+            0.9981787612655877
+          ],
+          "fov": 28.072486935852957
+        },
+        "mode": "always",
+        "frame": 155,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.29239000003337906,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "768 sample 2: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.29239000003337906,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1506.3999999761581,
+          "frames": 271,
+          "fps": 179.8990971881898,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "768: reduced motion idles",
+      "passed": true
+    },
+    {
+      "name": "390 sample 0: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 337.7999999523163,
+        "firstContextMs": 396.7999999523163,
+        "firstModelFrameMs": 745.3999999761581,
+        "readyMs": 746.0999999046326,
+        "glb": [
+          {
+            "startTime": 401.6999999284744,
+            "duration": 22.700000047683716,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 6.899999976158142,
+            "duration": 11.100000023841858,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 37.799999952316284,
+            "duration": 21.5,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 156,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2952600000083451,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "390 sample 0: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2952600000083451,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1514.2999999523163,
+          "frames": 273,
+          "fps": 180.2813181064495,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "390 sample 1: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 339.3000000715256,
+        "firstContextMs": 399.7000000476837,
+        "firstModelFrameMs": 744.7000000476837,
+        "readyMs": 745.3000000715256,
+        "glb": [
+          {
+            "startTime": 405.8000000715256,
+            "duration": 23.199999928474426,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 5.900000095367432,
+            "duration": 15.099999904632568,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 38.90000009536743,
+            "duration": 22.09999990463257,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 154,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.29064000003337903,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "390 sample 1: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.29064000003337903,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1500.6999999284744,
+          "frames": 270,
+          "fps": 179.91603919029026,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.699999928474426
+        }
+      }
+    },
+    {
+      "name": "390 sample 2: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 345.5,
+        "firstContextMs": 409.8000000715256,
+        "firstModelFrameMs": 748.9000000953674,
+        "readyMs": 749.6000000238419,
+        "glb": [
+          {
+            "startTime": 414.40000009536743,
+            "duration": 22.299999952316284,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 7.300000071525574,
+            "duration": 16.799999952316284,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 40.10000002384186,
+            "duration": 21.899999976158142,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 154,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.29074500001668985,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "390 sample 2: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.29074500001668985,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1508.7000000476837,
+          "frames": 272,
+          "fps": 180.2876648713483,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.3999999761581421,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.699999928474426
+        }
+      }
+    },
+    {
+      "name": "390: reduced motion idles",
+      "passed": true
+    },
+    {
+      "name": "320 sample 0: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 342.60000002384186,
+        "firstContextMs": 402.3000000715256,
+        "firstModelFrameMs": 744.7000000476837,
+        "readyMs": 745.4000000953674,
+        "glb": [
+          {
+            "startTime": 407.40000009536743,
+            "duration": 22.5,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 10.100000023841858,
+            "duration": 11.800000071525574,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 42.60000002384186,
+            "duration": 23,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 153,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.28952000001668976,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "320 sample 0: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.28952000001668976,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1501.5,
+          "frames": 270,
+          "fps": 179.82017982017982,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "320 sample 1: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 336.89999997615814,
+        "firstContextMs": 401,
+        "firstModelFrameMs": 743.5,
+        "readyMs": 744.1999999284744,
+        "glb": [
+          {
+            "startTime": 405.7999999523163,
+            "duration": 22.5,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 6.099999904632568,
+            "duration": 10.900000095367432,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 34,
+            "duration": 21.799999952316284,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 156,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2953299999833112,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "320 sample 1: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2953299999833112,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1501.8999999761581,
+          "frames": 270,
+          "fps": 179.77228843750322,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "320 sample 2: expected scene counts and original triangle/texture/bone counts",
+      "passed": true,
+      "evidence": {
+        "firstCanvasMs": 340,
+        "firstContextMs": 401,
+        "firstModelFrameMs": 741.5,
+        "readyMs": 742.2999999523163,
+        "glb": [
+          {
+            "startTime": 405.7000000476837,
+            "duration": 23,
+            "transferSize": 4439492
+          }
+        ],
+        "js": [
+          {
+            "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+            "startTime": 6.100000023841858,
+            "duration": 15,
+            "transferSize": 77565,
+            "decodedBodySize": 248281
+          },
+          {
+            "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+            "startTime": 38.10000002384186,
+            "duration": 21,
+            "transferSize": 270757,
+            "decodedBodySize": 1000016
+          }
+        ],
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "skinned": 2,
+        "meshes": 2,
+        "materials": 2,
+        "skeletons": [
+          {
+            "bones": 21
+          }
+        ],
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        },
+        "mode": "always",
+        "frame": 155,
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.29221499999165584,
+          "running": true
+        },
+        "batching": {
+          "sourceLeafMeshes": 300,
+          "renderedLeafMeshes": 1,
+          "active": true
+        }
+      }
+    },
+    {
+      "name": "320 sample 2: active sway and single GLB",
+      "passed": true,
+      "evidence": {
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.29221499999165584,
+          "running": true
+        },
+        "frames": {
+          "elapsedMs": 1515.6000000238419,
+          "frames": 272,
+          "fps": 179.46687780134678,
+          "cpuP50Ms": 0.20000004768371582,
+          "cpuP95Ms": 0.30000007152557373,
+          "intervalP50Ms": 5.599999904632568,
+          "intervalP95Ms": 5.600000023841858
+        }
+      }
+    },
+    {
+      "name": "320: reduced motion idles",
+      "passed": true
+    },
+    {
+      "name": "IcaMeal exhibition first avoids gallery JS and model",
+      "passed": true
+    },
+    {
+      "name": "Fire Sprinkler exhibition first avoids gallery JS and model",
+      "passed": true
+    },
+    {
+      "name": "Production performance sampling has no unexpected errors",
+      "passed": true,
+      "evidence": {
+        "errors": [],
+        "http": [],
+        "failed": []
+      }
+    }
+  ],
+  "timings": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/157.0.8103.79",
+    "revision": "@6dc9bc3bdaea5c35ed6d41fceab2f7a3a2227c4f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "jsVersion": "15.7.112.43"
+  },
+  "performance": [
+    {
+      "width": 1440,
+      "height": 900,
+      "repeat": 0,
+      "firstCanvasMs": 185.10000002384186,
+      "firstContextMs": 438.2000000476837,
+      "firstModelFrameMs": 932.7000000476837,
+      "readyMs": 1000.7000000476837,
+      "glb": [
+        {
+          "startTime": 450.5,
+          "duration": 77.80000007152557,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 25.700000047683716,
+          "duration": 25.100000023841858,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 86.30000007152557,
+          "duration": 23.799999952316284,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 309,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          7.284634146341465
+        ],
+        "quaternion": [
+          -0.07486514711346325,
+          0,
+          0,
+          0.9971936671217281
+        ],
+        "fov": 43.08195183707688
+      },
+      "mode": "always",
+      "frame": 112,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.20597500000000013,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1510.6000000238419,
+        "frames": 272,
+        "fps": 180.06090294962732,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.5,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.699999928474426
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "repeat": 1,
+      "firstCanvasMs": 349.1999999284744,
+      "firstContextMs": 405.6999999284744,
+      "firstModelFrameMs": 757.0999999046326,
+      "readyMs": 758.2999999523163,
+      "glb": [
+        {
+          "startTime": 412,
+          "duration": 26.199999928474426,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 8.5,
+          "duration": 16.59999990463257,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 49,
+          "duration": 30.299999952316284,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          7.284634146341465
+        ],
+        "quaternion": [
+          -0.07486514711346325,
+          0,
+          0,
+          0.9971936671217281
+        ],
+        "fov": 43.08195183707688
+      },
+      "mode": "always",
+      "frame": 151,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.2853549999833111,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1515.2000000476837,
+        "frames": 273,
+        "fps": 180.1742344188283,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "repeat": 2,
+      "firstCanvasMs": 334.7000000476837,
+      "firstContextMs": 392.3000000715256,
+      "firstModelFrameMs": 756.9000000953674,
+      "readyMs": 777.6000000238419,
+      "glb": [
+        {
+          "startTime": 397.2000000476837,
+          "duration": 22.100000023841858,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 5.400000095367432,
+          "duration": 12.599999904632568,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 34.90000009536743,
+          "duration": 23.199999928474426,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 309,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          7.284634146341465
+        ],
+        "quaternion": [
+          -0.07486514711346325,
+          0,
+          0,
+          0.9971936671217281
+        ],
+        "fov": 43.08195183707688
+      },
+      "mode": "always",
+      "frame": 150,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.28073499996662177,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1506,
+        "frames": 271,
+        "fps": 179.9468791500664,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.700000047683716
+      },
+      "drawDistribution": {
+        "main": [
+          {
+            "name": "gallery-floor",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-left-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-header",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "Plane182",
+            "skinned": true,
+            "material": "Japanese Maple-Trunk"
+          },
+          {
+            "name": "japanese-maple-leaf-batch",
+            "skinned": true,
+            "material": "Japanese Maple-Leaf"
+          }
+        ],
+        "shadow": [
+          {
+            "name": "portal-left-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-header",
+            "skinned": false
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false
+          },
+          {
+            "name": "Plane182",
+            "skinned": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "repeat": 0,
+      "firstCanvasMs": 353,
+      "firstContextMs": 418.10000002384186,
+      "firstModelFrameMs": 769.3000000715256,
+      "readyMs": 789.3999999761581,
+      "glb": [
+        {
+          "startTime": 423.10000002384186,
+          "duration": 25.899999976158142,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 6.399999976158142,
+          "duration": 13,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 38.700000047683716,
+          "duration": 23.399999976158142,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 309,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          8.774145774907225
+        ],
+        "quaternion": [
+          -0.062318413442528905,
+          0,
+          0,
+          0.9980563187245528
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 147,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.2751700000166897,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1504.2000000476837,
+        "frames": 271,
+        "fps": 180.16221246603456,
+        "cpuP50Ms": 0.2999999523162842,
+        "cpuP95Ms": 0.5,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.699999928474426
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "repeat": 1,
+      "firstCanvasMs": 340.7999999523163,
+      "firstContextMs": 405.2999999523163,
+      "firstModelFrameMs": 748.3999999761581,
+      "readyMs": 749.1000000238419,
+      "glb": [
+        {
+          "startTime": 410.39999997615814,
+          "duration": 25,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 5.399999976158142,
+          "duration": 11.5,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 33.699999928474426,
+          "duration": 23.800000071525574,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          8.774145774907225
+        ],
+        "quaternion": [
+          -0.062318413442528905,
+          0,
+          0,
+          0.9980563187245528
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 155,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.2922149999916558,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1507.7000000476837,
+        "frames": 271,
+        "fps": 179.74398089237192,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.3999999761581421,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "repeat": 2,
+      "firstCanvasMs": 349.8000000715256,
+      "firstContextMs": 406,
+      "firstModelFrameMs": 759.1000000238419,
+      "readyMs": 780.7000000476837,
+      "glb": [
+        {
+          "startTime": 411.2000000476837,
+          "duration": 23.100000023841858,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 10,
+          "duration": 16.100000023841858,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 50.200000047683716,
+          "duration": 22.699999928474426,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 309,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          8.774145774907225
+        ],
+        "quaternion": [
+          -0.062318413442528905,
+          0,
+          0,
+          0.9980563187245528
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 151,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.28304500001668964,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1508.3999999761581,
+        "frames": 271,
+        "fps": 179.6605674915695,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      },
+      "drawDistribution": {
+        "main": [
+          {
+            "name": "gallery-floor",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-left-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-header",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "Plane182",
+            "skinned": true,
+            "material": "Japanese Maple-Trunk"
+          },
+          {
+            "name": "japanese-maple-leaf-batch",
+            "skinned": true,
+            "material": "Japanese Maple-Leaf"
+          }
+        ],
+        "shadow": [
+          {
+            "name": "portal-left-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-header",
+            "skinned": false
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false
+          },
+          {
+            "name": "Plane182",
+            "skinned": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "repeat": 0,
+      "firstCanvasMs": 343.5,
+      "firstContextMs": 408.3000000715256,
+      "firstModelFrameMs": 762.3000000715256,
+      "readyMs": 781.8000000715256,
+      "glb": [
+        {
+          "startTime": 413.2000000476837,
+          "duration": 22.600000023841858,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 6.600000023841858,
+          "duration": 14.700000047683716,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 36.800000071525574,
+          "duration": 22.199999928474426,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 309,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          11.504670662067044
+        ],
+        "quaternion": [
+          -0.04764373993607779,
+          0,
+          0,
+          0.9988643922199367
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 148,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.27972000001668973,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1501.7000000476837,
+        "frames": 270,
+        "fps": 179.79623093256086,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      }
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "repeat": 1,
+      "firstCanvasMs": 352.60000002384186,
+      "firstContextMs": 417.2999999523163,
+      "firstModelFrameMs": 759.1000000238419,
+      "readyMs": 778.8999999761581,
+      "glb": [
+        {
+          "startTime": 422.2999999523163,
+          "duration": 22.300000071525574,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 5.700000047683716,
+          "duration": 10.799999952316284,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 36.799999952316284,
+          "duration": 23.700000047683716,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 309,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          11.504670662067044
+        ],
+        "quaternion": [
+          -0.04764373993607779,
+          0,
+          0,
+          0.9988643922199367
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 151,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.2829400000333791,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1503.7000000476837,
+        "frames": 270,
+        "fps": 179.55709249946003,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      }
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "repeat": 2,
+      "firstCanvasMs": 332.7999999523163,
+      "firstContextMs": 390.39999997615814,
+      "firstModelFrameMs": 754.0999999046326,
+      "readyMs": 774.8999999761581,
+      "glb": [
+        {
+          "startTime": 395.5,
+          "duration": 22.799999952316284,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 5.099999904632568,
+          "duration": 11.300000071525574,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 32.5,
+          "duration": 21.399999976158142,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 309,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          1.8,
+          2.7,
+          11.504670662067044
+        ],
+        "quaternion": [
+          -0.04764373993607779,
+          0,
+          0,
+          0.9988643922199367
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 150,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.28087500000000043,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1511.3000000715256,
+        "frames": 272,
+        "fps": 179.97750280363064,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.699999928474426
+      },
+      "drawDistribution": {
+        "main": [
+          {
+            "name": "gallery-floor",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-left-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-header",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "Plane182",
+            "skinned": true,
+            "material": "Japanese Maple-Trunk"
+          },
+          {
+            "name": "japanese-maple-leaf-batch",
+            "skinned": true,
+            "material": "Japanese Maple-Leaf"
+          }
+        ],
+        "shadow": [
+          {
+            "name": "portal-left-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-header",
+            "skinned": false
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false
+          },
+          {
+            "name": "Plane182",
+            "skinned": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "repeat": 0,
+      "firstCanvasMs": 342.7999999523163,
+      "firstContextMs": 407.7000000476837,
+      "firstModelFrameMs": 753.1000000238419,
+      "readyMs": 753.8999999761581,
+      "glb": [
+        {
+          "startTime": 412.60000002384186,
+          "duration": 22.5,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 7.600000023841858,
+          "duration": 11.100000023841858,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 37.89999997615814,
+          "duration": 23.100000023841858,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          9.067368421052631
+        ],
+        "quaternion": [
+          -0.060325455309488726,
+          0,
+          0,
+          0.9981787612655877
+        ],
+        "fov": 28.072486935852957
+      },
+      "mode": "always",
+      "frame": 154,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.2903950000166897,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1511.3999999761581,
+        "frames": 272,
+        "fps": 179.9655948155953,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.3999999761581421,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.699999928474426
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "repeat": 1,
+      "firstCanvasMs": 346.3000000715256,
+      "firstContextMs": 410.60000002384186,
+      "firstModelFrameMs": 752.8999999761581,
+      "readyMs": 753.6000000238419,
+      "glb": [
+        {
+          "startTime": 415.60000002384186,
+          "duration": 22.600000023841858,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 5.899999976158142,
+          "duration": 23.300000071525574,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 44.800000071525574,
+          "duration": 23.299999952316284,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          9.067368421052631
+        ],
+        "quaternion": [
+          -0.060325455309488726,
+          0,
+          0,
+          0.9981787612655877
+        ],
+        "fov": 28.072486935852957
+      },
+      "mode": "always",
+      "frame": 153,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.2909899999916559,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1507.1999999284744,
+        "frames": 271,
+        "fps": 179.80360935035864,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.699999928474426
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "repeat": 2,
+      "firstCanvasMs": 341.60000002384186,
+      "firstContextMs": 404.2999999523163,
+      "firstModelFrameMs": 749.2999999523163,
+      "readyMs": 750.1000000238419,
+      "glb": [
+        {
+          "startTime": 409.10000002384186,
+          "duration": 24.09999990463257,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 5.600000023841858,
+          "duration": 16.09999990463257,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 39.699999928474426,
+          "duration": 26.200000047683716,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          9.067368421052631
+        ],
+        "quaternion": [
+          -0.060325455309488726,
+          0,
+          0,
+          0.9981787612655877
+        ],
+        "fov": 28.072486935852957
+      },
+      "mode": "always",
+      "frame": 155,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.29239000003337906,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1506.3999999761581,
+        "frames": 271,
+        "fps": 179.8990971881898,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      },
+      "drawDistribution": {
+        "main": [
+          {
+            "name": "gallery-floor",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-left-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-header",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "Plane182",
+            "skinned": true,
+            "material": "Japanese Maple-Trunk"
+          },
+          {
+            "name": "japanese-maple-leaf-batch",
+            "skinned": true,
+            "material": "Japanese Maple-Leaf"
+          }
+        ],
+        "shadow": [
+          {
+            "name": "portal-left-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-header",
+            "skinned": false
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false
+          },
+          {
+            "name": "Plane182",
+            "skinned": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "repeat": 0,
+      "firstCanvasMs": 337.7999999523163,
+      "firstContextMs": 396.7999999523163,
+      "firstModelFrameMs": 745.3999999761581,
+      "readyMs": 746.0999999046326,
+      "glb": [
+        {
+          "startTime": 401.6999999284744,
+          "duration": 22.700000047683716,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 6.899999976158142,
+          "duration": 11.100000023841858,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 37.799999952316284,
+          "duration": 21.5,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          7.12
+        ],
+        "quaternion": [
+          -0.07656624519001026,
+          0,
+          0,
+          0.9970644964582297
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 156,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.2952600000083451,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1514.2999999523163,
+        "frames": 273,
+        "fps": 180.2813181064495,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "repeat": 1,
+      "firstCanvasMs": 339.3000000715256,
+      "firstContextMs": 399.7000000476837,
+      "firstModelFrameMs": 744.7000000476837,
+      "readyMs": 745.3000000715256,
+      "glb": [
+        {
+          "startTime": 405.8000000715256,
+          "duration": 23.199999928474426,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 5.900000095367432,
+          "duration": 15.099999904632568,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 38.90000009536743,
+          "duration": 22.09999990463257,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          7.12
+        ],
+        "quaternion": [
+          -0.07656624519001026,
+          0,
+          0,
+          0.9970644964582297
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 154,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.29064000003337903,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1500.6999999284744,
+        "frames": 270,
+        "fps": 179.91603919029026,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.699999928474426
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "repeat": 2,
+      "firstCanvasMs": 345.5,
+      "firstContextMs": 409.8000000715256,
+      "firstModelFrameMs": 748.9000000953674,
+      "readyMs": 749.6000000238419,
+      "glb": [
+        {
+          "startTime": 414.40000009536743,
+          "duration": 22.299999952316284,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 7.300000071525574,
+          "duration": 16.799999952316284,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 40.10000002384186,
+          "duration": 21.899999976158142,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          7.12
+        ],
+        "quaternion": [
+          -0.07656624519001026,
+          0,
+          0,
+          0.9970644964582297
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 154,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.29074500001668985,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1508.7000000476837,
+        "frames": 272,
+        "fps": 180.2876648713483,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.3999999761581421,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.699999928474426
+      },
+      "drawDistribution": {
+        "main": [
+          {
+            "name": "gallery-floor",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-left-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-header",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "Plane182",
+            "skinned": true,
+            "material": "Japanese Maple-Trunk"
+          },
+          {
+            "name": "japanese-maple-leaf-batch",
+            "skinned": true,
+            "material": "Japanese Maple-Leaf"
+          }
+        ],
+        "shadow": [
+          {
+            "name": "portal-left-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-header",
+            "skinned": false
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false
+          },
+          {
+            "name": "Plane182",
+            "skinned": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "repeat": 0,
+      "firstCanvasMs": 342.60000002384186,
+      "firstContextMs": 402.3000000715256,
+      "firstModelFrameMs": 744.7000000476837,
+      "readyMs": 745.4000000953674,
+      "glb": [
+        {
+          "startTime": 407.40000009536743,
+          "duration": 22.5,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 10.100000023841858,
+          "duration": 11.800000071525574,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 42.60000002384186,
+          "duration": 23,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          7.151249999999999
+        ],
+        "quaternion": [
+          -0.07623748479578465,
+          0,
+          0,
+          0.9970896879980318
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 153,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.28952000001668976,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1501.5,
+        "frames": 270,
+        "fps": 179.82017982017982,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      }
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "repeat": 1,
+      "firstCanvasMs": 336.89999997615814,
+      "firstContextMs": 401,
+      "firstModelFrameMs": 743.5,
+      "readyMs": 744.1999999284744,
+      "glb": [
+        {
+          "startTime": 405.7999999523163,
+          "duration": 22.5,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 6.099999904632568,
+          "duration": 10.900000095367432,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 34,
+          "duration": 21.799999952316284,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          7.151249999999999
+        ],
+        "quaternion": [
+          -0.07623748479578465,
+          0,
+          0,
+          0.9970896879980318
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 156,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.2953299999833112,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1501.8999999761581,
+        "frames": 270,
+        "fps": 179.77228843750322,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      }
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "repeat": 2,
+      "firstCanvasMs": 340,
+      "firstContextMs": 401,
+      "firstModelFrameMs": 741.5,
+      "readyMs": 742.2999999523163,
+      "glb": [
+        {
+          "startTime": 405.7000000476837,
+          "duration": 23,
+          "transferSize": 4439492
+        }
+      ],
+      "js": [
+        {
+          "name": "http://127.0.0.1:4251/assets/index-DwJw-dze.js",
+          "startTime": 6.100000023841858,
+          "duration": 15,
+          "transferSize": 77565,
+          "decodedBodySize": 248281
+        },
+        {
+          "name": "http://127.0.0.1:4251/assets/GalleryCanvas-DfbUK9Zk.js",
+          "startTime": 38.10000002384186,
+          "duration": 21,
+          "transferSize": 270757,
+          "decodedBodySize": 1000016
+        }
+      ],
+      "calls": 14,
+      "triangles": 34854,
+      "geometries": 9,
+      "textures": 4,
+      "skinned": 2,
+      "meshes": 2,
+      "materials": 2,
+      "skeletons": [
+        {
+          "bones": 21
+        }
+      ],
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          7.151249999999999
+        ],
+        "quaternion": [
+          -0.07623748479578465,
+          0,
+          0,
+          0.9970896879980318
+        ],
+        "fov": 43.60281897270362
+      },
+      "mode": "always",
+      "frame": 155,
+      "animation": {
+        "name": "Armature.009Action",
+        "duration": 10,
+        "time": 0.29221499999165584,
+        "running": true
+      },
+      "batching": {
+        "sourceLeafMeshes": 300,
+        "renderedLeafMeshes": 1,
+        "active": true
+      },
+      "frameSample": {
+        "elapsedMs": 1515.6000000238419,
+        "frames": 272,
+        "fps": 179.46687780134678,
+        "cpuP50Ms": 0.20000004768371582,
+        "cpuP95Ms": 0.30000007152557373,
+        "intervalP50Ms": 5.599999904632568,
+        "intervalP95Ms": 5.600000023841858
+      },
+      "drawDistribution": {
+        "main": [
+          {
+            "name": "gallery-floor",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "gallery-recess-back-wall",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-left-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "portal-header",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false,
+            "material": ""
+          },
+          {
+            "name": "Plane182",
+            "skinned": true,
+            "material": "Japanese Maple-Trunk"
+          },
+          {
+            "name": "japanese-maple-leaf-batch",
+            "skinned": true,
+            "material": "Japanese Maple-Leaf"
+          }
+        ],
+        "shadow": [
+          {
+            "name": "portal-left-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-right-return",
+            "skinned": false
+          },
+          {
+            "name": "portal-header",
+            "skinned": false
+          },
+          {
+            "name": "plinth-pedestal",
+            "skinned": false
+          },
+          {
+            "name": "Plane182",
+            "skinned": true
+          }
+        ]
+      }
+    }
+  ]
+}

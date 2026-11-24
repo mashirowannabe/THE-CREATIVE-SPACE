@@ -1,0 +1,617 @@
+{
+  "blender_version": "5.3.0",
+  "filepath": "C:\\Users\\ayik\\OneDrive\\Desktop\\enigma 3\\porto yang beneran\\source-assets\\blender\\Japanese+Maple-Tree_Pack+JSGraphics_CGTrader.blend",
+  "materials": [
+    {
+      "name": "Japanese Maple-Leaf",
+      "diffuse_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "nodes": [
+        {
+          "name": "Material Output",
+          "type": "ShaderNodeOutputMaterial",
+          "inputs": [
+            {
+              "name": "Displacement",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name": "Thickness",
+              "linked": false,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Hue Saturation Value",
+          "type": "ShaderNodeHueSaturation",
+          "inputs": [
+            {
+              "name": "Hue",
+              "linked": false,
+              "value": 0.49000000953674316
+            },
+            {
+              "name": "Saturation",
+              "linked": false,
+              "value": 1.0
+            },
+            {
+              "name": "Value",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Factor",
+              "linked": false,
+              "value": 0.8615384697914124
+            },
+            {
+              "name": "Color",
+              "linked": false,
+              "value": [
+                0.7108586430549622,
+                0.03043796308338642,
+                0.0,
+                1.0
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Object Info",
+          "type": "ShaderNodeObjectInfo",
+          "inputs": []
+        },
+        {
+          "name": "ColorRamp",
+          "type": "ShaderNodeValToRGB",
+          "inputs": [
+            {
+              "name": "Factor",
+              "linked": true,
+              "value": 0.5
+            }
+          ],
+          "color_ramp": [
+            {
+              "position": 0.7636361122131348,
+              "color": [
+                0.3181281089782715,
+                0.0,
+                0.004833156242966652,
+                1.0
+              ]
+            },
+            {
+              "position": 0.8090908527374268,
+              "color": [
+                0.4393320083618164,
+                0.05957625061273575,
+                0.02612501010298729,
+                1.0
+              ]
+            },
+            {
+              "position": 0.8454546928405762,
+              "color": [
+                0.6892090439796448,
+                0.029330555349588394,
+                0.007918628863990307,
+                1.0
+              ]
+            }
+          ],
+          "interpolation": "B_SPLINE"
+        },
+        {
+          "name": "Principled BSDF",
+          "type": "ShaderNodeBsdfPrincipled",
+          "inputs": [
+            {
+              "name": "Base Color",
+              "linked": true,
+              "value": [
+                0.800000011920929,
+                0.800000011920929,
+                0.800000011920929,
+                1.0
+              ]
+            },
+            {
+              "name": "Metallic",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Roughness",
+              "linked": false,
+              "value": 1.0
+            },
+            {
+              "name": "IOR",
+              "linked": false,
+              "value": 1.4500000476837158
+            },
+            {
+              "name": "Alpha",
+              "linked": false,
+              "value": 1.0
+            },
+            {
+              "name": "Thin Wall",
+              "linked": false,
+              "value": false
+            },
+            {
+              "name": "Normal",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name": "Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Diffuse Roughness",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Subsurface Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Subsurface Radius",
+              "linked": false,
+              "value": [
+                1.100000023841858,
+                0.20000000298023224,
+                0.10000000149011612
+              ]
+            },
+            {
+              "name": "Subsurface Scale",
+              "linked": false,
+              "value": 0.05000000074505806
+            },
+            {
+              "name": "Subsurface IOR",
+              "linked": false,
+              "value": 1.399999976158142
+            },
+            {
+              "name": "Subsurface Anisotropy",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Specular IOR Level",
+              "linked": false,
+              "value": 0.05000000074505806
+            },
+            {
+              "name": "Specular Tint",
+              "linked": false,
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Anisotropic",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Anisotropic Rotation",
+              "linked": false,
+              "value": 0.2863636314868927
+            },
+            {
+              "name": "Tangent",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name": "Transmission Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Transmission Dispersion Scale",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Transmission Dispersion Abbe Number",
+              "linked": false,
+              "value": 20.0
+            },
+            {
+              "name": "Coat Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Coat Roughness",
+              "linked": false,
+              "value": 0.029999999329447746
+            },
+            {
+              "name": "Coat IOR",
+              "linked": false,
+              "value": 1.5
+            },
+            {
+              "name": "Coat Tint",
+              "linked": false,
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Coat Normal",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name": "Sheen Weight",
+              "linked": false,
+              "value": 0.20000000298023224
+            },
+            {
+              "name": "Sheen Roughness",
+              "linked": false,
+              "value": 0.5
+            },
+            {
+              "name": "Sheen Tint",
+              "linked": false,
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Emission Color",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Emission Strength",
+              "linked": false,
+              "value": 1.0
+            },
+            {
+              "name": "Thin Film Thickness",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Thin Film IOR",
+              "linked": false,
+              "value": 1.3300000429153442
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "from": "Principled BSDF",
+          "output": "BSDF",
+          "to": "Material Output",
+          "input": "Surface"
+        },
+        {
+          "from": "Object Info",
+          "output": "Random",
+          "to": "ColorRamp",
+          "input": "Factor"
+        },
+        {
+          "from": "ColorRamp",
+          "output": "Color",
+          "to": "Principled BSDF",
+          "input": "Base Color"
+        }
+      ]
+    },
+    {
+      "name": "Japanese Maple-Trunk",
+      "diffuse_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "ShaderNodeBsdfPrincipled",
+          "inputs": [
+            {
+              "name": "Base Color",
+              "linked": false,
+              "value": [
+                0.04297206178307533,
+                0.04083249345421791,
+                0.014025619253516197,
+                1.0
+              ]
+            },
+            {
+              "name": "Metallic",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Roughness",
+              "linked": false,
+              "value": 0.5
+            },
+            {
+              "name": "IOR",
+              "linked": false,
+              "value": 1.4500000476837158
+            },
+            {
+              "name": "Alpha",
+              "linked": false,
+              "value": 1.0
+            },
+            {
+              "name": "Thin Wall",
+              "linked": false,
+              "value": false
+            },
+            {
+              "name": "Normal",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name": "Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Diffuse Roughness",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Subsurface Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Subsurface Radius",
+              "linked": false,
+              "value": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ]
+            },
+            {
+              "name": "Subsurface Scale",
+              "linked": false,
+              "value": 0.05000000074505806
+            },
+            {
+              "name": "Subsurface IOR",
+              "linked": false,
+              "value": 1.399999976158142
+            },
+            {
+              "name": "Subsurface Anisotropy",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Specular IOR Level",
+              "linked": false,
+              "value": 0.05000000074505806
+            },
+            {
+              "name": "Specular Tint",
+              "linked": false,
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Anisotropic",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Anisotropic Rotation",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Tangent",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name": "Transmission Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Transmission Dispersion Scale",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Transmission Dispersion Abbe Number",
+              "linked": false,
+              "value": 20.0
+            },
+            {
+              "name": "Coat Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Coat Roughness",
+              "linked": false,
+              "value": 0.029999999329447746
+            },
+            {
+              "name": "Coat IOR",
+              "linked": false,
+              "value": 1.5
+            },
+            {
+              "name": "Coat Tint",
+              "linked": false,
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Coat Normal",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name": "Sheen Weight",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Sheen Roughness",
+              "linked": false,
+              "value": 0.5
+            },
+            {
+              "name": "Sheen Tint",
+              "linked": false,
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Emission Color",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "name": "Emission Strength",
+              "linked": false,
+              "value": 1.0
+            },
+            {
+              "name": "Thin Film Thickness",
+              "linked": false,
+              "value": 0.0
+            },
+            {
+              "name": "Thin Film IOR",
+              "linked": false,
+              "value": 1.3300000429153442
+            }
+          ]
+        },
+        {
+          "name": "Material Output",
+          "type": "ShaderNodeOutputMaterial",
+          "inputs": [
+            {
+              "name": "Displacement",
+              "linked": false,
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "name": "Thickness",
+              "linked": false,
+              "value": 0.0
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "from": "Principled BSDF",
+          "output": "BSDF",
+          "to": "Material Output",
+          "input": "Surface"
+        }
+      ]
+    }
+  ],
+  "actions": [
+    "Armature.009Action"
+  ],
+  "meshes": 302,
+  "armatures": 1
+}

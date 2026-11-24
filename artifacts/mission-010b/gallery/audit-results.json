@@ -1,0 +1,4824 @@
+{
+  "url": "http://127.0.0.1:5250",
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "failedRequests": [],
+  "httpErrors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:5250/?audit=1",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@vite/client",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/main.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@react-refresh",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/vite/dist/client/env.mjs",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom_client.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/App.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/tokens.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fonts.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/global.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/app.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OAAENEE7.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/FeaturedWorkIndex.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/EditorialSections.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/HeroCopy.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/SiteHeader.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryViewport.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ProjectExhibitionRegion.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useProjectNavigation.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/IcaMealExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/FireSprinklerExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionPrimitives.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useReadingChapter.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/exhibitions.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/projects.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryActivity.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryInitialization.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryErrorBoundary.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryPlaceholder.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/icameal.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionVideo.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/fire-sprinkler.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fire-sprinkler.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ArtifactInspector.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery-placeholder.svg?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?import&no-inline",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/artifact-inspector.css",
+      "type": "Script"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCanvas.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/@react-three_fiber.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery.config.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryScene.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCamera.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-NJ2RWWFM.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-KSP3KADI.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ArchitecturalPortal.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ExhibitionPlinth.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryEnvironment.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryLighting.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/JapaneseMaple.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_loaders_GLTFLoader__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/maple.asset.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/batchMapleLeaves.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_utils_BufferGeometryUtils__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-AO35XERL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?no-inline",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/?audit=2",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@vite/client",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/main.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@react-refresh",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom_client.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/App.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/tokens.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fonts.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/global.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/app.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/vite/dist/client/env.mjs",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OAAENEE7.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/FeaturedWorkIndex.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/EditorialSections.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/HeroCopy.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/SiteHeader.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryViewport.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ProjectExhibitionRegion.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useProjectNavigation.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/projects.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryActivity.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryInitialization.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryErrorBoundary.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryPlaceholder.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/IcaMealExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/FireSprinklerExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionPrimitives.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useReadingChapter.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/exhibitions.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery-placeholder.svg?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/icameal.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionVideo.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/fire-sprinkler.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fire-sprinkler.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ArtifactInspector.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?import&no-inline",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/artifact-inspector.css",
+      "type": "Script"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCanvas.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/@react-three_fiber.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery.config.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryScene.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCamera.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-NJ2RWWFM.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-KSP3KADI.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ArchitecturalPortal.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ExhibitionPlinth.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryEnvironment.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryLighting.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/JapaneseMaple.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_loaders_GLTFLoader__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/maple.asset.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/batchMapleLeaves.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-AO35XERL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_utils_BufferGeometryUtils__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?no-inline",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/?audit=3",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@vite/client",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/main.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@react-refresh",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom_client.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/App.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/tokens.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fonts.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/global.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/app.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/vite/dist/client/env.mjs",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OAAENEE7.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/FeaturedWorkIndex.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/EditorialSections.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/HeroCopy.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/SiteHeader.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryViewport.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ProjectExhibitionRegion.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useProjectNavigation.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/projects.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/IcaMealExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/FireSprinklerExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionPrimitives.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useReadingChapter.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/exhibitions.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryActivity.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryInitialization.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryErrorBoundary.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryPlaceholder.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionVideo.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/fire-sprinkler.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fire-sprinkler.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/icameal.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ArtifactInspector.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery-placeholder.svg?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?import&no-inline",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/artifact-inspector.css",
+      "type": "Script"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCanvas.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/@react-three_fiber.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery.config.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryScene.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCamera.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-NJ2RWWFM.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-KSP3KADI.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ArchitecturalPortal.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ExhibitionPlinth.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryEnvironment.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryLighting.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/JapaneseMaple.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_loaders_GLTFLoader__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/maple.asset.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/batchMapleLeaves.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-AO35XERL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_utils_BufferGeometryUtils__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?no-inline",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/?audit=4",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@vite/client",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/main.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@react-refresh",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom_client.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/App.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/tokens.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fonts.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/global.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/app.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/vite/dist/client/env.mjs",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OAAENEE7.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/FeaturedWorkIndex.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/EditorialSections.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/HeroCopy.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/SiteHeader.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryViewport.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ProjectExhibitionRegion.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useProjectNavigation.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/projects.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryActivity.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryInitialization.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryErrorBoundary.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryPlaceholder.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/IcaMealExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/FireSprinklerExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionPrimitives.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useReadingChapter.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/exhibitions.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery-placeholder.svg?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/icameal.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionVideo.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/fire-sprinkler.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fire-sprinkler.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ArtifactInspector.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?import&no-inline",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/artifact-inspector.css",
+      "type": "Script"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCanvas.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/@react-three_fiber.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery.config.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryScene.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCamera.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-NJ2RWWFM.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-KSP3KADI.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ArchitecturalPortal.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ExhibitionPlinth.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryEnvironment.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryLighting.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/JapaneseMaple.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_loaders_GLTFLoader__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/maple.asset.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/batchMapleLeaves.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-AO35XERL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_utils_BufferGeometryUtils__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?no-inline",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/?audit=5",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@vite/client",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/main.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@react-refresh",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/vite/dist/client/env.mjs",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom_client.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/App.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/tokens.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fonts.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/global.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/app.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OAAENEE7.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/FeaturedWorkIndex.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/EditorialSections.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/HeroCopy.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/SiteHeader.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryViewport.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ProjectExhibitionRegion.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useProjectNavigation.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/projects.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/IcaMealExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/FireSprinklerExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionPrimitives.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useReadingChapter.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/exhibitions.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryActivity.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryInitialization.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryErrorBoundary.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryPlaceholder.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/icameal.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionVideo.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/fire-sprinkler.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fire-sprinkler.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ArtifactInspector.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery-placeholder.svg?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?import&no-inline",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/artifact-inspector.css",
+      "type": "Script"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCanvas.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/@react-three_fiber.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery.config.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryScene.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCamera.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-NJ2RWWFM.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-KSP3KADI.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ArchitecturalPortal.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ExhibitionPlinth.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryEnvironment.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryLighting.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/JapaneseMaple.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_loaders_GLTFLoader__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/maple.asset.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/batchMapleLeaves.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-AO35XERL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_utils_BufferGeometryUtils__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?no-inline",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/?audit=6",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@vite/client",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/main.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@react-refresh",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom_client.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/App.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/tokens.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fonts.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/global.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/app.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/vite/dist/client/env.mjs",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OAAENEE7.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/FeaturedWorkIndex.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/EditorialSections.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/HeroCopy.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/SiteHeader.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryViewport.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ProjectExhibitionRegion.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useProjectNavigation.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/projects.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/IcaMealExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/FireSprinklerExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionPrimitives.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useReadingChapter.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/exhibitions.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryActivity.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryInitialization.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryErrorBoundary.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryPlaceholder.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionVideo.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/fire-sprinkler.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fire-sprinkler.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/icameal.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ArtifactInspector.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery-placeholder.svg?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?import&no-inline",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/artifact-inspector.css",
+      "type": "Script"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCanvas.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/@react-three_fiber.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery.config.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryScene.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryCamera.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-NJ2RWWFM.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-KSP3KADI.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ArchitecturalPortal.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/ExhibitionPlinth.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryEnvironment.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryLighting.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/JapaneseMaple.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_loaders_GLTFLoader__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/maple.asset.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/batchMapleLeaves.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-AO35XERL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/three_addons_utils_BufferGeometryUtils__js.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?no-inline",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/?audit=7",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@vite/client",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/main.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@react-refresh",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom_client.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/App.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/tokens.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fonts.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/global.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/app.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/vite/dist/client/env.mjs",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OAAENEE7.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/FeaturedWorkIndex.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/EditorialSections.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/HeroCopy.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/SiteHeader.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryViewport.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ProjectExhibitionRegion.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useProjectNavigation.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/projects.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/IcaMealExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/FireSprinklerExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionPrimitives.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useReadingChapter.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/exhibitions.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryActivity.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryInitialization.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryErrorBoundary.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryPlaceholder.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionVideo.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/fire-sprinkler.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fire-sprinkler.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ArtifactInspector.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/icameal.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery-placeholder.svg?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?import&no-inline",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/artifact-inspector.css",
+      "type": "Script"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?no-inline",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/?audit=8",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@vite/client",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/main.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/@react-refresh",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom_client.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/App.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/tokens.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fonts.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/global.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/app.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OAAENEE7.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/vite/dist/client/env.mjs",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/FeaturedWorkIndex.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/EditorialSections.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/HeroCopy.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/components/SiteHeader.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryViewport.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ProjectExhibitionRegion.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useProjectNavigation.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/projects.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/IcaMealExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/FireSprinklerExhibition.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionPrimitives.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/useReadingChapter.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/exhibitions.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryActivity.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/hooks/useGalleryInitialization.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryErrorBoundary.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/GalleryPlaceholder.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ExhibitionVideo.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/fire-sprinkler.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/fire-sprinkler.css",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/icameal.media.ts",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/exhibitions/ArtifactInspector.tsx",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/gallery/gallery-placeholder.svg?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?import&no-inline",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png?import",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/node_modules/.vite/deps/react-dom.js?v=3f157e6d",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:5250/src/styles/artifact-inspector.css",
+      "type": "Script"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/projects/blender/fire-sprinkler/images/material.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/projects/blender/fire-sprinkler/images/technical.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png",
+      "type": "Image"
+    }
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "initial": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 4,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "inspected": {
+        "camera": {
+          "position": [
+            1.8,
+            2.6,
+            6.568170731707318
+          ],
+          "quaternion": [
+            -0.0878608608239748,
+            -0.0038500467113061075,
+            -0.00033958421927769825,
+            0.9961252586688829
+          ],
+          "fov": 43.08195183707688
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 360,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.6895350000083438,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "returned": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 678,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 1.327164999991645,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "offscreen": {
+        "c": {
+          "camera": {
+            "position": [
+              1.8,
+              2.6,
+              6.568170731707318
+            ],
+            "quaternion": [
+              -0.0878608608239748,
+              -0.0038500467113061075,
+              -0.00033958421927769825,
+              0.9961252586688829
+            ],
+            "fov": 43.08195183707688
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 437,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8499399999916535,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "d": {
+          "camera": {
+            "position": [
+              1.8,
+              2.6,
+              6.568170731707318
+            ],
+            "quaternion": [
+              -0.0878608608239748,
+              -0.0038500467113061075,
+              -0.00033958421927769825,
+              0.9961252586688829
+            ],
+            "fov": 43.08195183707688
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 437,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8499399999916535,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      },
+      "reduced": {
+        "e": {
+          "camera": {
+            "position": [
+              1.8,
+              2.7,
+              7.284634146341465
+            ],
+            "quaternion": [
+              -0.07486514711346325,
+              0,
+              0,
+              0.9971936671217281
+            ],
+            "fov": 43.08195183707688
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 680,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "f": {
+          "camera": {
+            "position": [
+              1.8,
+              2.7,
+              7.284634146341465
+            ],
+            "quaternion": [
+              -0.07486514711346325,
+              0,
+              0,
+              0.9971936671217281
+            ],
+            "fov": 43.08195183707688
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 680,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "initial": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            8.774145774907225
+          ],
+          "quaternion": [
+            -0.062318413442528905,
+            0,
+            0,
+            0.9980563187245528
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 4,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "inspected": {
+        "camera": {
+          "position": [
+            1.8,
+            2.6,
+            7.908731197416504
+          ],
+          "quaternion": [
+            -0.07304302990649535,
+            -0.003192943271532982,
+            -0.00023384810986712352,
+            0.997323651685051
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 363,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.6959399999916543,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "returned": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            8.774145774907225
+          ],
+          "quaternion": [
+            -0.062318413442528905,
+            0,
+            0,
+            0.9980563187245528
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 671,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 1.3161400000333683,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "offscreen": {
+        "c": {
+          "camera": {
+            "position": [
+              1.8,
+              2.6,
+              7.908731197416504
+            ],
+            "quaternion": [
+              -0.07304302990649535,
+              -0.003192943271532982,
+              -0.00023384810986712352,
+              0.997323651685051
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 433,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8420300000250317,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "d": {
+          "camera": {
+            "position": [
+              1.8,
+              2.6,
+              7.908731197416504
+            ],
+            "quaternion": [
+              -0.07304302990649535,
+              -0.003192943271532982,
+              -0.00023384810986712352,
+              0.997323651685051
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 433,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8420300000250317,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      },
+      "reduced": {
+        "e": {
+          "camera": {
+            "position": [
+              1.8,
+              2.7,
+              8.774145774907225
+            ],
+            "quaternion": [
+              -0.062318413442528905,
+              0,
+              0,
+              0.9980563187245528
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 673,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "f": {
+          "camera": {
+            "position": [
+              1.8,
+              2.7,
+              8.774145774907225
+            ],
+            "quaternion": [
+              -0.062318413442528905,
+              0,
+              0,
+              0.9980563187245528
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 673,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      }
+    },
+    {
+      "width": 900,
+      "height": 900,
+      "initial": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            11.504670662067044
+          ],
+          "quaternion": [
+            -0.04764373993607779,
+            0,
+            0,
+            0.9988643922199367
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 4,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "inspected": {
+        "camera": {
+          "position": [
+            1.8,
+            2.6,
+            10.36620359586034
+          ],
+          "quaternion": [
+            -0.05574676394643793,
+            -0.0024313662795399055,
+            -0.00013575230816160954,
+            0.9984419704413602
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 364,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.697654999983309,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "returned": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            11.504670662067044
+          ],
+          "quaternion": [
+            -0.04764373993607779,
+            0,
+            0,
+            0.9988643922199367
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 681,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 1.3295099999666096,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "offscreen": {
+        "c": {
+          "camera": {
+            "position": [
+              1.8,
+              2.6,
+              10.36620359586034
+            ],
+            "quaternion": [
+              -0.05574676394643793,
+              -0.0024313662795399055,
+              -0.00013575230816160954,
+              0.9984419704413602
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 443,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8590749999999966,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "d": {
+          "camera": {
+            "position": [
+              1.8,
+              2.6,
+              10.36620359586034
+            ],
+            "quaternion": [
+              -0.05574676394643793,
+              -0.0024313662795399055,
+              -0.00013575230816160954,
+              0.9984419704413602
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 443,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8590749999999966,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      },
+      "reduced": {
+        "e": {
+          "camera": {
+            "position": [
+              1.8,
+              2.7,
+              11.504670662067044
+            ],
+            "quaternion": [
+              -0.04764373993607779,
+              0,
+              0,
+              0.9988643922199367
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 684,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "f": {
+          "camera": {
+            "position": [
+              1.8,
+              2.7,
+              11.504670662067044
+            ],
+            "quaternion": [
+              -0.04764373993607779,
+              0,
+              0,
+              0.9988643922199367
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 684,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "initial": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            9.067368421052631
+          ],
+          "quaternion": [
+            -0.060325455309488726,
+            0,
+            0,
+            0.9981787612655877
+          ],
+          "fov": 28.072486935852957
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 5,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "inspected": {
+        "camera": {
+          "position": [
+            2.1,
+            2.6,
+            8.172631578947367
+          ],
+          "quaternion": [
+            -0.07069325684973765,
+            0,
+            0,
+            0.997498101971115
+          ],
+          "fov": 28.072486935852957
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 363,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.6957299999833096,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "returned": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            9.067368421052631
+          ],
+          "quaternion": [
+            -0.060325455309488726,
+            0,
+            0,
+            0.9981787612655877
+          ],
+          "fov": 28.072486935852957
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 668,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 1.3041350000083338,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "offscreen": {
+        "c": {
+          "camera": {
+            "position": [
+              2.1,
+              2.6,
+              8.172631578947367
+            ],
+            "quaternion": [
+              -0.07069325684973765,
+              0,
+              0,
+              0.997498101971115
+            ],
+            "fov": 28.072486935852957
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 428,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8318450000166868,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "d": {
+          "camera": {
+            "position": [
+              2.1,
+              2.6,
+              8.172631578947367
+            ],
+            "quaternion": [
+              -0.07069325684973765,
+              0,
+              0,
+              0.997498101971115
+            ],
+            "fov": 28.072486935852957
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 428,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8318450000166868,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      },
+      "reduced": {
+        "e": {
+          "camera": {
+            "position": [
+              2.1,
+              2.7,
+              9.067368421052631
+            ],
+            "quaternion": [
+              -0.060325455309488726,
+              0,
+              0,
+              0.9981787612655877
+            ],
+            "fov": 28.072486935852957
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 670,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "f": {
+          "camera": {
+            "position": [
+              2.1,
+              2.7,
+              9.067368421052631
+            ],
+            "quaternion": [
+              -0.060325455309488726,
+              0,
+              0,
+              0.9981787612655877
+            ],
+            "fov": 28.072486935852957
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 670,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "initial": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 5,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "inspected": {
+        "camera": {
+          "position": [
+            2.1,
+            2.6,
+            6.42
+          ],
+          "quaternion": [
+            -0.08987493228198831,
+            0,
+            0,
+            0.9959530594095829
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 362,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.6919850000083437,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "returned": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 657,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 1.2788649999916444,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "offscreen": {
+        "c": {
+          "camera": {
+            "position": [
+              2.1,
+              2.6,
+              6.42
+            ],
+            "quaternion": [
+              -0.08987493228198831,
+              0,
+              0,
+              0.9959530594095829
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 420,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8106350000083423,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "d": {
+          "camera": {
+            "position": [
+              2.1,
+              2.6,
+              6.42
+            ],
+            "quaternion": [
+              -0.08987493228198831,
+              0,
+              0,
+              0.9959530594095829
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 420,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8106350000083423,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      },
+      "reduced": {
+        "e": {
+          "camera": {
+            "position": [
+              2.1,
+              2.7,
+              7.12
+            ],
+            "quaternion": [
+              -0.07656624519001026,
+              0,
+              0,
+              0.9970644964582297
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 659,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "f": {
+          "camera": {
+            "position": [
+              2.1,
+              2.7,
+              7.12
+            ],
+            "quaternion": [
+              -0.07656624519001026,
+              0,
+              0,
+              0.9970644964582297
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 659,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      }
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "initial": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 5,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "inspected": {
+        "camera": {
+          "position": [
+            2.1,
+            2.6,
+            6.448124999999999
+          ],
+          "quaternion": [
+            -0.08948628174232216,
+            0,
+            0,
+            0.9959880548379753
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 361,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.6900600000083439,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "returned": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 656,
+        "mode": "always",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 1.2762749999999894,
+          "running": true
+        },
+        "skinned": 2,
+        "canvases": 1
+      },
+      "offscreen": {
+        "c": {
+          "camera": {
+            "position": [
+              2.1,
+              2.6,
+              6.448124999999999
+            ],
+            "quaternion": [
+              -0.08948628174232216,
+              0,
+              0,
+              0.9959880548379753
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 416,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8028649999916531,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "d": {
+          "camera": {
+            "position": [
+              2.1,
+              2.6,
+              6.448124999999999
+            ],
+            "quaternion": [
+              -0.08948628174232216,
+              0,
+              0,
+              0.9959880548379753
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 416,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0.8028649999916531,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      },
+      "reduced": {
+        "e": {
+          "camera": {
+            "position": [
+              2.1,
+              2.7,
+              7.151249999999999
+            ],
+            "quaternion": [
+              -0.07623748479578465,
+              0,
+              0,
+              0.9970896879980318
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 659,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        },
+        "f": {
+          "camera": {
+            "position": [
+              2.1,
+              2.7,
+              7.151249999999999
+            ],
+            "quaternion": [
+              -0.07623748479578465,
+              0,
+              0,
+              0.9970896879980318
+            ],
+            "fov": 43.60281897270362
+          },
+          "calls": 14,
+          "triangles": 34854,
+          "geometries": 9,
+          "textures": 4,
+          "frame": 659,
+          "mode": "demand",
+          "motion": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "skinned": 2,
+          "canvases": 1
+        }
+      }
+    }
+  ],
+  "interactions": [],
+  "checks": [
+    {
+      "name": "1440: optimized scene counts and one Canvas",
+      "passed": true,
+      "evidence": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 4,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      }
+    },
+    {
+      "name": "1440: camera matches prior verified baseline",
+      "passed": true,
+      "evidence": {
+        "old": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        },
+        "current": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        }
+      }
+    },
+    {
+      "name": "1440: existing sway runs",
+      "passed": true,
+      "evidence": {
+        "a": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.08658999999165533,
+          "running": true
+        },
+        "b": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.22858500000834486,
+          "running": true
+        }
+      }
+    },
+    {
+      "name": "1440: inspection moves camera",
+      "passed": true,
+      "evidence": {
+        "position": [
+          1.8,
+          2.6,
+          6.568170731707318
+        ],
+        "quaternion": [
+          -0.0878608608239748,
+          -0.0038500467113061075,
+          -0.00033958421927769825,
+          0.9961252586688829
+        ],
+        "fov": 43.08195183707688
+      }
+    },
+    {
+      "name": "1440: gallery idles while exhibition read",
+      "passed": true,
+      "evidence": {
+        "c": 437,
+        "d": 437,
+        "mode": "demand"
+      }
+    },
+    {
+      "name": "1440: exhibition return restores camera and inspection control",
+      "passed": true,
+      "evidence": {
+        "position": [
+          1.8,
+          2.7,
+          7.284634146341465
+        ],
+        "quaternion": [
+          -0.07486514711346325,
+          0,
+          0,
+          0.9971936671217281
+        ],
+        "fov": 43.08195183707688
+      }
+    },
+    {
+      "name": "1440: reduced motion stops animation and frames",
+      "passed": true,
+      "evidence": {
+        "e": 680,
+        "f": 680,
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        }
+      }
+    },
+    {
+      "name": "1024: optimized scene counts and one Canvas",
+      "passed": true,
+      "evidence": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            8.774145774907225
+          ],
+          "quaternion": [
+            -0.062318413442528905,
+            0,
+            0,
+            0.9980563187245528
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 4,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      }
+    },
+    {
+      "name": "1024: existing sway runs",
+      "passed": true,
+      "evidence": {
+        "a": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.09099999999999996,
+          "running": true
+        },
+        "b": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.2310000000000002,
+          "running": true
+        }
+      }
+    },
+    {
+      "name": "1024: inspection moves camera",
+      "passed": true,
+      "evidence": {
+        "position": [
+          1.8,
+          2.6,
+          7.908731197416504
+        ],
+        "quaternion": [
+          -0.07304302990649535,
+          -0.003192943271532982,
+          -0.00023384810986712352,
+          0.997323651685051
+        ],
+        "fov": 43.60281897270362
+      }
+    },
+    {
+      "name": "1024: gallery idles while exhibition read",
+      "passed": true,
+      "evidence": {
+        "c": 433,
+        "d": 433,
+        "mode": "demand"
+      }
+    },
+    {
+      "name": "1024: exhibition return restores camera and inspection control",
+      "passed": true,
+      "evidence": {
+        "position": [
+          1.8,
+          2.7,
+          8.774145774907225
+        ],
+        "quaternion": [
+          -0.062318413442528905,
+          0,
+          0,
+          0.9980563187245528
+        ],
+        "fov": 43.60281897270362
+      }
+    },
+    {
+      "name": "1024: reduced motion stops animation and frames",
+      "passed": true,
+      "evidence": {
+        "e": 673,
+        "f": 673,
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        }
+      }
+    },
+    {
+      "name": "900: optimized scene counts and one Canvas",
+      "passed": true,
+      "evidence": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            11.504670662067044
+          ],
+          "quaternion": [
+            -0.04764373993607779,
+            0,
+            0,
+            0.9988643922199367
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 4,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      }
+    },
+    {
+      "name": "900: existing sway runs",
+      "passed": true,
+      "evidence": {
+        "a": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.08889999999999995,
+          "running": true
+        },
+        "b": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.23089499997496618,
+          "running": true
+        }
+      }
+    },
+    {
+      "name": "900: inspection moves camera",
+      "passed": true,
+      "evidence": {
+        "position": [
+          1.8,
+          2.6,
+          10.36620359586034
+        ],
+        "quaternion": [
+          -0.05574676394643793,
+          -0.0024313662795399055,
+          -0.00013575230816160954,
+          0.9984419704413602
+        ],
+        "fov": 43.60281897270362
+      }
+    },
+    {
+      "name": "900: gallery idles while exhibition read",
+      "passed": true,
+      "evidence": {
+        "c": 443,
+        "d": 443,
+        "mode": "demand"
+      }
+    },
+    {
+      "name": "900: exhibition return restores camera and inspection control",
+      "passed": true,
+      "evidence": {
+        "position": [
+          1.8,
+          2.7,
+          11.504670662067044
+        ],
+        "quaternion": [
+          -0.04764373993607779,
+          0,
+          0,
+          0.9988643922199367
+        ],
+        "fov": 43.60281897270362
+      }
+    },
+    {
+      "name": "900: reduced motion stops animation and frames",
+      "passed": true,
+      "evidence": {
+        "e": 684,
+        "f": 684,
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        }
+      }
+    },
+    {
+      "name": "768: optimized scene counts and one Canvas",
+      "passed": true,
+      "evidence": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            9.067368421052631
+          ],
+          "quaternion": [
+            -0.060325455309488726,
+            0,
+            0,
+            0.9981787612655877
+          ],
+          "fov": 28.072486935852957
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 5,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      }
+    },
+    {
+      "name": "768: existing sway runs",
+      "passed": true,
+      "evidence": {
+        "a": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.08701000000834463,
+          "running": true
+        },
+        "b": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.22893500000834482,
+          "running": true
+        }
+      }
+    },
+    {
+      "name": "768: inspection moves camera",
+      "passed": true,
+      "evidence": {
+        "position": [
+          2.1,
+          2.6,
+          8.172631578947367
+        ],
+        "quaternion": [
+          -0.07069325684973765,
+          0,
+          0,
+          0.997498101971115
+        ],
+        "fov": 28.072486935852957
+      }
+    },
+    {
+      "name": "768: gallery idles while exhibition read",
+      "passed": true,
+      "evidence": {
+        "c": 428,
+        "d": 428,
+        "mode": "demand"
+      }
+    },
+    {
+      "name": "768: exhibition return restores camera and inspection control",
+      "passed": true,
+      "evidence": {
+        "position": [
+          2.1,
+          2.7,
+          9.067368421052631
+        ],
+        "quaternion": [
+          -0.060325455309488726,
+          0,
+          0,
+          0.9981787612655877
+        ],
+        "fov": 28.072486935852957
+      }
+    },
+    {
+      "name": "768: reduced motion stops animation and frames",
+      "passed": true,
+      "evidence": {
+        "e": 670,
+        "f": 670,
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        }
+      }
+    },
+    {
+      "name": "390: optimized scene counts and one Canvas",
+      "passed": true,
+      "evidence": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 5,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      }
+    },
+    {
+      "name": "390: camera matches prior verified baseline",
+      "passed": true,
+      "evidence": {
+        "old": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        },
+        "current": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        }
+      }
+    },
+    {
+      "name": "390: existing sway runs",
+      "passed": true,
+      "evidence": {
+        "a": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.08907499999999997,
+          "running": true
+        },
+        "b": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.22911000000834478,
+          "running": true
+        }
+      }
+    },
+    {
+      "name": "390: inspection moves camera",
+      "passed": true,
+      "evidence": {
+        "position": [
+          2.1,
+          2.6,
+          6.42
+        ],
+        "quaternion": [
+          -0.08987493228198831,
+          0,
+          0,
+          0.9959530594095829
+        ],
+        "fov": 43.60281897270362
+      }
+    },
+    {
+      "name": "390: gallery idles while exhibition read",
+      "passed": true,
+      "evidence": {
+        "c": 420,
+        "d": 420,
+        "mode": "demand"
+      }
+    },
+    {
+      "name": "390: exhibition return restores camera and inspection control",
+      "passed": true,
+      "evidence": {
+        "position": [
+          2.1,
+          2.7,
+          7.12
+        ],
+        "quaternion": [
+          -0.07656624519001026,
+          0,
+          0,
+          0.9970644964582297
+        ],
+        "fov": 43.60281897270362
+      }
+    },
+    {
+      "name": "390: reduced motion stops animation and frames",
+      "passed": true,
+      "evidence": {
+        "e": 659,
+        "f": 659,
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        }
+      }
+    },
+    {
+      "name": "320: optimized scene counts and one Canvas",
+      "passed": true,
+      "evidence": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 14,
+        "triangles": 34854,
+        "geometries": 9,
+        "textures": 4,
+        "frame": 5,
+        "mode": "demand",
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "skinned": 2,
+        "canvases": 1
+      }
+    },
+    {
+      "name": "320: camera matches prior verified baseline",
+      "passed": true,
+      "evidence": {
+        "old": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        },
+        "current": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        }
+      }
+    },
+    {
+      "name": "320: existing sway runs",
+      "passed": true,
+      "evidence": {
+        "a": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.08907499999999996,
+          "running": true
+        },
+        "b": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0.23107000001668945,
+          "running": true
+        }
+      }
+    },
+    {
+      "name": "320: inspection moves camera",
+      "passed": true,
+      "evidence": {
+        "position": [
+          2.1,
+          2.6,
+          6.448124999999999
+        ],
+        "quaternion": [
+          -0.08948628174232216,
+          0,
+          0,
+          0.9959880548379753
+        ],
+        "fov": 43.60281897270362
+      }
+    },
+    {
+      "name": "320: gallery idles while exhibition read",
+      "passed": true,
+      "evidence": {
+        "c": 416,
+        "d": 416,
+        "mode": "demand"
+      }
+    },
+    {
+      "name": "320: exhibition return restores camera and inspection control",
+      "passed": true,
+      "evidence": {
+        "position": [
+          2.1,
+          2.7,
+          7.151249999999999
+        ],
+        "quaternion": [
+          -0.07623748479578465,
+          0,
+          0,
+          0.9970896879980318
+        ],
+        "fov": 43.60281897270362
+      }
+    },
+    {
+      "name": "320: reduced motion stops animation and frames",
+      "passed": true,
+      "evidence": {
+        "e": 659,
+        "f": 659,
+        "motion": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        }
+      }
+    },
+    {
+      "name": "icameal: all original images load with alt and ratios",
+      "passed": true
+    },
+    {
+      "name": "fire-sprinkler: all original images load with alt and ratios",
+      "passed": true
+    },
+    {
+      "name": "Gallery regression normal errors absent",
+      "passed": true,
+      "evidence": {
+        "errors": [],
+        "http": [],
+        "failed": []
+      }
+    }
+  ],
+  "timings": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/157.0.8103.79",
+    "revision": "@6dc9bc3bdaea5c35ed6d41fceab2f7a3a2227c4f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "jsVersion": "15.7.112.43"
+  },
+  "media": [
+    {
+      "project": "icameal",
+      "images": [
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/screenshots/bahan.png",
+          "alt": "IcaMeal shopping checklist grouped into protein, carbohydrates, vegetables and spices, with zero of 23 ingredients checked.",
+          "loaded": true,
+          "intrinsic": [
+            2527,
+            876
+          ],
+          "loading": "eager",
+          "x": 33,
+          "y": -5462,
+          "w": 324,
+          "h": 112
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+          "alt": "Detail of the oversized cream Good Food Club lettering on the original terracotta club panel.",
+          "loaded": true,
+          "intrinsic": [
+            2525,
+            1008
+          ],
+          "loading": "lazy",
+          "x": 37,
+          "y": -4435,
+          "w": 632,
+          "h": 252
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+          "alt": "Detail of the original forest-green budget summary with a gold 85,000 rupiah estimate, terracotta meter and light text.",
+          "loaded": true,
+          "intrinsic": [
+            2526,
+            1332
+          ],
+          "loading": "lazy",
+          "x": -406,
+          "y": -4167,
+          "w": 809,
+          "h": 426
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/source%20code/assets/hero-botanical.svg?no-inline",
+          "alt": "IcaMeal botanical strip detail with dark green stems, leaves and small flowers on a warm orange background.",
+          "loaded": true,
+          "intrinsic": [
+            220,
+            56
+          ],
+          "loading": "lazy",
+          "x": 41,
+          "y": -3576,
+          "w": 308,
+          "h": 78
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/screenshots/anggaran.png",
+          "alt": "IcaMeal budget view with a 120,000 rupiah weekly budget, four eating preferences, an 85,000 estimate and 35,000 remaining.",
+          "loaded": true,
+          "intrinsic": [
+            2526,
+            1332
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -2718,
+          "w": 324,
+          "h": 171
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/screenshots/week%20plan.png",
+          "alt": "IcaMeal weekly view with seven menu cards, four marked premium, and selected chicken recipe cost and macronutrients.",
+          "loaded": true,
+          "intrinsic": [
+            2521,
+            1327
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -2141,
+          "w": 324,
+          "h": 171
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/screenshots/katalog.png",
+          "alt": "IcaMeal recipe index with ten numbered rows, preparation times, price labels and a translucent chicken recipe preview.",
+          "loaded": true,
+          "intrinsic": [
+            2518,
+            1328
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -1164,
+          "w": 324,
+          "h": 171
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/screenshots/monthly%20plan.png",
+          "alt": "IcaMeal 30-day menu calendar with recipe names and prices beside selected honey-roast chicken details; the page heading is partly clipped.",
+          "loaded": true,
+          "intrinsic": [
+            2522,
+            1333
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -77,
+          "w": 324,
+          "h": 171
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/icameal/screenshots/footer.png",
+          "alt": "IcaMeal Good Food Club offer with a 25,000 rupiah monthly snapshot price and a join control beside a large typographic club panel.",
+          "loaded": true,
+          "intrinsic": [
+            2525,
+            1008
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": 357,
+          "w": 324,
+          "h": 129
+        }
+      ]
+    },
+    {
+      "project": "fire-sprinkler",
+      "images": [
+        {
+          "src": "http://127.0.0.1:5250/projects/blender/fire-sprinkler/images/hero.png",
+          "alt": "Complete Fire Sprinkler model against black, with a tabbed metal rim, angular side supports, a red glass element and gold-toned seats above a rectangular base.",
+          "loaded": true,
+          "intrinsic": [
+            1920,
+            1080
+          ],
+          "loading": "eager",
+          "x": 33,
+          "y": -7604,
+          "w": 324,
+          "h": 182
+        },
+        {
+          "src": "http://127.0.0.1:5250/projects/blender/fire-sprinkler/images/assembly.png",
+          "alt": "Close view of the Fire Sprinkler’s central red glass element between gold-toned seats, framed by angular metal supports; the rim and base extend beyond the supplied frame.",
+          "loaded": true,
+          "intrinsic": [
+            1920,
+            1080
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -6560,
+          "w": 324,
+          "h": 182
+        },
+        {
+          "src": "http://127.0.0.1:5250/projects/blender/fire-sprinkler/images/material.png",
+          "alt": "Close view of the Fire Sprinkler’s metallic upper cylinder and rim of rectangular tabs, with a gold-toned seat and red glass element below.",
+          "loaded": true,
+          "intrinsic": [
+            1920,
+            1080
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -5233,
+          "w": 324,
+          "h": 182
+        },
+        {
+          "src": "http://127.0.0.1:5250/projects/blender/fire-sprinkler/images/technical.png",
+          "alt": "Stainless shader graph linking UV coordinates through Mapping, Noise Texture and Bump to a Principled BSDF normal input, with metallic 1 and roughness 0.2.",
+          "loaded": true,
+          "intrinsic": [
+            1520,
+            567
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -4533,
+          "w": 324,
+          "h": 121
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/brass.png",
+          "alt": "Blender viewport with the lower gold-toned seat selected above a brass Principled BSDF connected to Material Output, showing metallic 1 and roughness 0.3.",
+          "loaded": true,
+          "intrinsic": [
+            1695,
+            1347
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -3894,
+          "w": 324,
+          "h": 257
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/glass.png",
+          "alt": "Blender viewport with the central red glass element selected above its Principled shader, showing a red base color, metallic 0, roughness 0.05 and IOR 1.45.",
+          "loaded": true,
+          "intrinsic": [
+            1692,
+            1357
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -3119,
+          "w": 324,
+          "h": 260
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision.png",
+          "alt": "Blender Collision panel with Particle damping and friction at zero, followed by separate Softbody and Cloth settings.",
+          "loaded": true,
+          "intrinsic": [
+            395,
+            575
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": -532,
+          "w": 324,
+          "h": 472
+        },
+        {
+          "src": "http://127.0.0.1:5250/source-assets/blender/fire-sprinkler/collision2.png",
+          "alt": "Blender Collision panel with Particle damping and friction at 0.1, followed by separate Softbody and Cloth settings.",
+          "loaded": true,
+          "intrinsic": [
+            393,
+            542
+          ],
+          "loading": "lazy",
+          "x": 33,
+          "y": 199,
+          "w": 324,
+          "h": 447
+        }
+      ]
+    }
+  ]
+}

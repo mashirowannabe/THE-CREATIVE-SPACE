@@ -1,0 +1,181 @@
+[
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "kind": "gallery",
+    "differentPixels": 8,
+    "totalPixels": 1296000,
+    "diffBounds": [
+      880,
+      402,
+      1141,
+      564
+    ],
+    "maxChannelDifference": 29,
+    "meanChannelDifference": [
+      7.561728395061728e-05,
+      8.719135802469135e-05,
+      7.484567901234568e-05
+    ]
+  },
+  {
+    "viewport": [
+      1024,
+      768
+    ],
+    "kind": "gallery",
+    "differentPixels": 14,
+    "totalPixels": 786432,
+    "diffBounds": [
+      588,
+      382,
+      808,
+      491
+    ],
+    "maxChannelDifference": 14,
+    "meanChannelDifference": [
+      9.663899739583333e-05,
+      0.00010808308919270833,
+      0.00010045369466145833
+    ]
+  },
+  {
+    "viewport": [
+      900,
+      900
+    ],
+    "kind": "gallery",
+    "differentPixels": 7,
+    "totalPixels": 810000,
+    "diffBounds": [
+      579,
+      421,
+      701,
+      483
+    ],
+    "maxChannelDifference": 31,
+    "meanChannelDifference": [
+      0.00011111111111111112,
+      0.0001691358024691358,
+      0.00015061728395061728
+    ]
+  },
+  {
+    "viewport": [
+      768,
+      1024
+    ],
+    "kind": "gallery",
+    "differentPixels": 6,
+    "totalPixels": 786432,
+    "diffBounds": [
+      284,
+      691,
+      387,
+      805
+    ],
+    "maxChannelDifference": 31,
+    "meanChannelDifference": [
+      8.265177408854167e-05,
+      0.00010808308919270833,
+      9.028116861979167e-05
+    ]
+  },
+  {
+    "viewport": [
+      768,
+      1024
+    ],
+    "kind": "specimen",
+    "differentPixels": 6,
+    "totalPixels": 786432,
+    "diffBounds": [
+      284,
+      497,
+      387,
+      611
+    ],
+    "maxChannelDifference": 31,
+    "meanChannelDifference": [
+      8.265177408854167e-05,
+      0.00010808308919270833,
+      9.028116861979167e-05
+    ]
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "kind": "gallery",
+    "differentPixels": 3,
+    "totalPixels": 329160,
+    "diffBounds": [
+      129,
+      674,
+      180,
+      764
+    ],
+    "maxChannelDifference": 31,
+    "meanChannelDifference": [
+      0.0001427877020294082,
+      0.00017924413659010815,
+      0.0001670919917365415
+    ]
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "kind": "specimen",
+    "differentPixels": 3,
+    "totalPixels": 329160,
+    "diffBounds": [
+      129,
+      402,
+      180,
+      492
+    ],
+    "maxChannelDifference": 31,
+    "meanChannelDifference": [
+      0.0001427877020294082,
+      0.00017924413659010815,
+      0.0001670919917365415
+    ]
+  },
+  {
+    "viewport": [
+      320,
+      768
+    ],
+    "kind": "gallery",
+    "differentPixels": 0,
+    "totalPixels": 245760,
+    "diffBounds": null,
+    "maxChannelDifference": 0,
+    "meanChannelDifference": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "viewport": [
+      320,
+      768
+    ],
+    "kind": "specimen",
+    "differentPixels": 0,
+    "totalPixels": 245760,
+    "diffBounds": null,
+    "maxChannelDifference": 0,
+    "meanChannelDifference": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+:root {
+  color-scheme: light;
+  --ivory: #f1efe8;
+  --raised: #e5e1d7;
+  --ink: #242520;
+  --green: #536348;
+  --terra: #9a4934;
+  --muted: #55574f;
+  --font-sans: "Instrument Sans", Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", "Courier New", monospace;
+}

@@ -1,0 +1,705 @@
+{
+  "baseline": 88,
+  "preserved": 78,
+  "modified": [
+    "src/main.tsx",
+    "src/exhibitions/ExhibitionPrimitives.tsx",
+    "src/exhibitions/fire-sprinkler.media.ts",
+    "src/exhibitions/FireSprinklerExhibition.tsx",
+    "src/exhibitions/icameal.media.ts",
+    "src/exhibitions/IcaMealExhibition.tsx",
+    "src/styles/app.css",
+    "src/styles/exhibitions.css",
+    "src/styles/global.css",
+    "index.html"
+  ],
+  "unexpected": [],
+  "captions": [
+    {
+      "file": "src/exhibitions/icameal.media.ts",
+      "originalRecordsPreserved": true
+    },
+    {
+      "file": "src/exhibitions/fire-sprinkler.media.ts",
+      "originalRecordsPreserved": true
+    }
+  ],
+  "protectedFacts": [
+    "100 g",
+    "200 g",
+    "unresolved",
+    "medical or nutritional validation",
+    "affordability is not guaranteed",
+    "demo function source",
+    "complete policies",
+    "photo",
+    "credits",
+    "original modeling by the portfolio owner",
+    "visual references",
+    "10,000",
+    "1–200",
+    "30 frames",
+    "not baked",
+    "0.05",
+    "0.001",
+    "0.3",
+    "1.45",
+    "transmission",
+    "water pressure",
+    "droplet dimensions",
+    "coverage",
+    "thermal activation",
+    "fire-suppression",
+    "toleranced cad",
+    "manufacturing validation",
+    "unresolved",
+    "portability"
+  ],
+  "missingFacts": [],
+  "delivery": [
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\anggaran-Dgnnkmxf.png",
+      "original": "source-assets\\icameal\\screenshots\\anggaran.png",
+      "identical": true,
+      "hash": "4AD41D614543355D5866E819E445FA38ED43875788471FA1229E576EE76E9B36"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\bahan-RUEhm3Gc.png",
+      "original": "source-assets\\icameal\\screenshots\\bahan.png",
+      "identical": true,
+      "hash": "06E5B9DDFFD6FD82FA9A7155CBC26ECE066DF3D06BCD3434DBD17197CC91447C"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\brass-DFMQIYi3.png",
+      "original": "source-assets\\blender\\fire-sprinkler\\brass.png",
+      "identical": true,
+      "hash": "D13D00E8255E4F24696DDAB56DCC61216FBD45BD3A062359BF8C53A3A1C82354"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\collision-DIEN-YyX.png",
+      "original": "source-assets\\blender\\fire-sprinkler\\collision.png",
+      "identical": true,
+      "hash": "AD63092C0188C0681F7C528BA64FFE6EC82E082B69EC617A1FEF7AA19F87E36E"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\collision2-Dum19H7H.png",
+      "original": "source-assets\\blender\\fire-sprinkler\\collision2.png",
+      "identical": true,
+      "hash": "55BF34906B811503F551E9D072FC10246474D09F83968C4EA0CA4E04CF4D37DC"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\footer-BymU2Wy0.png",
+      "original": "source-assets\\icameal\\screenshots\\footer.png",
+      "identical": true,
+      "hash": "1AC1D2CB4FD45A593B417314E8E5B12A486A50105BBCA56B51003D32E643DA85"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\glass-CB8P4Xmp.png",
+      "original": "source-assets\\blender\\fire-sprinkler\\glass.png",
+      "identical": true,
+      "hash": "4835D07EED6061C47C26E7ED557EF06ED753A73296DC38C985F8CD5A954A9CFD"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\hero-botanical-DZEFhpS7.svg",
+      "original": "source-assets\\icameal\\source code\\assets\\hero-botanical.svg",
+      "identical": true,
+      "hash": "ADB90E8F87BFB027534B793527590EC56D64612A4FD5993B53EBA2BF8FA7382E"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\katalog-DHUrzRTq.png",
+      "original": "source-assets\\icameal\\screenshots\\katalog.png",
+      "identical": true,
+      "hash": "67AD6187D21DD362BC732A73A7642B12ADE5EE10B23DED8C6F7F779D67296B5A"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\monthly plan-By13WU41.png",
+      "original": "source-assets\\icameal\\screenshots\\monthly plan.png",
+      "identical": true,
+      "hash": "FE89FF68ABB43864460F448DB31B5529F403D6FD0BFA0E750046160D0A04CCB4"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\assets\\week plan-ALiaedfE.png",
+      "original": "source-assets\\icameal\\screenshots\\week plan.png",
+      "identical": true,
+      "hash": "8DE17ED321CCC66AC0B67551D7BDC09F0D888A6717ADF42D1BCF1056E03DDBD6"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\fonts\\ibm-plex-mono\\IBMPlexMono-Regular.ttf",
+      "font": "public/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "identical": true,
+      "hash": "6A3412F058C7D8DFD9170C41E85ADE48E5156ECB89356110CA57A0A27734AF46"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\fonts\\instrument-sans\\InstrumentSans-Variable.ttf",
+      "font": "public/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "identical": true,
+      "hash": "B24F1812584816958AFCF22E22D08E44318C5E51651E25D2438EFDDE389B33B1"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\models\\japanese-maple.glb",
+      "original": "public\\models\\japanese-maple.glb",
+      "identical": true,
+      "hash": "167858B8C7E4F3E51B1FC702B1C61061741D5DECFE2B14FA277457EA6E15615D"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\projects\\blender\\fire-sprinkler\\animation\\sprinkler-preview.mkv",
+      "original": "public\\projects\\blender\\fire-sprinkler\\animation\\sprinkler-preview.mkv",
+      "identical": true,
+      "hash": "C01B5972C09C991B0A9791157C049C03A81BF3761DFF8B33CBCF08C6C8B26428"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\projects\\blender\\fire-sprinkler\\images\\assembly.png",
+      "original": "public\\projects\\blender\\fire-sprinkler\\images\\assembly.png",
+      "identical": true,
+      "hash": "21F601A02B4A923F515E26E75C6C01B99FE89460E9822811605FD2DE68ADA44F"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\projects\\blender\\fire-sprinkler\\images\\hero.png",
+      "original": "public\\projects\\blender\\fire-sprinkler\\images\\hero.png",
+      "identical": true,
+      "hash": "7CE2001EF05CB2C1C45F556C96A89C801F3F0865574D5F87BCC6E822FB8E8525"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\projects\\blender\\fire-sprinkler\\images\\material.png",
+      "original": "public\\projects\\blender\\fire-sprinkler\\images\\material.png",
+      "identical": true,
+      "hash": "B57CBBF1C7E82DE8370819225162B0F36C796BD39204568185DE0F7605372781"
+    },
+    {
+      "file": ".verification\\mission-009c\\build\\projects\\blender\\fire-sprinkler\\images\\technical.png",
+      "original": "public\\projects\\blender\\fire-sprinkler\\images\\technical.png",
+      "identical": true,
+      "hash": "5FE0BE127E6912229775D7A6EB4DBFE683641D4ABD7D660E3BB8C3F932E500DB"
+    }
+  ],
+  "files": [
+    {
+      "file": "src/App.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "365BF3B19B9B5284588F278F31AEAC393B8B220E6235CE508D219AEB3D742013"
+    },
+    {
+      "file": "src/main.tsx",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "E5023251ECB261CA1CE84805B6F1F6E5F057D22273C0CF94D587396A5C3E5A3F"
+    },
+    {
+      "file": "src/vite-env.d.ts",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "E2534C64F488C801F0F0080E4A04F4B8793FCE5FEC159EB53280C1652F520FCA"
+    },
+    {
+      "file": "src/components/EditorialSections.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "BE9E52D7E2F26B76C9634033A7EC1958AC6023F1320A9F65F2B3E824DEB97998"
+    },
+    {
+      "file": "src/components/FeaturedWorkIndex.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "41662A5D0A32E958D34BB2001635429B14EA3E840B98E0A95546D0FE4A450A54"
+    },
+    {
+      "file": "src/components/HeroCopy.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "906FB61E4CAE6DDD58858D7BA1E1E0D3F258CDDEA148B5DDA131A37487377442"
+    },
+    {
+      "file": "src/components/SiteHeader.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "5096F2439DA1D69F2DEF7557711ABDDDC4F414EA71B91A597A2EF900CC360F96"
+    },
+    {
+      "file": "src/exhibitions/ExhibitionPrimitives.tsx",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "9AB5286047A152B814F450A9305B52172618228265696755BF3C64B665CF3D18"
+    },
+    {
+      "file": "src/exhibitions/ExhibitionVideo.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "6049722823345D075BB0E0E7886025B04407AF98188EEA325D03413455AE2A68"
+    },
+    {
+      "file": "src/exhibitions/fire-sprinkler.media.ts",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "1CD9674699E597E771F70337BDAC9EBDC8D36C9EE030FC029D2C2C930386A4AA"
+    },
+    {
+      "file": "src/exhibitions/FireSprinklerExhibition.tsx",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "913C2262EB2EA2CA0EADA7DE1A96B8797A5C8D60484D9FE79B837747E91E6422"
+    },
+    {
+      "file": "src/exhibitions/icameal.media.ts",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "A819A6D49A0008B6B76651113A6820B5C589C83F6C27A78C2C02B16CBC7A52D6"
+    },
+    {
+      "file": "src/exhibitions/IcaMealExhibition.tsx",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "0A42F8B97FC96FECA0697B61093C674BCA2766F4A8DD18E0513EB126C559A34E"
+    },
+    {
+      "file": "src/exhibitions/ProjectExhibitionRegion.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "682FE492E51D6570657E66CBA94B9F410C7EDE277E7A6A5B4EF96441792C98B6"
+    },
+    {
+      "file": "src/exhibitions/projects.ts",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "E7F7EF1A32B5109435D6C721B8801689C24C5AE39AC243C54777DBF1F5E09989"
+    },
+    {
+      "file": "src/exhibitions/useProjectNavigation.ts",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "8C4ED394F6CDE5489807235A88C18448B0D80D2A41E54760A6E1CC2A379096E4"
+    },
+    {
+      "file": "src/exhibitions/useReadingChapter.ts",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "09E4109037FA65A40E244230A58E2826D258549D523DB2E5946960BE8C46CEB6"
+    },
+    {
+      "file": "src/gallery/ArchitecturalPortal.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "CD7E162AB015F5417CF51580E3C630924BBEDEF438033C45786F12A829224492"
+    },
+    {
+      "file": "src/gallery/ExhibitionPlinth.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "788FA0E08E8A5BB37BD520714B3E23F9F14921CC008F043D497BDC9AE5AA6365"
+    },
+    {
+      "file": "src/gallery/gallery-placeholder.svg",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "76DFAE1E39251CD72DED5913FB296F939D405144AC9069FF092DB828B088FA62"
+    },
+    {
+      "file": "src/gallery/gallery.config.ts",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "1D20B331829F2675EA77469D4B67E62F453535B75B222DBFB228742F58ECC8D1"
+    },
+    {
+      "file": "src/gallery/GalleryCamera.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "39E9C79D6BF277C36FD0D06B8B73666A58A347090588ACDD50B9700D20476737"
+    },
+    {
+      "file": "src/gallery/GalleryCanvas.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "A969BA1A5B7C00F6601FF9C48064157F574A091310FFB67F2B794CE74F826360"
+    },
+    {
+      "file": "src/gallery/GalleryEnvironment.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "AF1D46451E7505AF7978309C4B3793AEBAF977EBE6F08471E0B560F8FB7D635F"
+    },
+    {
+      "file": "src/gallery/GalleryErrorBoundary.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "D1A3DC793C2BCA9EBCE981DDE31EA8373BE1933B8B7681CE84A130F47B119CD0"
+    },
+    {
+      "file": "src/gallery/GalleryLighting.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "E254BD5F66FFE52C77B14AB45895524BEDB876D93E16006D954198DC01B8F59A"
+    },
+    {
+      "file": "src/gallery/GalleryPlaceholder.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "C2A811C18215E557BF6C9F0287301AA11DA316954D95823CBF175E332E14A8F4"
+    },
+    {
+      "file": "src/gallery/GalleryScene.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "F83B6E59B51FD08FB5A4CA64720371DBF57B5F450B85606A2170ACB50762A6BA"
+    },
+    {
+      "file": "src/gallery/GalleryViewport.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "83738064416DBAB4D83B732994F4FEA2958C2D059FD44AC5A24B55C2067973D9"
+    },
+    {
+      "file": "src/gallery/JapaneseMaple.tsx",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "D4720D39730D463DE814A6FB25198DFBE8258395AD6CDDDEAE18EEC93C040AD3"
+    },
+    {
+      "file": "src/gallery/maple.asset.ts",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "402293EDCA12CF9D3CAC5187D05D3CBE3409E897D424669A1CA5958E0861B959"
+    },
+    {
+      "file": "src/hooks/useGalleryActivity.ts",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "1054F363E5C39E772967019D7674C0DE82B2B0F75AC319FA212D15A62095576A"
+    },
+    {
+      "file": "src/styles/app.css",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "38DB5C6CA39C930173970809F5B46F2830440276CBC457A0A726287726FDCB24"
+    },
+    {
+      "file": "src/styles/exhibitions.css",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "E532104E05900C0CCF1BD5498B65D13FBE8649C102B87B9450FE8529EEF9EBC1"
+    },
+    {
+      "file": "src/styles/fire-sprinkler.css",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "70B8D98750C2BDCB7A7B220B0105B7350DA222D2542C11D619C24E9529B412A4"
+    },
+    {
+      "file": "src/styles/global.css",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "DF7F3ECB271C0115826A46245736300B833CC76B278B0E2F4D8E5127098527AC"
+    },
+    {
+      "file": "src/styles/tokens.css",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "6154FA092F106082A0F9AA7132129712FDB587BC79A36D5BD296AF0037C472E2"
+    },
+    {
+      "file": "public/models/japanese-maple.glb",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "167858B8C7E4F3E51B1FC702B1C61061741D5DECFE2B14FA277457EA6E15615D"
+    },
+    {
+      "file": "public/projects/blender/fire-sprinkler/animation/sprinkler-preview.mkv",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "C01B5972C09C991B0A9791157C049C03A81BF3761DFF8B33CBCF08C6C8B26428"
+    },
+    {
+      "file": "public/projects/blender/fire-sprinkler/images/assembly.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "21F601A02B4A923F515E26E75C6C01B99FE89460E9822811605FD2DE68ADA44F"
+    },
+    {
+      "file": "public/projects/blender/fire-sprinkler/images/hero.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "7CE2001EF05CB2C1C45F556C96A89C801F3F0865574D5F87BCC6E822FB8E8525"
+    },
+    {
+      "file": "public/projects/blender/fire-sprinkler/images/material.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "B57CBBF1C7E82DE8370819225162B0F36C796BD39204568185DE0F7605372781"
+    },
+    {
+      "file": "public/projects/blender/fire-sprinkler/images/technical.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "5FE0BE127E6912229775D7A6EB4DBFE683641D4ABD7D660E3BB8C3F932E500DB"
+    },
+    {
+      "file": "source-assets/blender/animation/sprinkler-simulation.mkv",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "C01B5972C09C991B0A9791157C049C03A81BF3761DFF8B33CBCF08C6C8B26428"
+    },
+    {
+      "file": "source-assets/blender/blend-files/fire sprikler.blend",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "3FF753866E3BB81BCE3ED35EDB64F33C93439743969A799686E23855D16B5C56"
+    },
+    {
+      "file": "source-assets/blender/fire-sprinkler/brass.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "D13D00E8255E4F24696DDAB56DCC61216FBD45BD3A062359BF8C53A3A1C82354"
+    },
+    {
+      "file": "source-assets/blender/fire-sprinkler/collision.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "AD63092C0188C0681F7C528BA64FFE6EC82E082B69EC617A1FEF7AA19F87E36E"
+    },
+    {
+      "file": "source-assets/blender/fire-sprinkler/collision2.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "55BF34906B811503F551E9D072FC10246474D09F83968C4EA0CA4E04CF4D37DC"
+    },
+    {
+      "file": "source-assets/blender/fire-sprinkler/glass.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "4835D07EED6061C47C26E7ED557EF06ED753A73296DC38C985F8CD5A954A9CFD"
+    },
+    {
+      "file": "source-assets/blender/fire-sprinkler/model preview.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "7CE2001EF05CB2C1C45F556C96A89C801F3F0865574D5F87BCC6E822FB8E8525"
+    },
+    {
+      "file": "source-assets/blender/fire-sprinkler/stainless steel.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "E205C6D088F11EC2FECBF4BA40FE7295FF83427D6C550DDA9AEF46E6EA5C7D28"
+    },
+    {
+      "file": "source-assets/icameal/documentation/README.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "EF0EBE739D6A1A769A02FFF732B13D9D286E1E23EB220F6777C277125811D115"
+    },
+    {
+      "file": "source-assets/icameal/references/uchiko-hero-dry-aged-duck.webp",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "D383D023099B2E8331567A5D305752F3F58381BC6A42DEA3117A37D0468177FA"
+    },
+    {
+      "file": "source-assets/icameal/screenshots/anggaran.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "4AD41D614543355D5866E819E445FA38ED43875788471FA1229E576EE76E9B36"
+    },
+    {
+      "file": "source-assets/icameal/screenshots/bahan.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "06E5B9DDFFD6FD82FA9A7155CBC26ECE066DF3D06BCD3434DBD17197CC91447C"
+    },
+    {
+      "file": "source-assets/icameal/screenshots/footer.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "1AC1D2CB4FD45A593B417314E8E5B12A486A50105BBCA56B51003D32E643DA85"
+    },
+    {
+      "file": "source-assets/icameal/screenshots/hero.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "1FC22A7D9A2BA03DA17DCBDEDCAA954491826992AE4AAF1B96C7F5919162F309"
+    },
+    {
+      "file": "source-assets/icameal/screenshots/katalog.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "67AD6187D21DD362BC732A73A7642B12ADE5EE10B23DED8C6F7F779D67296B5A"
+    },
+    {
+      "file": "source-assets/icameal/screenshots/monthly plan.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "FE89FF68ABB43864460F448DB31B5529F403D6FD0BFA0E750046160D0A04CCB4"
+    },
+    {
+      "file": "source-assets/icameal/screenshots/week plan.png",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "8DE17ED321CCC66AC0B67551D7BDC09F0D888A6717ADF42D1BCF1056E03DDBD6"
+    },
+    {
+      "file": "source-assets/icameal/source code/app.js",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "E9DE992063A108723AE90B8F9B874DAF8C9C38B56F219B4A9E8CB1AD062E9AEC"
+    },
+    {
+      "file": "source-assets/icameal/source code/index.html",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "6C5A30CD505A9B46C17F68E913DBF2C081FA37B2E17C002455678F49A95BA060"
+    },
+    {
+      "file": "source-assets/icameal/source code/styles.css",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "E481490188E60621A8C0EDB2F8CF05777849A7B05AEE0AB7F66F5BA5606EAB8D"
+    },
+    {
+      "file": "source-assets/icameal/source code/supabase-client.js",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "1E29E0AE12355BA46B752E0F2DDB1632302136E9803184EB0D8805A23BCC816F"
+    },
+    {
+      "file": "source-assets/icameal/source code/SUPABASE_SETUP.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "EEB0C60E1348AC3EE0C5157B0E1E4C518D86F28BF04D68034A2DE68F298C5701"
+    },
+    {
+      "file": "source-assets/icameal/source code/assets/hero-botanical.svg",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "ADB90E8F87BFB027534B793527590EC56D64612A4FD5993B53EBA2BF8FA7382E"
+    },
+    {
+      "file": "source-assets/icameal/source code/supabase/migrations/20261118000000_expand_recipe_catalog_and_local_atlas.sql",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "95B258C8E66D65A955E70FA3BFCECFAC0642A0AA32D9CEBCEE7AB367523145BB"
+    },
+    {
+      "file": "source-assets/icameal/source code/supabase/migrations/20261118020000_replace_recipe_atlas_with_real_photos.sql",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "72099B0A77C1A3D541211AF1816A00F486E335683F15574E622FBD0427A3EF3D"
+    },
+    {
+      "file": ".gitignore",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "396A575B51DA55DA7F74C67E7AFDDF4A60ADD59022E5B6FFD8379F01FA895F49"
+    },
+    {
+      "file": "index.html",
+      "unchanged": false,
+      "authorized": true,
+      "hash": "B1AA2FE8657DFD6C10DC0C9FEAB2F145217893FB6CBD96BBB541FD5E75A74B1D"
+    },
+    {
+      "file": "mission-004b.html",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "DD11AF3121D54397E45660C88403649D35468302C93E8015E08F7A7D7D297EC8"
+    },
+    {
+      "file": "MISSION-006A.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "6FAF3EF2BBE24598B9EE855FEB03CF5BD1C8C37A385EAF1B948E705BC08960E5"
+    },
+    {
+      "file": "MISSION-006B.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "5FC42FFA3A279251D1783FA7AD7489D5D627BB920DAED58663187FA0CE0B63F2"
+    },
+    {
+      "file": "MISSION-006C.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "ADB183544FE13A8BA53132FC3BF00882DD876425523248E86301C52340932EE9"
+    },
+    {
+      "file": "MISSION-007.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "00698EF13B15529B64D018AE82DF1AD76EA6EA32BDB01155F4E5EB73254B07EE"
+    },
+    {
+      "file": "MISSION-008A.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "1168862584E67DAB4059CDB8AAE12DCADE4014A793FC822558797768A78D3B7E"
+    },
+    {
+      "file": "MISSION-008B.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "3B9D4D5862D3C96D0459E93CD43BBDBA55E0C4C34837F619DFCDE0D8BC98C339"
+    },
+    {
+      "file": "MISSION-008C-A.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "A1A1AF5C6EB948A31E28CAB76E96299C71A63CA2AC63B91C784737AADF8F8504"
+    },
+    {
+      "file": "MISSION-008C-B.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "B2DED0E0783114C882A136BB344FEC71D8035640D61D879481DE0D732442040F"
+    },
+    {
+      "file": "MISSION-009A.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "FFED94EB50505C20BD740FF12B35A51C132AFF9EC059BDB730D8637A53BAB595"
+    },
+    {
+      "file": "MISSION-009B.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "7419DF97C97302D4651B5215B6B4D7DBEAE4B798D24F2389F294F145DF4238C3"
+    },
+    {
+      "file": "package-lock.json",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "841E22A1FC1F58181B258BB61A5AB8C4C6A52D6463448712EE2EB09CDCBAA884"
+    },
+    {
+      "file": "package.json",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "4775F0328AA9753AD08ED9C60CC118D444A73A51DBF83AED662C30E46B90D7B1"
+    },
+    {
+      "file": "README.md",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "CD155D0F3750D3D0F26B39A1F86942106751ED0710C231875936D587B196367F"
+    },
+    {
+      "file": "tsconfig.app.json",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "8D072177DD9CAA120C74B657684C21F7EEDAD5CC8B99AD9FC4A85CBFDC5580E1"
+    },
+    {
+      "file": "tsconfig.json",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "770B4140BBB581E2DFD9EA9946FFC9C75A1D86BA7D2DB5F77C83E37CBDF9D808"
+    },
+    {
+      "file": "tsconfig.node.json",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "D7E09F25ACE085A5F2F189735AC78DD3456559842DE442D9066A8129CD48CC94"
+    },
+    {
+      "file": "vite.config.ts",
+      "unchanged": true,
+      "authorized": false,
+      "hash": "502EB069F8795A29EDE9DCF83D0B4B46D355D14106E61C4CACE62492D9389AF0"
+    }
+  ]
+}

@@ -1,0 +1,2083 @@
+{
+  "url": "http://127.0.0.1:4199",
+  "errors": [
+    "Failed to load resource: net::ERR_FAILED",
+    "THREE.WebGLRenderer: THREE.WebGLRenderer: Error creating WebGL context.",
+    "Error: THREE.WebGLRenderer: Error creating WebGL context.\n    at new Yb (http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4225:24361)\n    at B3 (http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4225:90403)\n    at b (http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4236:11837)\n    at Object.configure (http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4236:11951)\n    at http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4236:20250\n    at fn (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:92563)\n    at eo (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:97076)\n    at Jl (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:105943)\n    at eo (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:98068)\n    at Jl (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:105943)"
+  ],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "failedRequests": [
+    {
+      "requestId": "42300.27",
+      "timestamp": 641146.945678,
+      "type": "Media",
+      "errorText": "net::ERR_ABORTED",
+      "canceled": true
+    },
+    {
+      "requestId": "42300.28",
+      "timestamp": 641146.946438,
+      "type": "Media",
+      "errorText": "net::ERR_FAILED",
+      "canceled": false
+    }
+  ],
+  "httpErrors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4199/?audit=1",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/index-DETPWSkW.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/index-DyIcjQnb.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/material.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/technical.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/brass-DFMQIYi3.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/glass-CB8P4Xmp.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/animation/sprinkler-preview.mkv",
+      "type": "Media"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/animation/sprinkler-preview.mkv",
+      "type": "Media"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/collision-DIEN-YyX.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/collision2-Dum19H7H.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/?audit=2",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/index-DETPWSkW.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/index-DyIcjQnb.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/katalog-DHUrzRTq.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml,%3csvg%20viewBox='0%200%20920%20920'%20preserveAspectRatio='xMidYMid%20slice'%20xmlns='http://www.w3.org/2000/svg'%3e%3cdefs%3e%3clinearGradient%20id='wall'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e8e4d9'/%3e%3cstop%20offset='1'%20stop-color='%23d1cec1'/%3e%3c/linearGradient%3e%3clinearGradient%20id='floor'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%23e9e6dc'/%3e%3cstop%20offset='1'%20stop-color='%23c9c5b8'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaf'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3e%3cstop%20stop-color='%238f9a80'/%3e%3cstop%20offset='.5'%20stop-color='%23536348'/%3e%3cstop%20offset='1'%20stop-color='%23303f32'/%3e%3c/linearGradient%3e%3clinearGradient%20id='leaflight'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3e%3cstop%20stop-color='%23adb49a'/%3e%3cstop%20offset='1'%20stop-color='%23596b51'/%3e%3c/linearGradient%3e%3cfilter%20id='shadow'%3e%3cfeGaussianBlur%20stdDeviation='16'/%3e%3c/filter%3e%3cfilter%20id='grain'%3e%3cfeTurbulence%20type='fractalNoise'%20baseFrequency='.55'%20numOctaves='3'%20seed='4'/%3e%3cfeColorMatrix%20type='saturate'%20values='0'/%3e%3c/filter%3e%3c/defs%3e%3cpath%20d='M190%2068H852V713H190Z'%20fill='%23d9d5ca'/%3e%3cpath%20d='M190%2068H852L810%20116H239Z'%20fill='%23faf8f1'/%3e%3cpath%20d='M190%2068L239%20116V688L190%20729Z'%20fill='%23c6c3b7'/%3e%3cpath%20d='M239%20116H810V688H239Z'%20fill='url(%23wall)'/%3e%3cpath%20d='M810%20116L852%2068V729L810%20688Z'%20fill='%23bcb9ac'/%3e%3cpath%20d='M239%20688H810L920%20920H65Z'%20fill='url(%23floor)'/%3e%3cpath%20d='M239%20116H810V688H595Z'%20fill='%23f8f6ec'%20opacity='.32'/%3e%3cpath%20d='M239%20688H810L920%20920H570Z'%20fill='%23faf8ef'%20opacity='.22'/%3e%3cpath%20d='M307%20755C425%20720%20565%20725%20700%20795C760%20825%20765%20847%20686%20849L450%20835Z'%20fill='%23777b69'%20opacity='.22'%20filter='url(%23shadow)'/%3e%3cpath%20d='M394%20685L581%20685L618%20710L433%20714Z'%20fill='%23e9e6dc'/%3e%3cpath%20d='M433%20714L618%20710L618%20840L433%20854Z'%20fill='%23ccc8bc'/%3e%3cpath%20d='M394%20685L433%20714L433%20854L394%20822Z'%20fill='%23b9b7aa'/%3e%3cellipse%20cx='496'%20cy='691'%20rx='61'%20ry='12'%20fill='%237a806f'%20opacity='.22'/%3e%3cg%20fill='none'%20stroke='%23424f3d'%20stroke-linecap='round'%3e%3cpath%20d='M488%20687C488%20584%20485%20430%20500%20286'%20stroke-width='5'/%3e%3cpath%20d='M488%20630C459%20546%20419%20480%20369%20421M490%20584C532%20502%20576%20455%20630%20413M492%20520C458%20443%20445%20380%20439%20321M493%20479C538%20415%20557%20348%20565%20294'%20stroke-width='3'/%3e%3c/g%3e%3cg%20fill='url(%23leaf)'%3e%3cpath%20d='M478%20600C404%20605%20343%20564%20330%20504C383%20504%20445%20526%20478%20600Z'/%3e%3cpath%20d='M497%20569C547%20492%20623%20492%20675%20510C640%20562%20580%20590%20497%20569Z'/%3e%3cpath%20d='M481%20503C408%20481%20383%20425%20390%20372C438%20389%20480%20431%20481%20503Z'/%3e%3cpath%20d='M500%20466C523%20392%20585%20365%20633%20371C612%20425%20568%20461%20500%20466Z'/%3e%3cpath%20d='M497%20378C463%20322%20473%20260%20508%20219C533%20270%20532%20328%20497%20378Z'/%3e%3c/g%3e%3cg%20fill='url(%23leaflight)'%20opacity='.94'%3e%3cpath%20d='M464%20572C411%20550%20369%20516%20330%20504C375%20502%20433%20518%20464%20572Z'/%3e%3cpath%20d='M512%20551C570%20525%20620%20518%20675%20510C641%20541%20580%20558%20512%20551Z'/%3e%3cpath%20d='M473%20485C430%20450%20403%20412%20390%20372C437%20394%20469%20435%20473%20485Z'/%3e%3cpath%20d='M509%20449C551%20412%20592%20386%20633%20371C610%20413%20565%20441%20509%20449Z'/%3e%3cpath%20d='M498%20365C490%20304%20498%20256%20508%20219C522%20266%20514%20321%20498%20365Z'/%3e%3c/g%3e%3cg%20stroke='%23d6d9c7'%20stroke-width='1.2'%20opacity='.45'%20fill='none'%3e%3cpath%20d='M480%20597Q410%20538%20330%20504M500%20568Q590%20532%20675%20510M480%20502Q426%20434%20390%20372M502%20465Q565%20411%20633%20371M497%20378Q502%20298%20508%20219'/%3e%3c/g%3e%3cpath%20d='M239%20116H810V688H239Z'%20filter='url(%23grain)'%20opacity='.045'/%3e%3c/svg%3e",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/monthly%20plan-By13WU41.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/hero.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI1NSAyNTU7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSJXaW5kb3ciPgo8Zz4KCTxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPgoJPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMiIvPgo8L2c+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/collision-DIEN-YyX.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/collision2-Dum19H7H.png",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik05OCw0OXY0Yy0yNC45LDAtNDUsMjAuMS00NSw0NQoJYzAsMTgsMTAuNiwzMy42LDI1LjksNDAuOGwtMS43LDMuNmMwLjEsMCwwLjIsMC4xLDAuMywwLjFjLTAuMSwwLTAuMi0wLjEtMC4zLTAuMWwwLDBDNjAuNSwxMzQuNSw0OSwxMTcuNiw0OSw5OAoJQzQ5LDcwLjksNzAuOSw0OSw5OCw0OXoiLz4KPC9zdmc+Cg==",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjIuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTYgMTk2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxOTYgMTk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNDcsOThjMCwxOS42LTExLjUsMzYuNS0yOC4yLDQ0LjRsMCwwYy0wLjEsMC0wLjIsMC4xLTAuMywwLjEKCWMwLjEsMCwwLjItMC4xLDAuMy0wLjFsLTEuNy0zLjZDMTMyLjQsMTMxLjYsMTQzLDExNiwxNDMsOThjMC0yNC45LTIwLjEtNDUtNDUtNDV2LTRDMTI1LjEsNDksMTQ3LDcwLjksMTQ3LDk4eiIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTMgOXY2aDRsNSA1VjRMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K",
+      "type": "Image"
+    },
+    {
+      "url": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJXaW5kb3ciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+Cjwvc3ZnPgo=",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/glass-CB8P4Xmp.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/assets/brass-DFMQIYi3.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/technical.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/material.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/assembly.png",
+      "type": "Image"
+    }
+  ],
+  "viewports": [],
+  "interactions": [],
+  "checks": [
+    {
+      "name": "Actual failed video keeps caption, restores focus and removes download",
+      "passed": true
+    },
+    {
+      "name": "Chapter navigation works after video failure",
+      "passed": true
+    },
+    {
+      "name": "WebGL failure retains functioning IcaMeal",
+      "passed": true
+    },
+    {
+      "name": "Chapter navigation works without WebGL",
+      "passed": true
+    },
+    {
+      "name": "Fire Sprinkler also works without WebGL",
+      "passed": true
+    },
+    {
+      "name": "Gallery return works without WebGL",
+      "passed": true
+    }
+  ],
+  "timings": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/157.0.8103.79",
+    "revision": "@6dc9bc3bdaea5c35ed6d41fceab2f7a3a2227c4f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "jsVersion": "15.7.112.43"
+  },
+  "normalErrors": [],
+  "normalFailedRequests": [],
+  "videoFailure": {
+    "hash": "#project-fire-sprinkler-simulation",
+    "scrollY": 6522,
+    "docWidth": 390,
+    "clientWidth": 390,
+    "viewportWidth": 390,
+    "pageHeight": 11276,
+    "active": "P",
+    "article": "project-fire-sprinkler",
+    "current": [
+      "04Simulation"
+    ],
+    "regions": [
+      {
+        "class": "site-header",
+        "x": 24,
+        "y": -6498,
+        "w": 342,
+        "h": 29,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "relative"
+      },
+      {
+        "class": "hero-copy",
+        "x": 24,
+        "y": -6365,
+        "w": 342,
+        "h": 264,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "relative"
+      },
+      {
+        "class": "hero-title",
+        "x": 24,
+        "y": -6328,
+        "w": 342,
+        "h": 88,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "48px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "44.16px",
+        "position": "static"
+      },
+      {
+        "class": "gallery-viewport",
+        "x": 0,
+        "y": -6067,
+        "w": 390,
+        "h": 429,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "relative"
+      },
+      {
+        "class": "gallery-caption",
+        "x": 215,
+        "y": -5724,
+        "w": 151,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "absolute"
+      },
+      {
+        "class": "featured-work-index",
+        "x": 24,
+        "y": -5612,
+        "w": 342,
+        "h": 42,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "relative"
+      },
+      {
+        "class": "project-exhibition sprinkler-exhibition",
+        "x": 24,
+        "y": -5570,
+        "w": 342,
+        "h": 9734,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "26.4px",
+        "position": "static"
+      },
+      {
+        "class": "project-intro-grid",
+        "x": 24,
+        "y": -5409,
+        "w": 342,
+        "h": 526,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "26.4px",
+        "position": "static"
+      },
+      {
+        "class": "project-index",
+        "x": 24,
+        "y": -4406,
+        "w": 342,
+        "h": 227,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "19.8px",
+        "position": "static"
+      },
+      {
+        "class": "project-chapters",
+        "x": 24,
+        "y": -4123,
+        "w": 342,
+        "h": 8263,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "26.4px",
+        "position": "static"
+      }
+    ],
+    "controls": [
+      {
+        "text": "Skip to content",
+        "id": "",
+        "href": "#main-content",
+        "x": 12,
+        "y": -67,
+        "w": 140,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "fixed",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "THE CREATIVESPACE.",
+        "id": "",
+        "href": "#top",
+        "x": 24,
+        "y": -6498,
+        "w": 95,
+        "h": 29,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "14px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "14.7px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Work",
+        "id": "",
+        "href": "#featured-work",
+        "x": 183,
+        "y": -6498,
+        "w": 28,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "16.8px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Studies",
+        "id": "",
+        "href": "#studies",
+        "x": 225,
+        "y": -6498,
+        "w": 40,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "16.8px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "About",
+        "id": "",
+        "href": "#about",
+        "x": 279,
+        "y": -6498,
+        "w": 31,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "16.8px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Contact",
+        "id": "",
+        "href": "#contact",
+        "x": 325,
+        "y": -6498,
+        "w": 41,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "16.8px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Explore the work ↗",
+        "id": "",
+        "href": "#featured-work",
+        "x": 24,
+        "y": -6128,
+        "w": 118,
+        "h": 27,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "13px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18.2px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Inspect Specimen",
+        "id": "",
+        "href": null,
+        "x": 279,
+        "y": -5776,
+        "w": 87,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "11px",
+        "color": "rgb(85, 87, 79)",
+        "lineHeight": "normal",
+        "position": "absolute",
+        "outline": "rgb(85, 87, 79) none 3px",
+        "disabled": true
+      },
+      {
+        "text": "IcaMeal",
+        "id": "work-icameal",
+        "href": null,
+        "x": 79,
+        "y": -5602,
+        "w": 49,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "14px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "19.6px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px",
+        "disabled": false
+      },
+      {
+        "text": "Fire Sprinkler",
+        "id": "work-blender",
+        "href": null,
+        "x": 152,
+        "y": -5602,
+        "w": 83,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "14px",
+        "color": "rgb(154, 73, 52)",
+        "lineHeight": "19.6px",
+        "position": "static",
+        "outline": "rgb(154, 73, 52) none 3px",
+        "disabled": false
+      },
+      {
+        "text": "↑ Return to gallery",
+        "id": "",
+        "href": "#featured-work",
+        "x": 24,
+        "y": -5485,
+        "w": 102,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/projects/blender/fire-sprinkler/images/hero.png",
+        "x": 24,
+        "y": -4522,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "01Overview",
+        "id": "",
+        "href": "#project-fire-sprinkler",
+        "x": 24,
+        "y": -4379,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "02Form & Assembly",
+        "id": "",
+        "href": "#project-fire-sprinkler-assembly",
+        "x": 203,
+        "y": -4379,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "03Material Study",
+        "id": "",
+        "href": "#project-fire-sprinkler-materials",
+        "x": 24,
+        "y": -4335,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "04Simulation",
+        "id": "",
+        "href": "#project-fire-sprinkler-simulation",
+        "x": 203,
+        "y": -4335,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(154, 73, 52)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(154, 73, 52) none 3px"
+      },
+      {
+        "text": "05Technical Notes",
+        "id": "",
+        "href": "#project-fire-sprinkler-notes",
+        "x": 24,
+        "y": -4291,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "↑ Return to gallery",
+        "id": "",
+        "href": "#featured-work",
+        "x": 24,
+        "y": -4223,
+        "w": 102,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/projects/blender/fire-sprinkler/images/assembly.png",
+        "x": 24,
+        "y": -3517,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/projects/blender/fire-sprinkler/images/material.png",
+        "x": 24,
+        "y": -2199,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/projects/blender/fire-sprinkler/images/technical.png",
+        "x": 24,
+        "y": -1600,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/brass-DFMQIYi3.png",
+        "x": 24,
+        "y": -890,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/glass-CB8P4Xmp.png",
+        "x": 24,
+        "y": -125,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/collision-DIEN-YyX.png",
+        "x": 24,
+        "y": 2621,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/collision2-Dum19H7H.png",
+        "x": 24,
+        "y": 3307,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "↑ Return to gallery",
+        "id": "",
+        "href": "#featured-work",
+        "x": 24,
+        "y": 4096,
+        "w": 102,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Select IcaMeal ↗",
+        "id": "",
+        "href": null,
+        "x": 271,
+        "y": 4096,
+        "w": 96,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px",
+        "disabled": false
+      },
+      {
+        "text": "View specimen ↗",
+        "id": "",
+        "href": "#botanical-study",
+        "x": 24,
+        "y": 4356,
+        "w": 93,
+        "h": 32,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      }
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/hero.png",
+        "alt": "Complete Fire Sprinkler model against black, with a tabbed metal rim, angular side supports, a red glass element and gold-toned seats above a rectangular base.",
+        "loaded": true,
+        "intrinsic": [
+          1920,
+          1080
+        ],
+        "loading": "eager",
+        "x": 33,
+        "y": -4842,
+        "w": 324,
+        "h": 182
+      },
+      {
+        "src": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/assembly.png",
+        "alt": "Close view of the Fire Sprinkler’s central red glass element between gold-toned seats, framed by angular metal supports; the rim and base extend beyond the supplied frame.",
+        "loaded": true,
+        "intrinsic": [
+          1920,
+          1080
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": -3837,
+        "w": 324,
+        "h": 182
+      },
+      {
+        "src": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/material.png",
+        "alt": "Close view of the Fire Sprinkler’s metallic upper cylinder and rim of rectangular tabs, with a gold-toned seat and red glass element below.",
+        "loaded": true,
+        "intrinsic": [
+          1920,
+          1080
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": -2539,
+        "w": 324,
+        "h": 182
+      },
+      {
+        "src": "http://127.0.0.1:4199/projects/blender/fire-sprinkler/images/technical.png",
+        "alt": "Stainless shader graph linking UV coordinates through Mapping, Noise Texture and Bump to a Principled BSDF normal input, with metallic 1 and roughness 0.2.",
+        "loaded": true,
+        "intrinsic": [
+          1520,
+          567
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": -1878,
+        "w": 324,
+        "h": 121
+      },
+      {
+        "src": "http://127.0.0.1:4199/assets/brass-DFMQIYi3.png",
+        "alt": "Blender viewport with the lower gold-toned seat selected above a brass Principled BSDF connected to Material Output, showing metallic 1 and roughness 0.3.",
+        "loaded": true,
+        "intrinsic": [
+          1695,
+          1347
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": -1305,
+        "w": 324,
+        "h": 257
+      },
+      {
+        "src": "http://127.0.0.1:4199/assets/glass-CB8P4Xmp.png",
+        "alt": "Blender viewport with the central red glass element selected above its Principled shader, showing a red base color, metallic 0, roughness 0.05 and IOR 1.45.",
+        "loaded": true,
+        "intrinsic": [
+          1692,
+          1357
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": -543,
+        "w": 324,
+        "h": 260
+      },
+      {
+        "src": "http://127.0.0.1:4199/assets/collision-DIEN-YyX.png",
+        "alt": "Blender Collision panel with Particle damping and friction at zero, followed by separate Softbody and Cloth settings.",
+        "loaded": true,
+        "intrinsic": [
+          395,
+          575
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": 1992,
+        "w": 324,
+        "h": 472
+      },
+      {
+        "src": "",
+        "alt": "Blender Collision panel with Particle damping and friction at 0.1, followed by separate Softbody and Cloth settings.",
+        "loaded": false,
+        "intrinsic": [
+          0,
+          0
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": 2722,
+        "w": 324,
+        "h": 447
+      }
+    ],
+    "overflow": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "THE CREATIVESPACE.",
+        "x": 24,
+        "y": -6328,
+        "w": 342,
+        "h": 88,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "48px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "44.16px",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Featured work",
+        "x": 79,
+        "y": -5612,
+        "w": 156,
+        "h": 15,
+        "font": "\"IBM Plex Mono\", \"Courier New\", monospace",
+        "size": "10px",
+        "color": "rgb(85, 87, 79)",
+        "lineHeight": "15px",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Fire Sprinkler",
+        "x": 24,
+        "y": -5378,
+        "w": 342,
+        "h": 40,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "40px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "40px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "A compact assembly around a central element",
+        "x": 24,
+        "y": -4096,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "Three materials, with distinct surface roles",
+        "x": 24,
+        "y": -2798,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Stainless — procedural surface detail",
+        "x": 24,
+        "y": -2115,
+        "w": 342,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Brass — warm metallic contacts",
+        "x": 24,
+        "y": -1516,
+        "w": 342,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Glass — a red central accent",
+        "x": 24,
+        "y": -806,
+        "w": 342,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "Recorded motion as a particle experiment",
+        "x": 24,
+        "y": 42,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Configuration, with a clear boundary",
+        "x": 41,
+        "y": 725,
+        "w": 325,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "Workflow evidence and current limits",
+        "x": 24,
+        "y": 1141,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Current limits",
+        "x": 42,
+        "y": 3415,
+        "w": 324,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Studies",
+        "x": 24,
+        "y": 4269,
+        "w": 342,
+        "h": 32,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "28px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "About",
+        "x": 24,
+        "y": 4453,
+        "w": 342,
+        "h": 32,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "28px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Contact",
+        "x": 24,
+        "y": 4588,
+        "w": 342,
+        "h": 32,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "28px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "static"
+      }
+    ],
+    "video": null
+  },
+  "webglFailure": {
+    "hash": "#project-icameal-budget",
+    "scrollY": 3135,
+    "docWidth": 390,
+    "clientWidth": 390,
+    "viewportWidth": 390,
+    "pageHeight": 10617,
+    "active": "project-icameal-budget",
+    "article": "project-icameal",
+    "current": [
+      "03Budget & Weekly Menu"
+    ],
+    "regions": [
+      {
+        "class": "site-header",
+        "x": 24,
+        "y": -3111,
+        "w": 342,
+        "h": 29,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "relative"
+      },
+      {
+        "class": "hero-copy",
+        "x": 24,
+        "y": -2978,
+        "w": 342,
+        "h": 264,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "relative"
+      },
+      {
+        "class": "hero-title",
+        "x": 24,
+        "y": -2941,
+        "w": 342,
+        "h": 88,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "48px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "44.16px",
+        "position": "static"
+      },
+      {
+        "class": "gallery-viewport",
+        "x": 0,
+        "y": -2680,
+        "w": 390,
+        "h": 429,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "relative"
+      },
+      {
+        "class": "gallery-caption",
+        "x": 215,
+        "y": -2337,
+        "w": 151,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "absolute"
+      },
+      {
+        "class": "featured-work-index",
+        "x": 24,
+        "y": -2225,
+        "w": 342,
+        "h": 42,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "relative"
+      },
+      {
+        "class": "project-exhibition",
+        "x": 24,
+        "y": -2183,
+        "w": 342,
+        "h": 9074,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "26.4px",
+        "position": "static"
+      },
+      {
+        "class": "project-intro-grid",
+        "x": 24,
+        "y": -2022,
+        "w": 342,
+        "h": 524,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "26.4px",
+        "position": "static"
+      },
+      {
+        "class": "project-index",
+        "x": 24,
+        "y": -1091,
+        "w": 342,
+        "h": 271,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "19.8px",
+        "position": "static"
+      },
+      {
+        "class": "project-chapters",
+        "x": 24,
+        "y": -764,
+        "w": 342,
+        "h": 7632,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "26.4px",
+        "position": "static"
+      }
+    ],
+    "controls": [
+      {
+        "text": "Skip to content",
+        "id": "",
+        "href": "#main-content",
+        "x": 12,
+        "y": -67,
+        "w": 140,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "fixed",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "THE CREATIVESPACE.",
+        "id": "",
+        "href": "#top",
+        "x": 24,
+        "y": -3111,
+        "w": 95,
+        "h": 29,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "14px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "14.7px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Work",
+        "id": "",
+        "href": "#featured-work",
+        "x": 183,
+        "y": -3111,
+        "w": 28,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "16.8px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Studies",
+        "id": "",
+        "href": "#studies",
+        "x": 225,
+        "y": -3111,
+        "w": 40,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "16.8px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "About",
+        "id": "",
+        "href": "#about",
+        "x": 279,
+        "y": -3111,
+        "w": 31,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "16.8px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Contact",
+        "id": "",
+        "href": "#contact",
+        "x": 325,
+        "y": -3111,
+        "w": 41,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "16.8px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Explore the work ↗",
+        "id": "",
+        "href": "#featured-work",
+        "x": 24,
+        "y": -2741,
+        "w": 118,
+        "h": 27,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "13px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18.2px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Inspect Specimen",
+        "id": "",
+        "href": null,
+        "x": 279,
+        "y": -2389,
+        "w": 87,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "11px",
+        "color": "rgb(85, 87, 79)",
+        "lineHeight": "normal",
+        "position": "absolute",
+        "outline": "rgb(85, 87, 79) none 3px",
+        "disabled": true
+      },
+      {
+        "text": "IcaMeal",
+        "id": "work-icameal",
+        "href": null,
+        "x": 79,
+        "y": -2215,
+        "w": 49,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "14px",
+        "color": "rgb(154, 73, 52)",
+        "lineHeight": "19.6px",
+        "position": "static",
+        "outline": "rgb(154, 73, 52) none 3px",
+        "disabled": false
+      },
+      {
+        "text": "Fire Sprinkler",
+        "id": "work-blender",
+        "href": null,
+        "x": 152,
+        "y": -2215,
+        "w": 83,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "14px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "19.6px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px",
+        "disabled": false
+      },
+      {
+        "text": "↑ Return to gallery",
+        "id": "",
+        "href": "#featured-work",
+        "x": 24,
+        "y": -2098,
+        "w": 102,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/bahan-RUEhm3Gc.png",
+        "x": 24,
+        "y": -1207,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "01Overview",
+        "id": "",
+        "href": "#project-icameal",
+        "x": 24,
+        "y": -1064,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "02Identity",
+        "id": "",
+        "href": "#project-icameal-identity",
+        "x": 203,
+        "y": -1064,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "03Budget & Weekly Menu",
+        "id": "",
+        "href": "#project-icameal-budget",
+        "x": 24,
+        "y": -1020,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(154, 73, 52)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(154, 73, 52) none 3px"
+      },
+      {
+        "text": "04Recipes & Shopping",
+        "id": "",
+        "href": "#project-icameal-recipes",
+        "x": 203,
+        "y": -1020,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "05Monthly & Club",
+        "id": "",
+        "href": "#project-icameal-access",
+        "x": 24,
+        "y": -976,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "06Architecture",
+        "id": "",
+        "href": "#project-icameal-architecture",
+        "x": 203,
+        "y": -976,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "07Notes",
+        "id": "",
+        "href": "#project-icameal-notes",
+        "x": 24,
+        "y": -932,
+        "w": 163,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "↑ Return to gallery",
+        "id": "",
+        "href": "#featured-work",
+        "x": 24,
+        "y": -864,
+        "w": 102,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/hero-botanical-DZEFhpS7.svg",
+        "x": 24,
+        "y": -291,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/anggaran-Dgnnkmxf.png",
+        "x": 24,
+        "y": 646,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/week%20plan-ALiaedfE.png",
+        "x": 24,
+        "y": 1224,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/katalog-DHUrzRTq.png",
+        "x": 24,
+        "y": 2207,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "opening shopping screen",
+        "id": "",
+        "href": "#project-icameal",
+        "x": 73,
+        "y": 2324,
+        "w": 179,
+        "h": 17,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "26.4px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Repeated recipes can undercount ingredients in the current prototype.",
+        "id": "",
+        "href": "#project-icameal-notes",
+        "x": 41,
+        "y": 2480,
+        "w": 323,
+        "h": 43,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "16px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "26.4px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/monthly%20plan-By13WU41.png",
+        "x": 24,
+        "y": 3228,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "View full image (new tab) ↗",
+        "id": "",
+        "href": "/assets/footer-BymU2Wy0.png",
+        "x": 24,
+        "y": 3601,
+        "w": 155,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "↑ Return to gallery",
+        "id": "",
+        "href": "#featured-work",
+        "x": 24,
+        "y": 6824,
+        "w": 102,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      },
+      {
+        "text": "Select Fire Sprinkler ↗",
+        "id": "",
+        "href": null,
+        "x": 241,
+        "y": 6824,
+        "w": 125,
+        "h": 44,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "18px",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px",
+        "disabled": false
+      },
+      {
+        "text": "View specimen ↗",
+        "id": "",
+        "href": "#botanical-study",
+        "x": 24,
+        "y": 7083,
+        "w": 93,
+        "h": 32,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "12px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "static",
+        "outline": "rgb(36, 37, 32) none 3px"
+      }
+    ],
+    "images": [
+      {
+        "src": "http://127.0.0.1:4199/assets/bahan-RUEhm3Gc.png",
+        "alt": "IcaMeal shopping checklist grouped into protein, carbohydrates, vegetables and spices, with zero of 23 ingredients checked.",
+        "loaded": true,
+        "intrinsic": [
+          2527,
+          876
+        ],
+        "loading": "eager",
+        "x": 33,
+        "y": -1457,
+        "w": 324,
+        "h": 112
+      },
+      {
+        "src": "http://127.0.0.1:4199/assets/hero-botanical-DZEFhpS7.svg",
+        "alt": "IcaMeal botanical strip detail with dark green stems, leaves and small flowers on a warm orange background.",
+        "loaded": true,
+        "intrinsic": [
+          220,
+          56
+        ],
+        "loading": "lazy",
+        "x": 41,
+        "y": -475,
+        "w": 308,
+        "h": 78
+      },
+      {
+        "src": "http://127.0.0.1:4199/assets/anggaran-Dgnnkmxf.png",
+        "alt": "IcaMeal budget view with a 120,000 rupiah weekly budget, four eating preferences, an 85,000 estimate and 35,000 remaining.",
+        "loaded": true,
+        "intrinsic": [
+          2526,
+          1332
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": 318,
+        "w": 324,
+        "h": 171
+      },
+      {
+        "src": "http://127.0.0.1:4199/assets/week%20plan-ALiaedfE.png",
+        "alt": "IcaMeal weekly view with seven menu cards, four marked premium, and selected chicken recipe cost and macronutrients.",
+        "loaded": true,
+        "intrinsic": [
+          2521,
+          1327
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": 895,
+        "w": 324,
+        "h": 171
+      },
+      {
+        "src": "http://127.0.0.1:4199/assets/katalog-DHUrzRTq.png",
+        "alt": "IcaMeal recipe index with ten numbered rows, preparation times, price labels and a translucent chicken recipe preview.",
+        "loaded": true,
+        "intrinsic": [
+          2518,
+          1328
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": 1858,
+        "w": 324,
+        "h": 171
+      },
+      {
+        "src": "",
+        "alt": "IcaMeal 30-day menu calendar with recipe names and prices beside selected honey-roast chicken details; the page heading is partly clipped.",
+        "loaded": false,
+        "intrinsic": [
+          0,
+          0
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": 2879,
+        "w": 324,
+        "h": 171
+      },
+      {
+        "src": "",
+        "alt": "IcaMeal Good Food Club offer with a 25,000 rupiah monthly snapshot price and a join control beside a large typographic club panel.",
+        "loaded": false,
+        "intrinsic": [
+          0,
+          0
+        ],
+        "loading": "lazy",
+        "x": 33,
+        "y": 3313,
+        "w": 324,
+        "h": 129
+      }
+    ],
+    "overflow": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "THE CREATIVESPACE.",
+        "x": 24,
+        "y": -2941,
+        "w": 342,
+        "h": 88,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "48px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "44.16px",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Featured work",
+        "x": 79,
+        "y": -2225,
+        "w": 156,
+        "h": 15,
+        "font": "\"IBM Plex Mono\", \"Courier New\", monospace",
+        "size": "10px",
+        "color": "rgb(85, 87, 79)",
+        "lineHeight": "15px",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "IcaMeal",
+        "x": 24,
+        "y": -1991,
+        "w": 342,
+        "h": 40,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "40px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "40px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "A culinary editorial identity",
+        "x": 24,
+        "y": -737,
+        "w": 342,
+        "h": 31,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "From an amount to seven meals",
+        "x": 24,
+        "y": 32,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "Recipes become a shopping checklist",
+        "x": 24,
+        "y": 1573,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "One list for the week",
+        "x": 41,
+        "y": 2283,
+        "w": 325,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "A month of ideas, with an access boundary",
+        "x": 24,
+        "y": 2620,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Simulated checkout",
+        "x": 41,
+        "y": 3669,
+        "w": 325,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "A static frontend, with client integration",
+        "x": 24,
+        "y": 3969,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Guest state",
+        "x": 24,
+        "y": 4761,
+        "w": 342,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Authenticated requests",
+        "x": 24,
+        "y": 4951,
+        "w": 342,
+        "h": 25,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "Current limits and possible next work",
+        "x": 24,
+        "y": 5444,
+        "w": 342,
+        "h": 62,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "27px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "31.05px",
+        "position": "static"
+      },
+      {
+        "tag": "H4",
+        "text": "Repeated-recipe ingredient undercount — unresolved",
+        "x": 42,
+        "y": 5694,
+        "w": 324,
+        "h": 50,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "18px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "25.2px",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Studies",
+        "x": 24,
+        "y": 6997,
+        "w": 342,
+        "h": 32,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "28px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "About",
+        "x": 24,
+        "y": 7180,
+        "w": 342,
+        "h": 32,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "28px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Contact",
+        "x": 24,
+        "y": 7316,
+        "w": 342,
+        "h": 32,
+        "font": "\"Instrument Sans\", Arial, sans-serif",
+        "size": "28px",
+        "color": "rgb(36, 37, 32)",
+        "lineHeight": "normal",
+        "position": "static"
+      }
+    ],
+    "video": null
+  },
+  "deliberateErrors": [
+    "Failed to load resource: net::ERR_FAILED",
+    "THREE.WebGLRenderer: THREE.WebGLRenderer: Error creating WebGL context.",
+    "Error: THREE.WebGLRenderer: Error creating WebGL context.\n    at new Yb (http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4225:24361)\n    at B3 (http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4225:90403)\n    at b (http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4236:11837)\n    at Object.configure (http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4236:11951)\n    at http://127.0.0.1:4199/assets/GalleryCanvas-CNIIIxaY.js:4236:20250\n    at fn (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:92563)\n    at eo (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:97076)\n    at Jl (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:105943)\n    at eo (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:98068)\n    at Jl (http://127.0.0.1:4199/assets/index-DETPWSkW.js:8:105943)"
+  ],
+  "deliberateFailedRequests": [
+    {
+      "requestId": "42300.27",
+      "timestamp": 641146.945678,
+      "type": "Media",
+      "errorText": "net::ERR_ABORTED",
+      "canceled": true
+    },
+    {
+      "requestId": "42300.28",
+      "timestamp": 641146.946438,
+      "type": "Media",
+      "errorText": "net::ERR_FAILED",
+      "canceled": false
+    }
+  ]
+}

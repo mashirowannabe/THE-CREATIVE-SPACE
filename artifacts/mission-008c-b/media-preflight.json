@@ -1,0 +1,24 @@
+{
+  "errors": [
+    "404: http://127.0.0.1:5174/favicon.ico",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "warnings": [],
+  "viewports": [],
+  "failures": [],
+  "lifecycle": {},
+  "interactions": [],
+  "media": {
+    "duration": 10.417,
+    "width": 1920,
+    "height": 1080,
+    "readyState": 4,
+    "mkv": "maybe",
+    "webm": "maybe",
+    "mp4": "maybe"
+  },
+  "playback": {
+    "time": 0.543,
+    "paused": false
+  }
+}

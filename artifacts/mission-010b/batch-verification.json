@@ -1,0 +1,370 @@
+{
+  "checks": [
+    {
+      "name": "Transparent leaves retain original mesh path",
+      "passed": true
+    },
+    {
+      "name": "Incompatible bind matrix retains original mesh path",
+      "passed": true
+    },
+    {
+      "name": "Incompatible attributes retain original mesh path",
+      "passed": true
+    },
+    {
+      "name": "Animated mesh targets retain original mesh path",
+      "passed": true
+    },
+    {
+      "name": "Batch retains original skeleton and bind matrix",
+      "passed": true
+    },
+    {
+      "name": "Only trunk and batched leaves remain attached",
+      "passed": true
+    },
+    {
+      "name": "Original position attribute values preserved",
+      "passed": true
+    },
+    {
+      "name": "Original normal attribute values preserved",
+      "passed": true
+    },
+    {
+      "name": "Original skinIndex attribute values preserved",
+      "passed": true
+    },
+    {
+      "name": "Original skinWeight attribute values preserved",
+      "passed": true
+    },
+    {
+      "name": "Original uv attribute values preserved",
+      "passed": true
+    },
+    {
+      "name": "Original triangle winding and indices preserved",
+      "passed": true
+    },
+    {
+      "name": "All posed leaf vertices match at 0s / scale 1",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 0.01s / scale 1",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 0.5s / scale 1",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 1s / scale 1",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 2.5s / scale 1",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 5s / scale 1",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 7.5s / scale 1",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 9.99s / scale 1",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 0s / scale 0.1497187661888292",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 0.01s / scale 0.1497187661888292",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 0.5s / scale 0.1497187661888292",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 1s / scale 0.1497187661888292",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 2.5s / scale 0.1497187661888292",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 5s / scale 0.1497187661888292",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 7.5s / scale 0.1497187661888292",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "All posed leaf vertices match at 9.99s / scale 0.1497187661888292",
+      "passed": true,
+      "evidence": 0
+    },
+    {
+      "name": "Cleanup restores original meshes and child order",
+      "passed": true
+    },
+    {
+      "name": "Owned geometry disposal is idempotent",
+      "passed": true
+    },
+    {
+      "name": "Source geometry remains intact after cleanup",
+      "passed": true
+    }
+  ],
+  "samples": [
+    {
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "scale": 1,
+        "yaw": 0
+      },
+      "time": 0,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "scale": 1,
+        "yaw": 0
+      },
+      "time": 0.01,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "scale": 1,
+        "yaw": 0
+      },
+      "time": 0.5,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "scale": 1,
+        "yaw": 0
+      },
+      "time": 1,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "scale": 1,
+        "yaw": 0
+      },
+      "time": 2.5,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "scale": 1,
+        "yaw": 0
+      },
+      "time": 5,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "scale": 1,
+        "yaw": 0
+      },
+      "time": 7.5,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "scale": 1,
+        "yaw": 0
+      },
+      "time": 9.99,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "scale": 0.1497187661888292,
+        "yaw": -1.5707963267948966
+      },
+      "time": 0,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "scale": 0.1497187661888292,
+        "yaw": -1.5707963267948966
+      },
+      "time": 0.01,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "scale": 0.1497187661888292,
+        "yaw": -1.5707963267948966
+      },
+      "time": 0.5,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "scale": 0.1497187661888292,
+        "yaw": -1.5707963267948966
+      },
+      "time": 1,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "scale": 0.1497187661888292,
+        "yaw": -1.5707963267948966
+      },
+      "time": 2.5,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "scale": 0.1497187661888292,
+        "yaw": -1.5707963267948966
+      },
+      "time": 5,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "scale": 0.1497187661888292,
+        "yaw": -1.5707963267948966
+      },
+      "time": 7.5,
+      "vertices": 72000,
+      "maxError": 0
+    },
+    {
+      "transform": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "scale": 0.1497187661888292,
+        "yaw": -1.5707963267948966
+      },
+      "time": 9.99,
+      "vertices": 72000,
+      "maxError": 0
+    }
+  ]
+}

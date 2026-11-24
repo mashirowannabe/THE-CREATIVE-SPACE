@@ -1,0 +1,921 @@
+{
+  "source": "source-assets/blender/blend-files/fire sprikler.blend",
+  "blender": "5.3.0",
+  "scene": {
+    "engine": "BLENDER_EEVEE",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 24.0,
+    "frames": [
+      1,
+      250
+    ],
+    "saved_frame": 0
+  },
+  "objects": [
+    {
+      "name": "Light",
+      "type": "LIGHT",
+      "location": [
+        4.076245307922363,
+        1.0054539442062378,
+        5.903861999511719
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Camera",
+      "type": "CAMERA",
+      "location": [
+        6.619570732116699,
+        -5.316118240356445,
+        6.550056457519531
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Circle",
+      "type": "MESH",
+      "location": [
+        -0.001358632929623127,
+        0.006519746966660023,
+        0.8863680958747864
+      ],
+      "dimensions": [
+        1.1340261697769165,
+        1.1340261697769165,
+        0.1256324052810669
+      ],
+      "materials": [
+        "stainless"
+      ],
+      "modifiers": [
+        {
+          "name": "Bevel",
+          "type": "BEVEL"
+        },
+        {
+          "name": "Collision",
+          "type": "COLLISION"
+        }
+      ],
+      "vertices": 216,
+      "polygons": 216,
+      "collision": {
+        "use": true,
+        "damping_factor": 0.10000000149011612,
+        "damping_random": 0.0,
+        "friction_factor": 0.10000000149011612,
+        "friction_random": 0.0,
+        "stickiness": 0.0,
+        "permeability": 0.0,
+        "use_particle_kill": false,
+        "thickness_outer": 0.019999999552965164,
+        "thickness_inner": 0.20000000298023224,
+        "damping": 0.10000000149011612,
+        "cloth_friction": 5.0,
+        "use_culling": true
+      }
+    },
+    {
+      "name": "Cylinder",
+      "type": "MESH",
+      "location": [
+        -0.0006158947944641113,
+        0.008128926157951355,
+        1.6456516981124878
+      ],
+      "dimensions": [
+        0.31206202507019043,
+        0.8287354111671448,
+        1.1985297203063965
+      ],
+      "materials": [
+        "stainless"
+      ],
+      "modifiers": [
+        {
+          "name": "Collision",
+          "type": "COLLISION"
+        },
+        {
+          "name": "Smooth by Angle",
+          "type": "NODES"
+        }
+      ],
+      "vertices": 418,
+      "polygons": 396,
+      "collision": {
+        "use": true,
+        "damping_factor": 0.0,
+        "damping_random": 0.0,
+        "friction_factor": 0.0,
+        "friction_random": 0.0,
+        "stickiness": 0.0,
+        "permeability": 0.0,
+        "use_particle_kill": false,
+        "thickness_outer": 0.019999999552965164,
+        "thickness_inner": 0.20000000298023224,
+        "damping": 0.10000000149011612,
+        "cloth_friction": 5.0,
+        "use_culling": true
+      }
+    },
+    {
+      "name": "Empty",
+      "type": "EMPTY",
+      "location": [
+        -0.9046509265899658,
+        1.1433342695236206,
+        1.3239439725875854
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Cube",
+      "type": "MESH",
+      "location": [
+        -0.003936069086194038,
+        0.008775770664215088,
+        0.6714757084846497
+      ],
+      "dimensions": [
+        0.504119873046875,
+        0.6234899759292603,
+        0.15000000596046448
+      ],
+      "materials": [
+        "stainless"
+      ],
+      "modifiers": [
+        {
+          "name": "Collision",
+          "type": "COLLISION"
+        }
+      ],
+      "vertices": 514,
+      "polygons": 488,
+      "collision": {
+        "use": true,
+        "damping_factor": 0.0,
+        "damping_random": 0.0,
+        "friction_factor": 0.0,
+        "friction_random": 0.0,
+        "stickiness": 0.0,
+        "permeability": 0.0,
+        "use_particle_kill": false,
+        "thickness_outer": 0.019999999552965164,
+        "thickness_inner": 0.20000000298023224,
+        "damping": 0.10000000149011612,
+        "cloth_friction": 5.0,
+        "use_culling": true
+      }
+    },
+    {
+      "name": "Sphere",
+      "type": "MESH",
+      "location": [
+        0.0016797073185443878,
+        0.006573681719601154,
+        0.8454450368881226
+      ],
+      "dimensions": [
+        0.19999995827674866,
+        0.19999998807907104,
+        0.10142774134874344
+      ],
+      "materials": [
+        "brass"
+      ],
+      "modifiers": [
+        {
+          "name": "Smooth by Angle",
+          "type": "NODES"
+        }
+      ],
+      "vertices": 265,
+      "polygons": 265
+    },
+    {
+      "name": "Cylinder.001",
+      "type": "MESH",
+      "location": [
+        -0.002003449946641922,
+        0.008401545695960522,
+        1.137892246246338
+      ],
+      "dimensions": [
+        0.05999999865889549,
+        0.05999999865889549,
+        0.5999996662139893
+      ],
+      "materials": [
+        "glass"
+      ],
+      "modifiers": [
+        {
+          "name": "Smooth by Angle",
+          "type": "NODES"
+        }
+      ],
+      "vertices": 72,
+      "polygons": 50
+    },
+    {
+      "name": "Cylinder.002",
+      "type": "MESH",
+      "location": [
+        -0.0013034723233431578,
+        0.00785842351615429,
+        1.472590446472168
+      ],
+      "dimensions": [
+        0.10744116455316544,
+        0.10744116455316544,
+        0.06939710676670074
+      ],
+      "materials": [
+        "brass"
+      ],
+      "modifiers": [
+        {
+          "name": "Smooth by Angle",
+          "type": "NODES"
+        }
+      ],
+      "vertices": 168,
+      "polygons": 146
+    },
+    {
+      "name": "Empty.001",
+      "type": "EMPTY",
+      "location": [
+        -2.8689115047454834,
+        0.22719717025756836,
+        1.6121628284454346
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Circle.001",
+      "type": "MESH",
+      "location": [
+        -0.0029135234653949738,
+        0.006248369812965393,
+        1.437891960144043
+      ],
+      "dimensions": [
+        0.06811729073524475,
+        0.06811729073524475,
+        0.0
+      ],
+      "materials": [],
+      "modifiers": [
+        {
+          "name": "ParticleSystem",
+          "type": "PARTICLE_SYSTEM"
+        }
+      ],
+      "vertices": 32,
+      "polygons": 0,
+      "particles": [
+        {
+          "count": 10000,
+          "frame_start": 1.0,
+          "frame_end": 200.0,
+          "lifetime": 30.0,
+          "physics_type": "NEWTON",
+          "normal_factor": 6.0,
+          "factor_random": 1.0,
+          "render_type": "OBJECT",
+          "particle_size": 1.0,
+          "size_random": 0.800000011920929,
+          "use_rotations": false,
+          "emit_from": "FACE",
+          "instance_object": "Icosphere",
+          "cache_baked": false
+        }
+      ]
+    },
+    {
+      "name": "Icosphere",
+      "type": "MESH",
+      "location": [
+        -0.2738058567047119,
+        -1.560171127319336,
+        1.3433195352554321
+      ],
+      "dimensions": [
+        0.05135703086853027,
+        0.053999897092580795,
+        0.053999900817871094
+      ],
+      "materials": [
+        "Material.001",
+        "glass"
+      ],
+      "modifiers": [
+        {
+          "name": "Smooth by Angle",
+          "type": "NODES"
+        }
+      ],
+      "vertices": 42,
+      "polygons": 80
+    },
+    {
+      "name": "Area",
+      "type": "LIGHT",
+      "location": [
+        5.224814414978027,
+        -0.0698961615562439,
+        3.2042031288146973
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Area.001",
+      "type": "LIGHT",
+      "location": [
+        0.06538555026054382,
+        5.173717498779297,
+        2.7643344402313232
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Empty.002",
+      "type": "EMPTY",
+      "location": [
+        -0.0006158947944641113,
+        0.01361607015132904,
+        1.084663987159729
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [],
+      "modifiers": []
+    }
+  ],
+  "materials": [
+    {
+      "name": "brass",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "ShaderNodeBsdfPrincipled",
+          "inputs": {
+            "Base Color": [
+              0.7835379838943481,
+              0.5332765579223633,
+              0.09758737683296204,
+              1.0
+            ],
+            "Metallic": 1.0,
+            "Roughness": 0.30000001192092896,
+            "IOR": 1.5,
+            "Alpha": 1.0,
+            "Thin Wall": false,
+            "Normal": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Weight": 0.0,
+            "Diffuse Roughness": 0.0,
+            "Subsurface Weight": 0.0,
+            "Subsurface Radius": [
+              1.0,
+              0.20000000298023224,
+              0.10000000149011612
+            ],
+            "Subsurface Scale": 0.004999999888241291,
+            "Subsurface IOR": 1.399999976158142,
+            "Subsurface Anisotropy": 0.0,
+            "Specular IOR Level": 0.5,
+            "Specular Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Anisotropic": 0.0,
+            "Anisotropic Rotation": 0.0,
+            "Tangent": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Transmission Weight": 0.0,
+            "Transmission Dispersion Scale": 0.0,
+            "Transmission Dispersion Abbe Number": 20.0,
+            "Coat Weight": 0.0,
+            "Coat Roughness": 0.029999999329447746,
+            "Coat IOR": 1.5,
+            "Coat Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Coat Normal": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Sheen Weight": 0.0,
+            "Sheen Roughness": 0.5,
+            "Sheen Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Emission Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Emission Strength": 0.0,
+            "Thin Film Thickness": 0.0,
+            "Thin Film IOR": 1.3300000429153442
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "ShaderNodeOutputMaterial",
+          "inputs": {
+            "Displacement": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Thickness": 0.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "Principled BSDF",
+          "output": "BSDF",
+          "to": "Material Output",
+          "input": "Surface"
+        }
+      ]
+    },
+    {
+      "name": "glass",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "ShaderNodeBsdfPrincipled",
+          "inputs": {
+            "Base Color": [
+              1.0,
+              0.08390676230192184,
+              0.10306093096733093,
+              1.0
+            ],
+            "Metallic": 0.0,
+            "Roughness": 0.05000000074505806,
+            "IOR": 1.4500000476837158,
+            "Alpha": 1.0,
+            "Thin Wall": false,
+            "Normal": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Weight": 0.0,
+            "Diffuse Roughness": 0.0,
+            "Subsurface Weight": 0.0,
+            "Subsurface Radius": [
+              1.0,
+              0.20000000298023224,
+              0.10000000149011612
+            ],
+            "Subsurface Scale": 0.004999999888241291,
+            "Subsurface IOR": 1.399999976158142,
+            "Subsurface Anisotropy": 0.0,
+            "Specular IOR Level": 0.5,
+            "Specular Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Anisotropic": 0.0,
+            "Anisotropic Rotation": 0.0,
+            "Tangent": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Transmission Weight": 1.0,
+            "Transmission Dispersion Scale": 0.0,
+            "Transmission Dispersion Abbe Number": 20.0,
+            "Coat Weight": 0.0,
+            "Coat Roughness": 0.029999999329447746,
+            "Coat IOR": 1.5,
+            "Coat Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Coat Normal": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Sheen Weight": 0.0,
+            "Sheen Roughness": 0.5,
+            "Sheen Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Emission Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Emission Strength": 0.0,
+            "Thin Film Thickness": 0.0,
+            "Thin Film IOR": 1.3300000429153442
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "ShaderNodeOutputMaterial",
+          "inputs": {
+            "Displacement": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Thickness": 0.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "Principled BSDF",
+          "output": "BSDF",
+          "to": "Material Output",
+          "input": "Surface"
+        }
+      ]
+    },
+    {
+      "name": "Material.001",
+      "nodes": [
+        {
+          "name": "Material Output",
+          "type": "ShaderNodeOutputMaterial",
+          "inputs": {
+            "Displacement": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Thickness": 0.0
+          }
+        },
+        {
+          "name": "Glass BSDF",
+          "type": "ShaderNodeBsdfGlass",
+          "inputs": {
+            "Color": [
+              0.7605482339859009,
+              0.6744133830070496,
+              1.0,
+              1.0
+            ],
+            "Roughness": 0.019999999552965164,
+            "Anisotropy": 0.0,
+            "Rotation": 0.0,
+            "IOR": 1.3329999446868896,
+            "Normal": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Tangent": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Weight": 0.0,
+            "Thin Film Thickness": 0.0,
+            "Thin Film IOR": 1.3300000429153442
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "Glass BSDF",
+          "output": "BSDF",
+          "to": "Material Output",
+          "input": "Surface"
+        }
+      ]
+    },
+    {
+      "name": "stainless",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "ShaderNodeBsdfPrincipled",
+          "inputs": {
+            "Base Color": [
+              0.6724433898925781,
+              0.6724433898925781,
+              0.6724433898925781,
+              1.0
+            ],
+            "Metallic": 1.0,
+            "Roughness": 0.20000000298023224,
+            "IOR": 1.5,
+            "Alpha": 1.0,
+            "Thin Wall": false,
+            "Normal": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Weight": 0.0,
+            "Diffuse Roughness": 0.0,
+            "Subsurface Weight": 0.0,
+            "Subsurface Radius": [
+              1.0,
+              0.20000000298023224,
+              0.10000000149011612
+            ],
+            "Subsurface Scale": 0.004999999888241291,
+            "Subsurface IOR": 1.399999976158142,
+            "Subsurface Anisotropy": 0.0,
+            "Specular IOR Level": 0.5,
+            "Specular Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Anisotropic": 0.0,
+            "Anisotropic Rotation": 0.0,
+            "Tangent": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Transmission Weight": 0.0,
+            "Transmission Dispersion Scale": 0.0,
+            "Transmission Dispersion Abbe Number": 20.0,
+            "Coat Weight": 0.0,
+            "Coat Roughness": 0.029999999329447746,
+            "Coat IOR": 1.5,
+            "Coat Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Coat Normal": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Sheen Weight": 0.0,
+            "Sheen Roughness": 0.5,
+            "Sheen Tint": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Emission Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Emission Strength": 0.0,
+            "Thin Film Thickness": 0.0,
+            "Thin Film IOR": 1.3300000429153442
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "ShaderNodeOutputMaterial",
+          "inputs": {
+            "Displacement": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Thickness": 0.0
+          }
+        },
+        {
+          "name": "Noise Texture",
+          "type": "ShaderNodeTexNoise",
+          "inputs": {
+            "Vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "W": 0.0,
+            "Scale": 100.0,
+            "Detail": 8.0,
+            "Roughness": 0.5,
+            "Lacunarity": 2.0,
+            "Offset": 0.0,
+            "Gain": 1.0,
+            "Distortion": 0.0
+          }
+        },
+        {
+          "name": "Bump",
+          "type": "ShaderNodeBump",
+          "inputs": {
+            "Strength": 0.05000000074505806,
+            "Distance": 0.0010000000474974513,
+            "Filter Width": 0.10000000149011612,
+            "Height": 1.0,
+            "Normal": [
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "name": "Mapping",
+          "type": "ShaderNodeMapping",
+          "inputs": {
+            "Vector": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Location": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Rotation": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "Scale": [
+              1.0,
+              80.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Texture Coordinate",
+          "type": "ShaderNodeTexCoord",
+          "inputs": {}
+        }
+      ],
+      "links": [
+        {
+          "from": "Principled BSDF",
+          "output": "BSDF",
+          "to": "Material Output",
+          "input": "Surface"
+        },
+        {
+          "from": "Noise Texture",
+          "output": "Factor",
+          "to": "Bump",
+          "input": "Height"
+        },
+        {
+          "from": "Bump",
+          "output": "Normal",
+          "to": "Principled BSDF",
+          "input": "Normal"
+        },
+        {
+          "from": "Mapping",
+          "output": "Vector",
+          "to": "Noise Texture",
+          "input": "Vector"
+        },
+        {
+          "from": "Texture Coordinate",
+          "output": "UV",
+          "to": "Mapping",
+          "input": "Vector"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "name": "construction_yard_4k.exr",
+      "size": [
+        4096,
+        2048
+      ],
+      "packed": true,
+      "path": "//hdri\\construction_yard_4k.exr"
+    },
+    {
+      "name": "Render Result",
+      "size": [
+        0,
+        0
+      ],
+      "packed": false,
+      "path": ""
+    },
+    {
+      "name": "Viewer Node",
+      "size": [
+        256,
+        256
+      ],
+      "packed": false,
+      "path": ""
+    },
+    {
+      "name": "WhatsApp Image 2026-10-09 at 09.40.46.jpeg",
+      "size": [
+        1600,
+        1061
+      ],
+      "packed": true,
+      "path": "//WhatsApp Image 2026-10-09 at 09.40.46.jpeg"
+    },
+    {
+      "name": "WhatsApp Image 2026-10-09 at 09.41.52.jpeg",
+      "size": [
+        512,
+        415
+      ],
+      "packed": true,
+      "path": "//WhatsApp Image 2026-10-09 at 09.41.52.jpeg"
+    }
+  ],
+  "libraries": [
+    {
+      "name": "geometry_nodes_essentials.blend",
+      "path": "//..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Blender\\5.2\\datafiles\\assets\\nodes\\geometry_nodes_essentials.blend"
+    },
+    {
+      "name": "geometry_nodes_essentials.blend.001",
+      "path": "//..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Blender\\5.2\\datafiles\\assets\\nodes\\geometry_nodes_essentials.blend"
+    }
+  ]
+}

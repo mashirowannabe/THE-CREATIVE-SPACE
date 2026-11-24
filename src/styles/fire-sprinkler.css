@@ -1,0 +1,30 @@
+.sprinkler-exhibition .sprinkler-components {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  margin: 32px 0;
+  padding-block: 24px;
+  border-block: 1px solid var(--raised);
+}
+
+.sprinkler-components dt {
+  margin-bottom: 12px;
+  color: var(--green);
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+
+.sprinkler-components dd { margin: 0; font-size: 15px; line-height: 1.6; }
+.sprinkler-material { margin-top: 48px; }
+.sprinkler-material > p { max-width: 65ch; }
+.sprinkler-collision-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 395px)); gap: 24px; }
+.sprinkler-collision-pair .project-figure { margin-top: 16px; }
+.project-video video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: var(--ink); }
+.project-video video:focus-visible { outline: 2px solid var(--green); outline-offset: 6px; }
+
+@media (max-width: 800px) {
+  .sprinkler-exhibition .sprinkler-components,
+  .sprinkler-collision-pair { grid-template-columns: minmax(0, 1fr); }
+  .sprinkler-material { margin-top: 40px; }
+  .sprinkler-collision-pair { gap: 0; max-width: 395px; }
+}

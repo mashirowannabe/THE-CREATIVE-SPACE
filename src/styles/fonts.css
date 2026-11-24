@@ -1,0 +1,16 @@
+/* Original Google Fonts releases; SIL OFL 1.1 notices ship beside both files. */
+@font-face {
+  font-family: 'Instrument Sans';
+  src: url('/fonts/instrument-sans/InstrumentSans-Variable.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: optional;
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: optional;
+}

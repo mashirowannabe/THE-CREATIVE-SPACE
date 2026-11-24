@@ -1,0 +1,11 @@
+{
+  "baselineFiles": 95,
+  "preserved": 94,
+  "changed": [
+    "src/gallery/JapaneseMaple.tsx"
+  ],
+  "added": [
+    "src/gallery/batchMapleLeaves.ts"
+  ],
+  "unexpected": []
+}

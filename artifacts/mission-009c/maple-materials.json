@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Japanese Maple-Leaf",
+    "metallic": 0,
+    "extensions": {
+      "KHR_materials_specular": {
+        "specularFactor": 0.10000000149011612
+      },
+      "KHR_materials_sheen": {
+        "sheenColorFactor": [
+          1,
+          1,
+          1
+        ],
+        "sheenRoughnessFactor": 0.5
+      },
+      "KHR_materials_anisotropy": {
+        "anisotropyRotation": 1.7992757618690338
+      },
+      "KHR_materials_ior": {
+        "ior": 1.4500000476837158
+      }
+    },
+    "doubleSided": true
+  },
+  {
+    "name": "Japanese Maple-Trunk",
+    "base": [
+      0.04297206178307533,
+      0.04083249345421791,
+      0.014025619253516197,
+      1
+    ],
+    "metallic": 0,
+    "roughness": 0.5,
+    "extensions": {
+      "KHR_materials_specular": {
+        "specularFactor": 0.10000000149011612
+      },
+      "KHR_materials_ior": {
+        "ior": 1.4500000476837158
+      }
+    },
+    "doubleSided": true
+  }
+]

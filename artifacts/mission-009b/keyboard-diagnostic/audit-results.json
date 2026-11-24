@@ -1,0 +1,94 @@
+{
+  "url": "http://127.0.0.1:4210",
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "failedRequests": [],
+  "httpErrors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4210/?audit=1",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/index-D2PtRM76.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/index-CQhmwsUD.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/GalleryCanvas-oMrjIv2a.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/bahan-RUEhm3Gc.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/hero-botanical-DZEFhpS7.svg",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/anggaran-Dgnnkmxf.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/week%20plan-ALiaedfE.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/katalog-DHUrzRTq.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/monthly%20plan-By13WU41.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4210/assets/footer-BymU2Wy0.png",
+      "type": "Image"
+    },
+    {
+      "url": "http://127.0.0.1:4210/models/japanese-maple.glb",
+      "type": "Fetch"
+    }
+  ],
+  "viewports": [],
+  "interactions": [],
+  "checks": [],
+  "timings": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/157.0.8103.79",
+    "revision": "@6dc9bc3bdaea5c35ed6d41fceab2f7a3a2227c4f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "jsVersion": "15.7.112.43"
+  },
+  "before": {
+    "open": false,
+    "focus": "SUMMARY",
+    "class": "",
+    "html": "<summary>Chapters &amp; projects</summary>"
+  },
+  "withoutChar": {
+    "open": false,
+    "focus": "SUMMARY",
+    "class": "",
+    "html": "<summary>Chapters &amp; projects</summary>"
+  },
+  "withChar": {
+    "open": true,
+    "focus": "SUMMARY",
+    "class": "",
+    "html": "<summary>Chapters &amp; projects</summary>"
+  },
+  "space": {
+    "open": false,
+    "focus": "SUMMARY",
+    "class": "",
+    "html": "<summary>Chapters &amp; projects</summary>"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "applicationSourceModified": false,
+  "geometryEqual": true,
+  "materialsEqual": true,
+  "clipsEqual": true,
+  "sameParents": true,
+  "parent": "Scene",
+  "sourceLeafCount": 300,
+  "mergedVertexCount": 72000,
+  "mergedIndexType": "Uint32Array",
+  "mergedGeometryBytes": 4032000,
+  "samples": [
+    {
+      "time": 0,
+      "loaderError": 0,
+      "batchError": 0,
+      "leafVerticesChecked": 72000
+    },
+    {
+      "time": 0.01,
+      "loaderError": 0,
+      "batchError": 0,
+      "leafVerticesChecked": 72000
+    },
+    {
+      "time": 0.5,
+      "loaderError": 0,
+      "batchError": 0,
+      "leafVerticesChecked": 72000
+    },
+    {
+      "time": 1,
+      "loaderError": 0,
+      "batchError": 0,
+      "leafVerticesChecked": 72000
+    },
+    {
+      "time": 2.5,
+      "loaderError": 0,
+      "batchError": 0,
+      "leafVerticesChecked": 72000
+    },
+    {
+      "time": 5,
+      "loaderError": 0,
+      "batchError": 0,
+      "leafVerticesChecked": 72000
+    },
+    {
+      "time": 7.5,
+      "loaderError": 0,
+      "batchError": 0,
+      "leafVerticesChecked": 72000
+    },
+    {
+      "time": 9.99,
+      "loaderError": 0,
+      "batchError": 0,
+      "leafVerticesChecked": 72000
+    }
+  ]
+}

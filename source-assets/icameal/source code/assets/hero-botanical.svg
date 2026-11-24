@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56">
+<rect width="220" height="56" fill="#dba674"/>
+<g fill="none" stroke="#20382b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-8 58C25 42 45 21 68 -5M78 58C105 41 126 20 150 -5M160 58C184 40 202 20 228 -5"/>
+<path d="M16 42C2 33 0 22 3 13C16 17 24 26 16 42ZM38 24C27 16 26 6 29 -3C42 1 48 11 38 24ZM58 12C48 3 50 -8 55 -15C67 -10 72 0 58 12Z"/>
+<path d="M99 42C85 33 83 22 86 13C99 17 107 26 99 42ZM121 24C110 16 109 6 112 -3C125 1 131 11 121 24ZM141 12C131 3 133 -8 138 -15C150 -10 155 0 141 12Z"/>
+<path d="M181 42C167 33 165 22 168 13C181 17 189 26 181 42ZM203 24C192 16 191 6 194 -3C207 1 213 11 203 24Z"/>
+</g>
+<g fill="#20382b">
+<g transform="translate(27 48)"><circle r="3"/><path d="M0-12Q5-10 4-4Q9-3 12 0Q9 5 4 4Q5 10 0 12Q-5 10-4 4Q-9 5-12 0Q-9-5-4-4Q-5-10 0-12Z"/></g>
+<g transform="translate(137 48)"><circle r="3"/><path d="M0-12Q5-10 4-4Q9-3 12 0Q9 5 4 4Q5 10 0 12Q-5 10-4 4Q-9 5-12 0Q-9-5-4-4Q-5-10 0-12Z"/></g>
+<g transform="translate(207 48)"><circle r="3"/><path d="M0-9Q4-8 3-3Q8-2 9 0Q8 4 3 3Q4 8 0 9Q-4 8-3 3Q-8 4-9 0Q-8-4-3-3Q-4-8 0-9Z"/></g>
+</g></svg>

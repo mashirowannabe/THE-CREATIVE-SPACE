@@ -1,0 +1,846 @@
+{
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "profiles": [
+    {
+      "mode": "none",
+      "calls": 312,
+      "triangles": 29501,
+      "geometries": 308,
+      "textures": 4,
+      "frame": 5,
+      "pending": 0,
+      "frameloop": "demand",
+      "documentVisibility": "visible",
+      "reducedMotion": true,
+      "status": "ready",
+      "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "root": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "rotation": [
+          0,
+          -1.5707963267948966,
+          0
+        ],
+        "scale": [
+          0.1497187661888292,
+          0.1497187661888292,
+          0.1497187661888292
+        ],
+        "children": 1,
+        "metadata": {
+          "nodes": 323,
+          "meshes": 301,
+          "skinnedMeshes": 301,
+          "skeletons": 1,
+          "skeletonAssociations": [
+            {
+              "bones": 21,
+              "boneNames": [
+                "Bone",
+                "Bone001",
+                "Bone002",
+                "Bone003",
+                "Bone004",
+                "Bone005",
+                "Bone006",
+                "Bone007",
+                "Bone008",
+                "Bone009",
+                "Bone010",
+                "Bone011",
+                "Bone012",
+                "Bone013",
+                "Bone014",
+                "Bone015",
+                "Bone016",
+                "Bone017",
+                "Bone018",
+                "Bone020",
+                "Bone019"
+              ],
+              "meshCount": 301,
+              "inverseBindCount": 21
+            }
+          ],
+          "importedBounds": {
+            "min": [
+              -4.688936314009592,
+              0.08567211031913757,
+              -6.558388238543727
+            ],
+            "max": [
+              7.553007855935249,
+              12.108213077092756,
+              9.30487138215366
+            ],
+            "size": [
+              12.24194416994484,
+              12.022540966773619,
+              15.863259620697388
+            ]
+          },
+          "trunkBase": [
+            -0.07163243740797043,
+            0.08567211031913757,
+            0.2716333828866482
+          ],
+          "baseVertices": 12,
+          "trunkName": "Plane182",
+          "originalMaterials": [
+            {
+              "name": "Japanese Maple-Leaf",
+              "type": "MeshPhysicalMaterial",
+              "color": "ffffff",
+              "roughness": 1,
+              "metalness": 0,
+              "vertexColors": false,
+              "side": 2
+            },
+            {
+              "name": "Japanese Maple-Trunk",
+              "type": "MeshPhysicalMaterial",
+              "color": "3a391f",
+              "roughness": 0.5,
+              "metalness": 0,
+              "vertexColors": false,
+              "side": 2
+            }
+          ],
+          "clips": [
+            {
+              "name": "Armature.009Action",
+              "duration": 10,
+              "tracks": 63
+            }
+          ],
+          "uniformScale": 0.1497187661888292,
+          "rotation": [
+            0,
+            -1.5707963267948966,
+            0
+          ],
+          "animation": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "position": [
+            2.140668614941487,
+            0.2671732773462255,
+            0.7107247201478198
+          ],
+          "leafColorFallback": null,
+          "shadowStrategy": "none"
+        }
+      },
+      "meshCount": 308,
+      "skinnedMeshCount": 301,
+      "modelInstances": 1,
+      "materials": [
+        {
+          "name": "Japanese Maple-Leaf",
+          "color": "ffffff",
+          "type": "MeshPhysicalMaterial",
+          "roughness": 1,
+          "sheen": 1,
+          "map": false,
+          "vertexColors": false
+        },
+        {
+          "name": "Japanese Maple-Trunk",
+          "color": "3a391f",
+          "type": "MeshPhysicalMaterial",
+          "roughness": 0.5,
+          "sheen": 0,
+          "map": false,
+          "vertexColors": false
+        }
+      ],
+      "worldBounds": {
+        "min": [
+          0.747554752059695,
+          0.2800000000000001,
+          0.00870296047630692
+        ],
+        "max": [
+          3.1225824301401137,
+          2.08,
+          1.84155173735298
+        ],
+        "size": [
+          2.3750276780804187,
+          1.8,
+          1.832848776876673
+        ]
+      },
+      "projectedBounds": {
+        "min": [
+          -0.41405966831264723,
+          -0.5283190477813605,
+          0.9677972651934057
+        ],
+        "max": [
+          0.49701855066818884,
+          0.14358139415415874,
+          0.9764122390755671
+        ]
+      },
+      "trunkContact": {
+        "bottom": 0.2800000000000001,
+        "baseCenter": [
+          2.0999999999999996,
+          0.28293891468105226,
+          0.6999999999999998
+        ],
+        "points": 12
+      }
+    },
+    {
+      "mode": "trunk",
+      "calls": 313,
+      "triangles": 34854,
+      "geometries": 308,
+      "textures": 4,
+      "frame": 6,
+      "pending": 0,
+      "frameloop": "demand",
+      "documentVisibility": "visible",
+      "reducedMotion": true,
+      "status": "ready",
+      "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "root": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "rotation": [
+          0,
+          -1.5707963267948966,
+          0
+        ],
+        "scale": [
+          0.1497187661888292,
+          0.1497187661888292,
+          0.1497187661888292
+        ],
+        "children": 1,
+        "metadata": {
+          "nodes": 323,
+          "meshes": 301,
+          "skinnedMeshes": 301,
+          "skeletons": 1,
+          "skeletonAssociations": [
+            {
+              "bones": 21,
+              "boneNames": [
+                "Bone",
+                "Bone001",
+                "Bone002",
+                "Bone003",
+                "Bone004",
+                "Bone005",
+                "Bone006",
+                "Bone007",
+                "Bone008",
+                "Bone009",
+                "Bone010",
+                "Bone011",
+                "Bone012",
+                "Bone013",
+                "Bone014",
+                "Bone015",
+                "Bone016",
+                "Bone017",
+                "Bone018",
+                "Bone020",
+                "Bone019"
+              ],
+              "meshCount": 301,
+              "inverseBindCount": 21
+            }
+          ],
+          "importedBounds": {
+            "min": [
+              -4.688936314009592,
+              0.08567211031913757,
+              -6.558388238543727
+            ],
+            "max": [
+              7.553007855935249,
+              12.108213077092756,
+              9.30487138215366
+            ],
+            "size": [
+              12.24194416994484,
+              12.022540966773619,
+              15.863259620697388
+            ]
+          },
+          "trunkBase": [
+            -0.07163243740797043,
+            0.08567211031913757,
+            0.2716333828866482
+          ],
+          "baseVertices": 12,
+          "trunkName": "Plane182",
+          "originalMaterials": [
+            {
+              "name": "Japanese Maple-Leaf",
+              "type": "MeshPhysicalMaterial",
+              "color": "ffffff",
+              "roughness": 1,
+              "metalness": 0,
+              "vertexColors": false,
+              "side": 2
+            },
+            {
+              "name": "Japanese Maple-Trunk",
+              "type": "MeshPhysicalMaterial",
+              "color": "3a391f",
+              "roughness": 0.5,
+              "metalness": 0,
+              "vertexColors": false,
+              "side": 2
+            }
+          ],
+          "clips": [
+            {
+              "name": "Armature.009Action",
+              "duration": 10,
+              "tracks": 63
+            }
+          ],
+          "uniformScale": 0.1497187661888292,
+          "rotation": [
+            0,
+            -1.5707963267948966,
+            0
+          ],
+          "animation": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "position": [
+            2.140668614941487,
+            0.2671732773462255,
+            0.7107247201478198
+          ],
+          "leafColorFallback": null,
+          "shadowStrategy": "none"
+        }
+      },
+      "meshCount": 308,
+      "skinnedMeshCount": 301,
+      "modelInstances": 1,
+      "materials": [
+        {
+          "name": "Japanese Maple-Leaf",
+          "color": "ffffff",
+          "type": "MeshPhysicalMaterial",
+          "roughness": 1,
+          "sheen": 1,
+          "map": false,
+          "vertexColors": false
+        },
+        {
+          "name": "Japanese Maple-Trunk",
+          "color": "3a391f",
+          "type": "MeshPhysicalMaterial",
+          "roughness": 0.5,
+          "sheen": 0,
+          "map": false,
+          "vertexColors": false
+        }
+      ],
+      "worldBounds": {
+        "min": [
+          0.747554752059695,
+          0.2800000000000001,
+          0.00870296047630692
+        ],
+        "max": [
+          3.1225824301401137,
+          2.08,
+          1.84155173735298
+        ],
+        "size": [
+          2.3750276780804187,
+          1.8,
+          1.832848776876673
+        ]
+      },
+      "projectedBounds": {
+        "min": [
+          -0.41405966831264723,
+          -0.5283190477813605,
+          0.9677972651934057
+        ],
+        "max": [
+          0.49701855066818884,
+          0.14358139415415874,
+          0.9764122390755671
+        ]
+      },
+      "trunkContact": {
+        "bottom": 0.2800000000000001,
+        "baseCenter": [
+          2.0999999999999996,
+          0.28293891468105226,
+          0.6999999999999998
+        ],
+        "points": 12
+      }
+    },
+    {
+      "mode": "all",
+      "calls": 613,
+      "triangles": 58854,
+      "geometries": 308,
+      "textures": 4,
+      "frame": 7,
+      "pending": 0,
+      "frameloop": "demand",
+      "documentVisibility": "visible",
+      "reducedMotion": true,
+      "status": "ready",
+      "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "root": {
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "rotation": [
+          0,
+          -1.5707963267948966,
+          0
+        ],
+        "scale": [
+          0.1497187661888292,
+          0.1497187661888292,
+          0.1497187661888292
+        ],
+        "children": 1,
+        "metadata": {
+          "nodes": 323,
+          "meshes": 301,
+          "skinnedMeshes": 301,
+          "skeletons": 1,
+          "skeletonAssociations": [
+            {
+              "bones": 21,
+              "boneNames": [
+                "Bone",
+                "Bone001",
+                "Bone002",
+                "Bone003",
+                "Bone004",
+                "Bone005",
+                "Bone006",
+                "Bone007",
+                "Bone008",
+                "Bone009",
+                "Bone010",
+                "Bone011",
+                "Bone012",
+                "Bone013",
+                "Bone014",
+                "Bone015",
+                "Bone016",
+                "Bone017",
+                "Bone018",
+                "Bone020",
+                "Bone019"
+              ],
+              "meshCount": 301,
+              "inverseBindCount": 21
+            }
+          ],
+          "importedBounds": {
+            "min": [
+              -4.688936314009592,
+              0.08567211031913757,
+              -6.558388238543727
+            ],
+            "max": [
+              7.553007855935249,
+              12.108213077092756,
+              9.30487138215366
+            ],
+            "size": [
+              12.24194416994484,
+              12.022540966773619,
+              15.863259620697388
+            ]
+          },
+          "trunkBase": [
+            -0.07163243740797043,
+            0.08567211031913757,
+            0.2716333828866482
+          ],
+          "baseVertices": 12,
+          "trunkName": "Plane182",
+          "originalMaterials": [
+            {
+              "name": "Japanese Maple-Leaf",
+              "type": "MeshPhysicalMaterial",
+              "color": "ffffff",
+              "roughness": 1,
+              "metalness": 0,
+              "vertexColors": false,
+              "side": 2
+            },
+            {
+              "name": "Japanese Maple-Trunk",
+              "type": "MeshPhysicalMaterial",
+              "color": "3a391f",
+              "roughness": 0.5,
+              "metalness": 0,
+              "vertexColors": false,
+              "side": 2
+            }
+          ],
+          "clips": [
+            {
+              "name": "Armature.009Action",
+              "duration": 10,
+              "tracks": 63
+            }
+          ],
+          "uniformScale": 0.1497187661888292,
+          "rotation": [
+            0,
+            -1.5707963267948966,
+            0
+          ],
+          "animation": {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "time": 0,
+            "running": false
+          },
+          "position": [
+            2.140668614941487,
+            0.2671732773462255,
+            0.7107247201478198
+          ],
+          "leafColorFallback": null,
+          "shadowStrategy": "none"
+        }
+      },
+      "meshCount": 308,
+      "skinnedMeshCount": 301,
+      "modelInstances": 1,
+      "materials": [
+        {
+          "name": "Japanese Maple-Leaf",
+          "color": "ffffff",
+          "type": "MeshPhysicalMaterial",
+          "roughness": 1,
+          "sheen": 1,
+          "map": false,
+          "vertexColors": false
+        },
+        {
+          "name": "Japanese Maple-Trunk",
+          "color": "3a391f",
+          "type": "MeshPhysicalMaterial",
+          "roughness": 0.5,
+          "sheen": 0,
+          "map": false,
+          "vertexColors": false
+        }
+      ],
+      "worldBounds": {
+        "min": [
+          0.747554752059695,
+          0.2800000000000001,
+          0.00870296047630692
+        ],
+        "max": [
+          3.1225824301401137,
+          2.08,
+          1.84155173735298
+        ],
+        "size": [
+          2.3750276780804187,
+          1.8,
+          1.832848776876673
+        ]
+      },
+      "projectedBounds": {
+        "min": [
+          -0.41405966831264723,
+          -0.5283190477813605,
+          0.9677972651934057
+        ],
+        "max": [
+          0.49701855066818884,
+          0.14358139415415874,
+          0.9764122390755671
+        ]
+      },
+      "trunkContact": {
+        "bottom": 0.2800000000000001,
+        "baseCenter": [
+          2.0999999999999996,
+          0.28293891468105226,
+          0.6999999999999998
+        ],
+        "points": 12
+      }
+    }
+  ],
+  "original": {
+    "calls": 312,
+    "triangles": 29501,
+    "geometries": 308,
+    "textures": 4,
+    "frame": 4,
+    "pending": 0,
+    "frameloop": "demand",
+    "documentVisibility": "visible",
+    "reducedMotion": true,
+    "status": "ready",
+    "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "root": {
+      "position": [
+        2.140668614941487,
+        0.2671732773462255,
+        0.7107247201478198
+      ],
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "scale": [
+        0.1497187661888292,
+        0.1497187661888292,
+        0.1497187661888292
+      ],
+      "children": 1,
+      "metadata": {
+        "nodes": 323,
+        "meshes": 301,
+        "skinnedMeshes": 301,
+        "skeletons": 1,
+        "skeletonAssociations": [
+          {
+            "bones": 21,
+            "boneNames": [
+              "Bone",
+              "Bone001",
+              "Bone002",
+              "Bone003",
+              "Bone004",
+              "Bone005",
+              "Bone006",
+              "Bone007",
+              "Bone008",
+              "Bone009",
+              "Bone010",
+              "Bone011",
+              "Bone012",
+              "Bone013",
+              "Bone014",
+              "Bone015",
+              "Bone016",
+              "Bone017",
+              "Bone018",
+              "Bone020",
+              "Bone019"
+            ],
+            "meshCount": 301,
+            "inverseBindCount": 21
+          }
+        ],
+        "importedBounds": {
+          "min": [
+            -4.688936314009592,
+            0.08567211031913757,
+            -6.558388238543727
+          ],
+          "max": [
+            7.553007855935249,
+            12.108213077092756,
+            9.30487138215366
+          ],
+          "size": [
+            12.24194416994484,
+            12.022540966773619,
+            15.863259620697388
+          ]
+        },
+        "trunkBase": [
+          -0.07163243740797043,
+          0.08567211031913757,
+          0.2716333828866482
+        ],
+        "baseVertices": 12,
+        "trunkName": "Plane182",
+        "originalMaterials": [
+          {
+            "name": "Japanese Maple-Leaf",
+            "type": "MeshPhysicalMaterial",
+            "color": "ffffff",
+            "roughness": 1,
+            "metalness": 0,
+            "vertexColors": false,
+            "side": 2
+          },
+          {
+            "name": "Japanese Maple-Trunk",
+            "type": "MeshPhysicalMaterial",
+            "color": "3a391f",
+            "roughness": 0.5,
+            "metalness": 0,
+            "vertexColors": false,
+            "side": 2
+          }
+        ],
+        "clips": [
+          {
+            "name": "Armature.009Action",
+            "duration": 10,
+            "tracks": 63
+          }
+        ],
+        "uniformScale": 0.1497187661888292,
+        "rotation": [
+          0,
+          -1.5707963267948966,
+          0
+        ],
+        "animation": {
+          "name": "Armature.009Action",
+          "duration": 10,
+          "time": 0,
+          "running": false
+        },
+        "position": [
+          2.140668614941487,
+          0.2671732773462255,
+          0.7107247201478198
+        ],
+        "leafColorFallback": null,
+        "shadowStrategy": "none"
+      }
+    },
+    "meshCount": 308,
+    "skinnedMeshCount": 301,
+    "modelInstances": 1,
+    "materials": [
+      {
+        "name": "Japanese Maple-Leaf",
+        "color": "ffffff",
+        "type": "MeshPhysicalMaterial",
+        "roughness": 1,
+        "sheen": 1,
+        "map": false,
+        "vertexColors": false
+      },
+      {
+        "name": "Japanese Maple-Trunk",
+        "color": "3a391f",
+        "type": "MeshPhysicalMaterial",
+        "roughness": 0.5,
+        "sheen": 0,
+        "map": false,
+        "vertexColors": false
+      }
+    ],
+    "worldBounds": {
+      "min": [
+        0.747554752059695,
+        0.2800000000000001,
+        0.00870296047630692
+      ],
+      "max": [
+        3.1225824301401137,
+        2.08,
+        1.84155173735298
+      ],
+      "size": [
+        2.3750276780804187,
+        1.8,
+        1.832848776876673
+      ]
+    },
+    "projectedBounds": {
+      "min": [
+        -0.41405966831264723,
+        -0.5283190477813605,
+        0.9677972651934057
+      ],
+      "max": [
+        0.49701855066818884,
+        0.14358139415415874,
+        0.9764122390755671
+      ]
+    },
+    "trunkContact": {
+      "bottom": 0.2800000000000001,
+      "baseCenter": [
+        2.0999999999999996,
+        0.28293891468105226,
+        0.6999999999999998
+      ],
+      "points": 12
+    }
+  },
+  "requests": [
+    "http://127.0.0.1:5173/",
+    "http://127.0.0.1:5173/@vite/client",
+    "http://127.0.0.1:5173/src/main.tsx?t=1795434100861",
+    "http://127.0.0.1:5173/@react-refresh",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=8202122d",
+    "http://127.0.0.1:5173/src/App.tsx?t=1795434100441",
+    "http://127.0.0.1:5173/src/styles/tokens.css",
+    "http://127.0.0.1:5173/src/styles/global.css",
+    "http://127.0.0.1:5173/src/styles/app.css?t=1795434100861",
+    "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OAAENEE7.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=8202122d",
+    "http://127.0.0.1:5173/src/components/FeaturedWorkIndex.tsx",
+    "http://127.0.0.1:5173/src/components/HeroCopy.tsx",
+    "http://127.0.0.1:5173/src/components/SiteHeader.tsx",
+    "http://127.0.0.1:5173/src/gallery/GalleryViewport.tsx?t=1795434100441",
+    "http://127.0.0.1:5173/src/hooks/useGalleryActivity.ts",
+    "http://127.0.0.1:5173/src/gallery/GalleryErrorBoundary.tsx",
+    "http://127.0.0.1:5173/src/gallery/GalleryPlaceholder.tsx?t=1795430248917",
+    "http://127.0.0.1:5173/src/gallery/gallery-placeholder.svg?import",
+    "http://127.0.0.1:5173/src/gallery/GalleryCanvas.tsx?t=1795434099775",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_fiber.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/three.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/gallery.config.ts?t=1795434098517",
+    "http://127.0.0.1:5173/src/gallery/GalleryScene.tsx?t=1795434098863",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-KSP3KADI.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/ArchitecturalPortal.tsx?t=1795434098517",
+    "http://127.0.0.1:5173/src/gallery/ExhibitionPlinth.tsx?t=1795434098517",
+    "http://127.0.0.1:5173/src/gallery/GalleryEnvironment.tsx?t=1795434098517",
+    "http://127.0.0.1:5173/src/gallery/GalleryLighting.tsx?t=1795434098517",
+    "http://127.0.0.1:5173/src/gallery/JapaneseMaple.tsx",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_drei.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/maple.asset.ts",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-XY7NUWS2.js?v=8202122d",
+    "http://127.0.0.1:5173/models/japanese-maple.glb"
+  ]
+}

@@ -1,0 +1,1757 @@
+{
+  "errors": [
+    "Error: Could not load /models/japanese-maple.glb: Failed to fetch\n    at http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:1850:38\n    at Object._onError [as onError] (http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_drei.js?v=8202122d:26733:9)\n    at http://127.0.0.1:5173/node_modules/.vite/deps/chunk-KSP3KADI.js?v=8202122d:24554:40",
+    "THREE.WebGLRenderer: THREE.WebGLRenderer: Error creating WebGL context.",
+    "%o\n\n%s\n\n%s\n Error: THREE.WebGLRenderer: Error creating WebGL context.\n    at new WebGLRenderer (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-KSP3KADI.js?v=8202122d:42587:19)\n    at createRenderer (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:1556:10)\n    at run2 (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:10933:96)\n    at Object.configure (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:10941:12)\n    at http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:11472:20\n    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:18567:20)\n    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:997:72)\n    at commitHookEffectListMount (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:9411:163)\n    at commitHookLayoutEffects (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:9391:60)\n    at commitLayoutEffectOnFiber (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:9904:26) The above error occurred in the <CanvasImpl> component. React will try to recreate this component tree from scratch using the error boundary you provided, GalleryErrorBoundary."
+  ],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "staticState": {
+        "camera": {
+          "position": [
+            1.8,
+            2.7,
+            7.284634146341465
+          ],
+          "quaternion": [
+            -0.07486514711346325,
+            0,
+            0,
+            0.9971936671217281
+          ],
+          "fov": 43.08195183707688
+        },
+        "calls": 313,
+        "triangles": 34854,
+        "geometries": 308,
+        "textures": 4,
+        "frame": 4,
+        "pending": 0,
+        "frameloop": "demand",
+        "documentVisibility": "visible",
+        "reducedMotion": true,
+        "status": "ready",
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "root": {
+          "position": [
+            2.140668614941487,
+            0.2671732773462255,
+            0.7107247201478198
+          ],
+          "rotation": [
+            0,
+            -1.5707963267948966,
+            0
+          ],
+          "scale": [
+            0.1497187661888292,
+            0.1497187661888292,
+            0.1497187661888292
+          ],
+          "children": 1,
+          "metadata": {
+            "nodes": 323,
+            "meshes": 301,
+            "skinnedMeshes": 301,
+            "skeletons": 1,
+            "skeletonAssociations": [
+              {
+                "bones": 21,
+                "boneNames": [
+                  "Bone",
+                  "Bone001",
+                  "Bone002",
+                  "Bone003",
+                  "Bone004",
+                  "Bone005",
+                  "Bone006",
+                  "Bone007",
+                  "Bone008",
+                  "Bone009",
+                  "Bone010",
+                  "Bone011",
+                  "Bone012",
+                  "Bone013",
+                  "Bone014",
+                  "Bone015",
+                  "Bone016",
+                  "Bone017",
+                  "Bone018",
+                  "Bone020",
+                  "Bone019"
+                ],
+                "meshCount": 301,
+                "inverseBindCount": 21
+              }
+            ],
+            "importedBounds": {
+              "min": [
+                -4.688936314009592,
+                0.08567211031913757,
+                -6.558388238543727
+              ],
+              "max": [
+                7.553007855935249,
+                12.108213077092756,
+                9.30487138215366
+              ],
+              "size": [
+                12.24194416994484,
+                12.022540966773619,
+                15.863259620697388
+              ]
+            },
+            "trunkBase": [
+              -0.07163243740797043,
+              0.08567211031913757,
+              0.2716333828866482
+            ],
+            "baseVertices": 12,
+            "trunkName": "Plane182",
+            "originalMaterials": [
+              {
+                "name": "Japanese Maple-Leaf",
+                "type": "MeshPhysicalMaterial",
+                "color": "ffffff",
+                "roughness": 1,
+                "metalness": 0,
+                "vertexColors": false,
+                "side": 2
+              },
+              {
+                "name": "Japanese Maple-Trunk",
+                "type": "MeshPhysicalMaterial",
+                "color": "3a391f",
+                "roughness": 0.5,
+                "metalness": 0,
+                "vertexColors": false,
+                "side": 2
+              }
+            ],
+            "clips": [
+              {
+                "name": "Armature.009Action",
+                "duration": 10,
+                "tracks": 63
+              }
+            ],
+            "uniformScale": 0.1497187661888292,
+            "rotation": [
+              0,
+              -1.5707963267948966,
+              0
+            ],
+            "animation": {
+              "name": "Armature.009Action",
+              "duration": 10,
+              "time": 0,
+              "running": false
+            },
+            "position": [
+              2.140668614941487,
+              0.2671732773462255,
+              0.7107247201478198
+            ],
+            "leafColorFallback": [
+              0.3181281089782715,
+              0,
+              0.004833156242966652
+            ],
+            "shadowStrategy": "trunk"
+          }
+        },
+        "meshCount": 308,
+        "skinnedMeshCount": 301,
+        "modelInstances": 1,
+        "materials": [
+          {
+            "name": "Japanese Maple-Leaf",
+            "color": "99000f",
+            "type": "MeshPhysicalMaterial",
+            "roughness": 1,
+            "sheen": 1,
+            "map": false,
+            "vertexColors": false
+          },
+          {
+            "name": "Japanese Maple-Trunk",
+            "color": "3a391f",
+            "type": "MeshPhysicalMaterial",
+            "roughness": 0.5,
+            "sheen": 0,
+            "map": false,
+            "vertexColors": false
+          }
+        ],
+        "bonePose": [
+          0,
+          0,
+          0,
+          1,
+          -0.09589510411024094,
+          0.024803435429930687,
+          -0.24917811155319214,
+          0.9633790850639343,
+          0.2625505328178406,
+          0.10564464330673218,
+          0.0789477750658989,
+          0.955862820148468,
+          -0.1639278382062912,
+          -0.1288514882326126,
+          0.056623250246047974,
+          0.976380467414856,
+          -0.06415330618619919,
+          -0.007882480509579182,
+          0.1420145034790039,
+          0.9877520799636841,
+          -0.04010118916630745,
+          -0.008368778973817825,
+          0.5936592817306519,
+          0.8036732077598572,
+          -0.12242908775806427,
+          -0.005497030448168516,
+          -0.031094226986169815,
+          0.9919748306274414,
+          -0.2627938389778137,
+          -0.11142224073410034,
+          -0.21589277684688568,
+          0.9337638020515442,
+          0.2595301866531372,
+          -0.02666926197707653,
+          0.07692747563123703,
+          0.962296724319458,
+          0.22502753138542175,
+          -0.023334158584475517,
+          -0.1431703418493271,
+          0.963493824005127,
+          -0.0644250214099884,
+          -0.0015113642439246178,
+          -0.078911192715168,
+          0.9947965145111084,
+          0.2518225610256195,
+          0,
+          0,
+          0.9677734375,
+          0.1785271018743515,
+          -0.014530464075505733,
+          0.10708009451627731,
+          0.9779830574989319,
+          -0.20165571570396423,
+          0.009222662076354027,
+          0.06943125277757645,
+          0.9769489765167236,
+          0.30995887517929077,
+          0.16626378893852234,
+          -0.2255244106054306,
+          0.908526599407196,
+          0.025536155328154564,
+          0.14555224776268005,
+          -0.23254840075969696,
+          0.9612926840782166,
+          -0.336410790681839,
+          0.24828456342220306,
+          0.2699483633041382,
+          0.8673583269119263,
+          -0.1543046087026596,
+          -0.1343604177236557,
+          -0.29378706216812134,
+          0.9337165355682373,
+          0.0330277755856514,
+          -0.014819138683378696,
+          0.1107950508594513,
+          0.9931837916374207,
+          0.3828190565109253,
+          -0.11022821068763733,
+          0.106379434466362,
+          0.9110338687896729,
+          -0.05801767855882645,
+          -0.12966935336589813,
+          0.31370243430137634,
+          0.9388347268104553
+        ],
+        "worldBounds": {
+          "min": [
+            0.747554752059695,
+            0.2800000000000001,
+            0.00870296047630692
+          ],
+          "max": [
+            3.1225824301401137,
+            2.08,
+            1.84155173735298
+          ],
+          "size": [
+            2.3750276780804187,
+            1.8,
+            1.832848776876673
+          ]
+        },
+        "projectedBounds": {
+          "min": [
+            -0.4140596683126469,
+            -0.5228192699620634,
+            0.9677972651934057
+          ],
+          "max": [
+            0.4970185506681886,
+            0.14208671821894714,
+            0.9764122390755671
+          ]
+        },
+        "trunkContact": {
+          "bottom": 0.2800000000000001,
+          "baseCenter": [
+            2.0999999999999996,
+            0.28293891468105226,
+            0.6999999999999998
+          ],
+          "points": 12
+        }
+      },
+      "layout": {
+        "title": "The Creative Space",
+        "width": 1440,
+        "overflow": false,
+        "canvasCount": 1,
+        "heading": "THECREATIVESPACE.",
+        "header": {
+          "left": 71.25,
+          "top": 54,
+          "width": 1282.5,
+          "height": 29.375
+        },
+        "copy": {
+          "left": 99.75,
+          "top": 279,
+          "width": 641.25,
+          "height": 340.03125
+        },
+        "gallery": {
+          "left": 513,
+          "top": 0,
+          "width": 912,
+          "height": 900
+        },
+        "index": {
+          "left": 99.75,
+          "top": 786,
+          "width": 176.203125,
+          "height": 42
+        },
+        "pointerEvents": "none"
+      },
+      "active": {
+        "sampleSeconds": 2.0161384,
+        "frames": 363,
+        "fps": 180.04624361288435,
+        "animationTime": 1.926994999974941
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "staticState": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.12
+          ],
+          "quaternion": [
+            -0.07656624519001026,
+            0,
+            0,
+            0.9970644964582297
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 313,
+        "triangles": 34854,
+        "geometries": 308,
+        "textures": 4,
+        "frame": 4,
+        "pending": 0,
+        "frameloop": "demand",
+        "documentVisibility": "visible",
+        "reducedMotion": true,
+        "status": "ready",
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "root": {
+          "position": [
+            2.140668614941487,
+            0.2671732773462255,
+            0.7107247201478198
+          ],
+          "rotation": [
+            0,
+            -1.5707963267948966,
+            0
+          ],
+          "scale": [
+            0.1497187661888292,
+            0.1497187661888292,
+            0.1497187661888292
+          ],
+          "children": 1,
+          "metadata": {
+            "nodes": 323,
+            "meshes": 301,
+            "skinnedMeshes": 301,
+            "skeletons": 1,
+            "skeletonAssociations": [
+              {
+                "bones": 21,
+                "boneNames": [
+                  "Bone",
+                  "Bone001",
+                  "Bone002",
+                  "Bone003",
+                  "Bone004",
+                  "Bone005",
+                  "Bone006",
+                  "Bone007",
+                  "Bone008",
+                  "Bone009",
+                  "Bone010",
+                  "Bone011",
+                  "Bone012",
+                  "Bone013",
+                  "Bone014",
+                  "Bone015",
+                  "Bone016",
+                  "Bone017",
+                  "Bone018",
+                  "Bone020",
+                  "Bone019"
+                ],
+                "meshCount": 301,
+                "inverseBindCount": 21
+              }
+            ],
+            "importedBounds": {
+              "min": [
+                -4.688936314009592,
+                0.08567211031913757,
+                -6.558388238543727
+              ],
+              "max": [
+                7.553007855935249,
+                12.108213077092756,
+                9.30487138215366
+              ],
+              "size": [
+                12.24194416994484,
+                12.022540966773619,
+                15.863259620697388
+              ]
+            },
+            "trunkBase": [
+              -0.07163243740797043,
+              0.08567211031913757,
+              0.2716333828866482
+            ],
+            "baseVertices": 12,
+            "trunkName": "Plane182",
+            "originalMaterials": [
+              {
+                "name": "Japanese Maple-Leaf",
+                "type": "MeshPhysicalMaterial",
+                "color": "ffffff",
+                "roughness": 1,
+                "metalness": 0,
+                "vertexColors": false,
+                "side": 2
+              },
+              {
+                "name": "Japanese Maple-Trunk",
+                "type": "MeshPhysicalMaterial",
+                "color": "3a391f",
+                "roughness": 0.5,
+                "metalness": 0,
+                "vertexColors": false,
+                "side": 2
+              }
+            ],
+            "clips": [
+              {
+                "name": "Armature.009Action",
+                "duration": 10,
+                "tracks": 63
+              }
+            ],
+            "uniformScale": 0.1497187661888292,
+            "rotation": [
+              0,
+              -1.5707963267948966,
+              0
+            ],
+            "animation": {
+              "name": "Armature.009Action",
+              "duration": 10,
+              "time": 0,
+              "running": false
+            },
+            "position": [
+              2.140668614941487,
+              0.2671732773462255,
+              0.7107247201478198
+            ],
+            "leafColorFallback": [
+              0.3181281089782715,
+              0,
+              0.004833156242966652
+            ],
+            "shadowStrategy": "trunk"
+          }
+        },
+        "meshCount": 308,
+        "skinnedMeshCount": 301,
+        "modelInstances": 1,
+        "materials": [
+          {
+            "name": "Japanese Maple-Leaf",
+            "color": "99000f",
+            "type": "MeshPhysicalMaterial",
+            "roughness": 1,
+            "sheen": 1,
+            "map": false,
+            "vertexColors": false
+          },
+          {
+            "name": "Japanese Maple-Trunk",
+            "color": "3a391f",
+            "type": "MeshPhysicalMaterial",
+            "roughness": 0.5,
+            "sheen": 0,
+            "map": false,
+            "vertexColors": false
+          }
+        ],
+        "bonePose": [
+          0,
+          0,
+          0,
+          1,
+          -0.09589510411024094,
+          0.024803435429930687,
+          -0.24917811155319214,
+          0.9633790850639343,
+          0.2625505328178406,
+          0.10564464330673218,
+          0.0789477750658989,
+          0.955862820148468,
+          -0.1639278382062912,
+          -0.1288514882326126,
+          0.056623250246047974,
+          0.976380467414856,
+          -0.06415330618619919,
+          -0.007882480509579182,
+          0.1420145034790039,
+          0.9877520799636841,
+          -0.04010118916630745,
+          -0.008368778973817825,
+          0.5936592817306519,
+          0.8036732077598572,
+          -0.12242908775806427,
+          -0.005497030448168516,
+          -0.031094226986169815,
+          0.9919748306274414,
+          -0.2627938389778137,
+          -0.11142224073410034,
+          -0.21589277684688568,
+          0.9337638020515442,
+          0.2595301866531372,
+          -0.02666926197707653,
+          0.07692747563123703,
+          0.962296724319458,
+          0.22502753138542175,
+          -0.023334158584475517,
+          -0.1431703418493271,
+          0.963493824005127,
+          -0.0644250214099884,
+          -0.0015113642439246178,
+          -0.078911192715168,
+          0.9947965145111084,
+          0.2518225610256195,
+          0,
+          0,
+          0.9677734375,
+          0.1785271018743515,
+          -0.014530464075505733,
+          0.10708009451627731,
+          0.9779830574989319,
+          -0.20165571570396423,
+          0.009222662076354027,
+          0.06943125277757645,
+          0.9769489765167236,
+          0.30995887517929077,
+          0.16626378893852234,
+          -0.2255244106054306,
+          0.908526599407196,
+          0.025536155328154564,
+          0.14555224776268005,
+          -0.23254840075969696,
+          0.9612926840782166,
+          -0.336410790681839,
+          0.24828456342220306,
+          0.2699483633041382,
+          0.8673583269119263,
+          -0.1543046087026596,
+          -0.1343604177236557,
+          -0.29378706216812134,
+          0.9337165355682373,
+          0.0330277755856514,
+          -0.014819138683378696,
+          0.1107950508594513,
+          0.9931837916374207,
+          0.3828190565109253,
+          -0.11022821068763733,
+          0.106379434466362,
+          0.9110338687896729,
+          -0.05801767855882645,
+          -0.12966935336589813,
+          0.31370243430137634,
+          0.9388347268104553
+        ],
+        "worldBounds": {
+          "min": [
+            0.747554752059695,
+            0.2800000000000001,
+            0.00870296047630692
+          ],
+          "max": [
+            3.1225824301401137,
+            2.08,
+            1.84155173735298
+          ],
+          "size": [
+            2.3750276780804187,
+            1.8,
+            1.832848776876673
+          ]
+        },
+        "projectedBounds": {
+          "min": [
+            -0.6012173132221315,
+            -0.5288311855695351,
+            0.9667522882380156
+          ],
+          "max": [
+            0.43129932784559416,
+            0.14277829962942368,
+            0.9758198494276379
+          ]
+        },
+        "trunkContact": {
+          "bottom": 0.2800000000000001,
+          "baseCenter": [
+            2.0999999999999996,
+            0.28293891468105226,
+            0.6999999999999998
+          ],
+          "points": 12
+        }
+      },
+      "layout": {
+        "title": "The Creative Space",
+        "width": 390,
+        "overflow": false,
+        "canvasCount": 1,
+        "heading": "THECREATIVESPACE.",
+        "header": {
+          "left": 24,
+          "top": 24,
+          "width": 342,
+          "height": 29.375
+        },
+        "copy": {
+          "left": 24,
+          "top": 157.375,
+          "width": 342,
+          "height": 264.09375
+        },
+        "gallery": {
+          "left": 0,
+          "top": 455.46875,
+          "width": 390,
+          "height": 429
+        },
+        "index": {
+          "left": 24,
+          "top": 910.46875,
+          "width": 342,
+          "height": 42
+        },
+        "pointerEvents": "none"
+      },
+      "active": {
+        "sampleSeconds": 2.0047858000000014,
+        "frames": 361,
+        "fps": 180.06879825226517,
+        "animationTime": 1.92478999999163
+      }
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "staticState": {
+        "camera": {
+          "position": [
+            2.1,
+            2.7,
+            7.151249999999999
+          ],
+          "quaternion": [
+            -0.07623748479578465,
+            0,
+            0,
+            0.9970896879980318
+          ],
+          "fov": 43.60281897270362
+        },
+        "calls": 313,
+        "triangles": 34854,
+        "geometries": 308,
+        "textures": 4,
+        "frame": 4,
+        "pending": 0,
+        "frameloop": "demand",
+        "documentVisibility": "visible",
+        "reducedMotion": true,
+        "status": "ready",
+        "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "root": {
+          "position": [
+            2.140668614941487,
+            0.2671732773462255,
+            0.7107247201478198
+          ],
+          "rotation": [
+            0,
+            -1.5707963267948966,
+            0
+          ],
+          "scale": [
+            0.1497187661888292,
+            0.1497187661888292,
+            0.1497187661888292
+          ],
+          "children": 1,
+          "metadata": {
+            "nodes": 323,
+            "meshes": 301,
+            "skinnedMeshes": 301,
+            "skeletons": 1,
+            "skeletonAssociations": [
+              {
+                "bones": 21,
+                "boneNames": [
+                  "Bone",
+                  "Bone001",
+                  "Bone002",
+                  "Bone003",
+                  "Bone004",
+                  "Bone005",
+                  "Bone006",
+                  "Bone007",
+                  "Bone008",
+                  "Bone009",
+                  "Bone010",
+                  "Bone011",
+                  "Bone012",
+                  "Bone013",
+                  "Bone014",
+                  "Bone015",
+                  "Bone016",
+                  "Bone017",
+                  "Bone018",
+                  "Bone020",
+                  "Bone019"
+                ],
+                "meshCount": 301,
+                "inverseBindCount": 21
+              }
+            ],
+            "importedBounds": {
+              "min": [
+                -4.688936314009592,
+                0.08567211031913757,
+                -6.558388238543727
+              ],
+              "max": [
+                7.553007855935249,
+                12.108213077092756,
+                9.30487138215366
+              ],
+              "size": [
+                12.24194416994484,
+                12.022540966773619,
+                15.863259620697388
+              ]
+            },
+            "trunkBase": [
+              -0.07163243740797043,
+              0.08567211031913757,
+              0.2716333828866482
+            ],
+            "baseVertices": 12,
+            "trunkName": "Plane182",
+            "originalMaterials": [
+              {
+                "name": "Japanese Maple-Leaf",
+                "type": "MeshPhysicalMaterial",
+                "color": "ffffff",
+                "roughness": 1,
+                "metalness": 0,
+                "vertexColors": false,
+                "side": 2
+              },
+              {
+                "name": "Japanese Maple-Trunk",
+                "type": "MeshPhysicalMaterial",
+                "color": "3a391f",
+                "roughness": 0.5,
+                "metalness": 0,
+                "vertexColors": false,
+                "side": 2
+              }
+            ],
+            "clips": [
+              {
+                "name": "Armature.009Action",
+                "duration": 10,
+                "tracks": 63
+              }
+            ],
+            "uniformScale": 0.1497187661888292,
+            "rotation": [
+              0,
+              -1.5707963267948966,
+              0
+            ],
+            "animation": {
+              "name": "Armature.009Action",
+              "duration": 10,
+              "time": 0,
+              "running": false
+            },
+            "position": [
+              2.140668614941487,
+              0.2671732773462255,
+              0.7107247201478198
+            ],
+            "leafColorFallback": [
+              0.3181281089782715,
+              0,
+              0.004833156242966652
+            ],
+            "shadowStrategy": "trunk"
+          }
+        },
+        "meshCount": 308,
+        "skinnedMeshCount": 301,
+        "modelInstances": 1,
+        "materials": [
+          {
+            "name": "Japanese Maple-Leaf",
+            "color": "99000f",
+            "type": "MeshPhysicalMaterial",
+            "roughness": 1,
+            "sheen": 1,
+            "map": false,
+            "vertexColors": false
+          },
+          {
+            "name": "Japanese Maple-Trunk",
+            "color": "3a391f",
+            "type": "MeshPhysicalMaterial",
+            "roughness": 0.5,
+            "sheen": 0,
+            "map": false,
+            "vertexColors": false
+          }
+        ],
+        "bonePose": [
+          0,
+          0,
+          0,
+          1,
+          -0.09589510411024094,
+          0.024803435429930687,
+          -0.24917811155319214,
+          0.9633790850639343,
+          0.2625505328178406,
+          0.10564464330673218,
+          0.0789477750658989,
+          0.955862820148468,
+          -0.1639278382062912,
+          -0.1288514882326126,
+          0.056623250246047974,
+          0.976380467414856,
+          -0.06415330618619919,
+          -0.007882480509579182,
+          0.1420145034790039,
+          0.9877520799636841,
+          -0.04010118916630745,
+          -0.008368778973817825,
+          0.5936592817306519,
+          0.8036732077598572,
+          -0.12242908775806427,
+          -0.005497030448168516,
+          -0.031094226986169815,
+          0.9919748306274414,
+          -0.2627938389778137,
+          -0.11142224073410034,
+          -0.21589277684688568,
+          0.9337638020515442,
+          0.2595301866531372,
+          -0.02666926197707653,
+          0.07692747563123703,
+          0.962296724319458,
+          0.22502753138542175,
+          -0.023334158584475517,
+          -0.1431703418493271,
+          0.963493824005127,
+          -0.0644250214099884,
+          -0.0015113642439246178,
+          -0.078911192715168,
+          0.9947965145111084,
+          0.2518225610256195,
+          0,
+          0,
+          0.9677734375,
+          0.1785271018743515,
+          -0.014530464075505733,
+          0.10708009451627731,
+          0.9779830574989319,
+          -0.20165571570396423,
+          0.009222662076354027,
+          0.06943125277757645,
+          0.9769489765167236,
+          0.30995887517929077,
+          0.16626378893852234,
+          -0.2255244106054306,
+          0.908526599407196,
+          0.025536155328154564,
+          0.14555224776268005,
+          -0.23254840075969696,
+          0.9612926840782166,
+          -0.336410790681839,
+          0.24828456342220306,
+          0.2699483633041382,
+          0.8673583269119263,
+          -0.1543046087026596,
+          -0.1343604177236557,
+          -0.29378706216812134,
+          0.9337165355682373,
+          0.0330277755856514,
+          -0.014819138683378696,
+          0.1107950508594513,
+          0.9931837916374207,
+          0.3828190565109253,
+          -0.11022821068763733,
+          0.106379434466362,
+          0.9110338687896729,
+          -0.05801767855882645,
+          -0.12966935336589813,
+          0.31370243430137634,
+          0.9388347268104553
+        ],
+        "worldBounds": {
+          "min": [
+            0.747554752059695,
+            0.2800000000000001,
+            0.00870296047630692
+          ],
+          "max": [
+            3.1225824301401137,
+            2.08,
+            1.84155173735298
+          ],
+          "size": [
+            2.3750276780804187,
+            1.8,
+            1.832848776876673
+          ]
+        },
+        "projectedBounds": {
+          "min": [
+            -0.6118322550434286,
+            -0.5263375475285386,
+            0.9669552451065678
+          ],
+          "max": [
+            0.43900264845717013,
+            0.14228584253192197,
+            0.9759342317061336
+          ]
+        },
+        "trunkContact": {
+          "bottom": 0.2800000000000001,
+          "baseCenter": [
+            2.0999999999999996,
+            0.28293891468105226,
+            0.6999999999999998
+          ],
+          "points": 12
+        }
+      },
+      "layout": {
+        "title": "The Creative Space",
+        "width": 320,
+        "overflow": false,
+        "canvasCount": 1,
+        "heading": "THECREATIVESPACE.",
+        "header": {
+          "left": 24,
+          "top": 24,
+          "width": 272,
+          "height": 41.59375
+        },
+        "copy": {
+          "left": 24,
+          "top": 169.59375,
+          "width": 272,
+          "height": 249.375
+        },
+        "gallery": {
+          "left": 0,
+          "top": 452.96875,
+          "width": 320,
+          "height": 360
+        },
+        "index": {
+          "left": 24,
+          "top": 838.96875,
+          "width": 272,
+          "height": 42
+        },
+        "pointerEvents": "none"
+      },
+      "active": {
+        "sampleSeconds": 2.009211199999998,
+        "frames": 361,
+        "fps": 179.6720710963878,
+        "animationTime": 1.9186649999916308
+      }
+    }
+  ],
+  "failures": [],
+  "lifecycle": {
+    "cameraOffscreen": {
+      "paused": true,
+      "resumed": true
+    },
+    "cameraHidden": {
+      "paused": true,
+      "resumed": true
+    },
+    "cameraDemandIsolation": {
+      "injectedDemand": true,
+      "idleFrames": 0,
+      "completed": true
+    },
+    "loop": {
+      "wrapped": true,
+      "observedSeconds": 18.185465400000002
+    },
+    "offscreenPaused": true,
+    "offscreenResumed": true,
+    "hiddenDocumentPaused": true,
+    "hiddenDocumentResumed": true,
+    "reducedMotionChanged": true
+  },
+  "interactions": [
+    {
+      "width": 1440,
+      "height": 900,
+      "navigation": [
+        {
+          "name": "Work",
+          "hash": "#featured-work",
+          "focus": "featured-work",
+          "top": 249,
+          "bottom": 291
+        },
+        {
+          "name": "Studies",
+          "hash": "#studies",
+          "focus": "studies",
+          "top": 427,
+          "bottom": 578.390625
+        },
+        {
+          "name": "About",
+          "hash": "#about",
+          "focus": "about",
+          "top": 578.390625,
+          "bottom": 691.390625
+        },
+        {
+          "name": "Contact",
+          "hash": "#contact",
+          "focus": "contact",
+          "top": 691.390625,
+          "bottom": 804.390625
+        }
+      ],
+      "keyboard": [
+        {
+          "text": "Work",
+          "outline": "solid",
+          "width": 30.109375,
+          "height": 18.1875
+        },
+        {
+          "text": "Studies",
+          "outline": "solid",
+          "width": 43.375,
+          "height": 18.1875
+        },
+        {
+          "text": "About",
+          "outline": "solid",
+          "width": 33.984375,
+          "height": 18.1875
+        },
+        {
+          "text": "Contact",
+          "outline": "solid",
+          "width": 44.8125,
+          "height": 18.1875
+        },
+        {
+          "text": "Explore the work ↗",
+          "outline": "solid",
+          "width": 118.34375,
+          "height": 27.1875
+        },
+        {
+          "text": "Inspect Specimen",
+          "outline": "solid",
+          "width": 87.4375,
+          "height": 44
+        },
+        {
+          "text": "IcaMeal",
+          "outline": "solid",
+          "width": 49.03125,
+          "height": 44
+        },
+        {
+          "text": "Blender",
+          "outline": "solid",
+          "width": 48.265625,
+          "height": 44
+        },
+        {
+          "text": "View specimen ↗",
+          "outline": "solid",
+          "width": 92.625,
+          "height": 32
+        }
+      ],
+      "camera": {
+        "reducedMotion": {
+          "immediate": true,
+          "idle": true,
+          "exactReturn": true,
+          "default": {
+            "position": [
+              1.8,
+              2.7,
+              7.284634146341465
+            ],
+            "quaternion": [
+              -0.07486514711346325,
+              0,
+              0,
+              0.9971936671217281
+            ],
+            "fov": 43.08195183707688
+          },
+          "inspection": {
+            "position": [
+              1.8,
+              2.6,
+              6.568170731707318
+            ],
+            "quaternion": [
+              -0.0878608608239748,
+              -0.0038500467113061075,
+              -0.00033958421927769825,
+              0.9961252586688829
+            ],
+            "fov": 43.08195183707688
+          },
+          "bounds": {
+            "min": [
+              -0.4858570536462478,
+              -0.5185042813157668,
+              0.9626336069637299
+            ],
+            "max": [
+              0.5378778362480364,
+              0.22248774519902154,
+              0.9736205361186026
+            ]
+          }
+        },
+        "animated": {
+          "durationMs": 813.0523999999996,
+          "intermediate": {
+            "position": [
+              1.8,
+              2.69474082379572,
+              7.246954072926654
+            ],
+            "quaternion": [
+              -0.07547849844792616,
+              -0.00018104096653750608,
+              -0.000013703791569109331,
+              0.9971474130279941
+            ],
+            "fov": 43.08195183707688
+          },
+          "exactReturn": true,
+          "escapeDuringTransition": true,
+          "bounds": {
+            "min": [
+              -0.48400899226059074,
+              -0.5192685319907103,
+              0.962334964209363
+            ],
+            "max": [
+              0.5454908098571328,
+              0.212437654416479,
+              0.9735301064637876
+            ]
+          }
+        }
+      },
+      "touch": "wheel scrolling passed"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "navigation": [
+        {
+          "name": "Work",
+          "hash": "#featured-work",
+          "focus": "featured-work",
+          "top": 211.46875,
+          "bottom": 253.46875
+        },
+        {
+          "name": "Studies",
+          "hash": "#studies",
+          "focus": "studies",
+          "top": 325.46875,
+          "bottom": 508.859375
+        },
+        {
+          "name": "About",
+          "hash": "#about",
+          "focus": "about",
+          "top": 508.859375,
+          "bottom": 644.25
+        },
+        {
+          "name": "Contact",
+          "hash": "#contact",
+          "focus": "contact",
+          "top": 644.25,
+          "bottom": 779.640625
+        }
+      ],
+      "keyboard": [
+        {
+          "text": "Work",
+          "outline": "solid",
+          "width": 27.78125,
+          "height": 16.796875
+        },
+        {
+          "text": "Studies",
+          "outline": "solid",
+          "width": 40.03125,
+          "height": 16.796875
+        },
+        {
+          "text": "About",
+          "outline": "solid",
+          "width": 31.359375,
+          "height": 16.796875
+        },
+        {
+          "text": "Contact",
+          "outline": "solid",
+          "width": 41.359375,
+          "height": 16.796875
+        },
+        {
+          "text": "Explore the work ↗",
+          "outline": "solid",
+          "width": 118.34375,
+          "height": 27.1875
+        },
+        {
+          "text": "Inspect Specimen",
+          "outline": "solid",
+          "width": 87.4375,
+          "height": 44
+        },
+        {
+          "text": "IcaMeal",
+          "outline": "solid",
+          "width": 49.03125,
+          "height": 44
+        },
+        {
+          "text": "Blender",
+          "outline": "solid",
+          "width": 48.265625,
+          "height": 44
+        },
+        {
+          "text": "View specimen ↗",
+          "outline": "solid",
+          "width": 92.625,
+          "height": 32
+        }
+      ],
+      "camera": {
+        "reducedMotion": {
+          "immediate": true,
+          "idle": true,
+          "exactReturn": true,
+          "default": {
+            "position": [
+              2.1,
+              2.7,
+              7.12
+            ],
+            "quaternion": [
+              -0.07656624519001026,
+              0,
+              0,
+              0.9970644964582297
+            ],
+            "fov": 43.60281897270362
+          },
+          "inspection": {
+            "position": [
+              2.1,
+              2.6,
+              6.42
+            ],
+            "quaternion": [
+              -0.08987493228198831,
+              0,
+              0,
+              0.9959530594095829
+            ],
+            "fov": 43.60281897270362
+          },
+          "bounds": {
+            "min": [
+              -0.6782064319475664,
+              -0.5247444526331893,
+              0.9614357707000487
+            ],
+            "max": [
+              0.48393147162409,
+              0.224038703076583,
+              0.9729592585150644
+            ]
+          }
+        },
+        "animated": {
+          "durationMs": 819.0416000000005,
+          "intermediate": {
+            "position": [
+              2.1,
+              2.6952927768180532,
+              7.08704943772637
+            ],
+            "quaternion": [
+              -0.07712792682437251,
+              0,
+              0,
+              0.9970212048415893
+            ],
+            "fov": 43.60281897270362
+          },
+          "exactReturn": true,
+          "escapeDuringTransition": true,
+          "bounds": {
+            "min": [
+              -0.6772363578530625,
+              -0.5255164706788757,
+              0.9611193525537163
+            ],
+            "max": [
+              0.49180454715269195,
+              0.2138162141227818,
+              0.9728640288212939
+            ]
+          }
+        }
+      },
+      "touch": "tap and scrolling passed"
+    },
+    {
+      "width": 320,
+      "height": 768,
+      "navigation": [
+        {
+          "name": "Work",
+          "hash": "#featured-work",
+          "focus": "featured-work",
+          "top": 135.96875,
+          "bottom": 177.96875
+        },
+        {
+          "name": "Studies",
+          "hash": "#studies",
+          "focus": "studies",
+          "top": 249.96875,
+          "bottom": 433.359375
+        },
+        {
+          "name": "About",
+          "hash": "#about",
+          "focus": "about",
+          "top": 433.359375,
+          "bottom": 568.75
+        },
+        {
+          "name": "Contact",
+          "hash": "#contact",
+          "focus": "contact",
+          "top": 568.75,
+          "bottom": 704.140625
+        }
+      ],
+      "keyboard": [
+        {
+          "text": "Work",
+          "outline": "solid",
+          "width": 27.78125,
+          "height": 16.796875
+        },
+        {
+          "text": "Studies",
+          "outline": "solid",
+          "width": 40.03125,
+          "height": 16.796875
+        },
+        {
+          "text": "About",
+          "outline": "solid",
+          "width": 31.359375,
+          "height": 16.796875
+        },
+        {
+          "text": "Contact",
+          "outline": "solid",
+          "width": 41.359375,
+          "height": 16.796875
+        },
+        {
+          "text": "Explore the work ↗",
+          "outline": "solid",
+          "width": 118.34375,
+          "height": 27.1875
+        },
+        {
+          "text": "Inspect Specimen",
+          "outline": "solid",
+          "width": 87.4375,
+          "height": 44
+        },
+        {
+          "text": "IcaMeal",
+          "outline": "solid",
+          "width": 49.03125,
+          "height": 44
+        },
+        {
+          "text": "Blender",
+          "outline": "solid",
+          "width": 48.265625,
+          "height": 44
+        },
+        {
+          "text": "View specimen ↗",
+          "outline": "solid",
+          "width": 92.625,
+          "height": 32
+        }
+      ],
+      "camera": {
+        "reducedMotion": {
+          "immediate": true,
+          "idle": true,
+          "exactReturn": true,
+          "default": {
+            "position": [
+              2.1,
+              2.7,
+              7.151249999999999
+            ],
+            "quaternion": [
+              -0.07623748479578465,
+              0,
+              0,
+              0.9970896879980318
+            ],
+            "fov": 43.60281897270362
+          },
+          "inspection": {
+            "position": [
+              2.1,
+              2.6,
+              6.448124999999999
+            ],
+            "quaternion": [
+              -0.08948628174232216,
+              0,
+              0,
+              0.9959880548379753
+            ],
+            "fov": 43.60281897270362
+          },
+          "bounds": {
+            "min": [
+              -0.6901412242693762,
+              -0.5222850412014078,
+              0.9616742304376307
+            ],
+            "max": [
+              0.49256149064942784,
+              0.22318268438666172,
+              0.9730835348406953
+            ]
+          }
+        },
+        "animated": {
+          "durationMs": 811.9700999999986,
+          "intermediate": {
+            "position": [
+              2.1,
+              2.695232793597951,
+              7.117730579985594
+            ],
+            "quaternion": [
+              -0.07680381015680668,
+              0,
+              0,
+              0.997046224979262
+            ],
+            "fov": 43.60281897270362
+          },
+          "exactReturn": true,
+          "escapeDuringTransition": true,
+          "bounds": {
+            "min": [
+              -0.6891309394935711,
+              -0.5230522904771965,
+              0.9613617894528131
+            ],
+            "max": [
+              0.5005466689732377,
+              0.21301112374984246,
+              0.9729893651679009
+            ]
+          }
+        }
+      },
+      "touch": "tap and scrolling passed"
+    }
+  ],
+  "normalErrors": [],
+  "normalRequests": [
+    "http://127.0.0.1:5173/",
+    "http://127.0.0.1:5173/@vite/client",
+    "http://127.0.0.1:5173/src/main.tsx?t=1795436935873",
+    "http://127.0.0.1:5173/@react-refresh",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=8202122d",
+    "http://127.0.0.1:5173/src/App.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/src/styles/tokens.css",
+    "http://127.0.0.1:5173/src/styles/global.css?t=1795436841069",
+    "http://127.0.0.1:5173/src/styles/app.css?t=1795436935873",
+    "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OAAENEE7.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=8202122d",
+    "http://127.0.0.1:5173/src/components/FeaturedWorkIndex.tsx?t=1795436840734",
+    "http://127.0.0.1:5173/src/components/EditorialSections.tsx",
+    "http://127.0.0.1:5173/src/components/HeroCopy.tsx",
+    "http://127.0.0.1:5173/src/components/SiteHeader.tsx?t=1795436840050",
+    "http://127.0.0.1:5173/src/gallery/GalleryViewport.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/src/hooks/useGalleryActivity.ts",
+    "http://127.0.0.1:5173/src/gallery/GalleryErrorBoundary.tsx",
+    "http://127.0.0.1:5173/src/gallery/GalleryPlaceholder.tsx?t=1795430248917",
+    "http://127.0.0.1:5173/src/gallery/gallery-placeholder.svg?import",
+    "http://127.0.0.1:5173/src/gallery/GalleryCanvas.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_fiber.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/three.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/gallery.config.ts?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryScene.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryCamera.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-KSP3KADI.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/ArchitecturalPortal.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/ExhibitionPlinth.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryEnvironment.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryLighting.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/JapaneseMaple.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_drei.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/maple.asset.ts",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-XY7NUWS2.js?v=8202122d",
+    "http://127.0.0.1:5173/models/japanese-maple.glb",
+    "http://127.0.0.1:5173/",
+    "http://127.0.0.1:5173/@vite/client",
+    "http://127.0.0.1:5173/src/main.tsx?t=1795436935873",
+    "http://127.0.0.1:5173/@react-refresh",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=8202122d",
+    "http://127.0.0.1:5173/src/App.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/src/styles/tokens.css",
+    "http://127.0.0.1:5173/src/styles/global.css?t=1795436841069",
+    "http://127.0.0.1:5173/src/styles/app.css?t=1795436935873",
+    "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OAAENEE7.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=8202122d",
+    "http://127.0.0.1:5173/src/components/FeaturedWorkIndex.tsx?t=1795436840734",
+    "http://127.0.0.1:5173/src/components/EditorialSections.tsx",
+    "http://127.0.0.1:5173/src/components/HeroCopy.tsx",
+    "http://127.0.0.1:5173/src/components/SiteHeader.tsx?t=1795436840050",
+    "http://127.0.0.1:5173/src/gallery/GalleryViewport.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/src/hooks/useGalleryActivity.ts",
+    "http://127.0.0.1:5173/src/gallery/GalleryErrorBoundary.tsx",
+    "http://127.0.0.1:5173/src/gallery/GalleryPlaceholder.tsx?t=1795430248917",
+    "http://127.0.0.1:5173/src/gallery/gallery-placeholder.svg?import",
+    "http://127.0.0.1:5173/src/gallery/GalleryCanvas.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_fiber.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/three.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/gallery.config.ts?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryScene.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryCamera.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-KSP3KADI.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/ArchitecturalPortal.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/ExhibitionPlinth.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryEnvironment.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryLighting.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/JapaneseMaple.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_drei.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/maple.asset.ts",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-XY7NUWS2.js?v=8202122d",
+    "http://127.0.0.1:5173/models/japanese-maple.glb",
+    "http://127.0.0.1:5173/",
+    "http://127.0.0.1:5173/@vite/client",
+    "http://127.0.0.1:5173/src/main.tsx?t=1795436935873",
+    "http://127.0.0.1:5173/@react-refresh",
+    "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=8202122d",
+    "http://127.0.0.1:5173/src/App.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/src/styles/tokens.css",
+    "http://127.0.0.1:5173/src/styles/global.css?t=1795436841069",
+    "http://127.0.0.1:5173/src/styles/app.css?t=1795436935873",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OAAENEE7.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-PX6F3LHL.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-M4ERAUOO.js?v=8202122d",
+    "http://127.0.0.1:5173/src/components/FeaturedWorkIndex.tsx?t=1795436840734",
+    "http://127.0.0.1:5173/src/components/EditorialSections.tsx",
+    "http://127.0.0.1:5173/src/components/HeroCopy.tsx",
+    "http://127.0.0.1:5173/src/components/SiteHeader.tsx?t=1795436840050",
+    "http://127.0.0.1:5173/src/gallery/GalleryViewport.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/src/hooks/useGalleryActivity.ts",
+    "http://127.0.0.1:5173/src/gallery/GalleryErrorBoundary.tsx",
+    "http://127.0.0.1:5173/src/gallery/GalleryPlaceholder.tsx?t=1795430248917",
+    "http://127.0.0.1:5173/src/gallery/gallery-placeholder.svg?import",
+    "http://127.0.0.1:5173/src/gallery/GalleryCanvas.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_fiber.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/three.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/gallery.config.ts?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryScene.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryCamera.tsx?t=1795436935484",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-U4AB6AT5.js?v=8202122d",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-KSP3KADI.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/ArchitecturalPortal.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/ExhibitionPlinth.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryEnvironment.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/GalleryLighting.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/src/gallery/JapaneseMaple.tsx?t=1795436895660",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_drei.js?v=8202122d",
+    "http://127.0.0.1:5173/src/gallery/maple.asset.ts",
+    "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-XY7NUWS2.js?v=8202122d",
+    "http://127.0.0.1:5173/models/japanese-maple.glb"
+  ],
+  "assetFailure": {
+    "graceful": true,
+    "scene": {
+      "camera": {
+        "position": [
+          2.1,
+          2.7,
+          7.151249999999999
+        ],
+        "quaternion": [
+          -0.07623748479578465,
+          0,
+          0,
+          0.9970896879980318
+        ],
+        "fov": 43.60281897270362
+      },
+      "calls": 11,
+      "triangles": 148,
+      "geometries": 7,
+      "textures": 3,
+      "frame": 1,
+      "pending": 0,
+      "frameloop": "demand",
+      "documentVisibility": "visible",
+      "reducedMotion": true,
+      "status": "Botanical study temporarily unavailable.",
+      "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "meshCount": 7,
+      "skinnedMeshCount": 0,
+      "modelInstances": 0,
+      "materials": []
+    }
+  },
+  "webglFailure": {
+    "graceful": true
+  },
+  "expectedFaultErrors": [
+    "Error: Could not load /models/japanese-maple.glb: Failed to fetch\n    at http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:1850:38\n    at Object._onError [as onError] (http://127.0.0.1:5173/node_modules/.vite/deps/@react-three_drei.js?v=8202122d:26733:9)\n    at http://127.0.0.1:5173/node_modules/.vite/deps/chunk-KSP3KADI.js?v=8202122d:24554:40",
+    "THREE.WebGLRenderer: THREE.WebGLRenderer: Error creating WebGL context.",
+    "%o\n\n%s\n\n%s\n Error: THREE.WebGLRenderer: Error creating WebGL context.\n    at new WebGLRenderer (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-KSP3KADI.js?v=8202122d:42587:19)\n    at createRenderer (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:1556:10)\n    at run2 (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:10933:96)\n    at Object.configure (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:10941:12)\n    at http://127.0.0.1:5173/node_modules/.vite/deps/chunk-R7OMYFXD.js?v=8202122d:11472:20\n    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:18567:20)\n    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:997:72)\n    at commitHookEffectListMount (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:9411:163)\n    at commitHookLayoutEffects (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:9391:60)\n    at commitLayoutEffectOnFiber (http://127.0.0.1:5173/node_modules/.vite/deps/chunk-OWSEJS2S.js?v=8202122d:9904:26) The above error occurred in the <CanvasImpl> component. React will try to recreate this component tree from scratch using the error boundary you provided, GalleryErrorBoundary."
+  ],
+  "modelRequestCount": 3
+}

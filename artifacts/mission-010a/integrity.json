@@ -1,0 +1,13 @@
+{
+  "baselineFiles": 93,
+  "preserved": 90,
+  "changed": [
+    "src/App.tsx",
+    "src/gallery/GalleryViewport.tsx",
+    "src/styles/app.css"
+  ],
+  "added": [
+    "src/hooks/useGalleryInitialization.ts"
+  ],
+  "unexpected": []
+}

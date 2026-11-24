@@ -1,0 +1,31 @@
+{
+  "path": "public/projects/blender/fire-sprinkler/animation/sprinkler-preview.mkv",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24.0,
+  "frames": 250.0,
+  "duration": 10.416666666666666,
+  "codecFourCC": "h264",
+  "decodedFrames": [
+    {
+      "seconds": 0,
+      "decoded": true
+    },
+    {
+      "seconds": 3.472222222222222,
+      "decoded": true
+    },
+    {
+      "seconds": 6.944444444444444,
+      "decoded": true
+    }
+  ],
+  "tracks": [
+    {
+      "codec": "V_MPEG4/ISO/AVC",
+      "type": 1,
+      "width": 1920,
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "url": "http://127.0.0.1:4230",
+  "errors": [],
+  "warnings": [
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+  ],
+  "failedRequests": [],
+  "httpErrors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4230/?font-delay",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4230/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4230/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4230/assets/index-CBpBy3pW.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4230/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4230/assets/GalleryCanvas-2JHKlyOG.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4230/models/japanese-maple.glb",
+      "type": "Fetch"
+    },
+    {
+      "url": "http://127.0.0.1:4230/?audit=1",
+      "type": "Document"
+    },
+    {
+      "url": "http://127.0.0.1:4230/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4230/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "type": "Font"
+    },
+    {
+      "url": "http://127.0.0.1:4230/assets/index-CBpBy3pW.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4230/assets/index-Df-D-zNQ.css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "http://127.0.0.1:4230/assets/GalleryCanvas-2JHKlyOG.js",
+      "type": "Script"
+    },
+    {
+      "url": "http://127.0.0.1:4230/models/japanese-maple.glb",
+      "type": "Fetch"
+    }
+  ],
+  "viewports": [],
+  "interactions": [],
+  "checks": [
+    {
+      "name": "Cold delayed fonts exercised existing fallbacks",
+      "passed": true,
+      "evidence": {
+        "held": 2,
+        "fonts": [
+          {
+            "selector": ".hero-title",
+            "fonts": [
+              {
+                "familyName": "Arial",
+                "postScriptName": "ArialMT",
+                "isCustomFont": false,
+                "glyphCount": 17
+              }
+            ]
+          },
+          {
+            "selector": ".eyebrow",
+            "fonts": [
+              {
+                "familyName": "Courier New",
+                "postScriptName": "CourierNewPSMT",
+                "isCustomFont": false,
+                "glyphCount": 26
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Delayed fonts preserve fallback heading geometry",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "fonts": [
+            {
+              "selector": ".hero-title",
+              "fonts": [
+                {
+                  "familyName": "Arial",
+                  "postScriptName": "ArialMT",
+                  "isCustomFont": false,
+                  "glyphCount": 17
+                }
+              ]
+            },
+            {
+              "selector": ".eyebrow",
+              "fonts": [
+                {
+                  "familyName": "Courier New",
+                  "postScriptName": "CourierNewPSMT",
+                  "isCustomFont": false,
+                  "glyphCount": 26
+                }
+              ]
+            }
+          ],
+          "shifts": [],
+          "rect": {
+            "w": 342,
+            "h": 88.3125
+          }
+        },
+        "after": {
+          "fonts": [
+            {
+              "selector": ".hero-title",
+              "fonts": [
+                {
+                  "familyName": "Arial",
+                  "postScriptName": "ArialMT",
+                  "isCustomFont": false,
+                  "glyphCount": 17
+                }
+              ]
+            },
+            {
+              "selector": ".eyebrow",
+              "fonts": [
+                {
+                  "familyName": "Courier New",
+                  "postScriptName": "CourierNewPSMT",
+                  "isCustomFont": false,
+                  "glyphCount": 26
+                }
+              ]
+            }
+          ],
+          "shifts": [],
+          "rect": {
+            "w": 342,
+            "h": 88.3125
+          }
+        }
+      }
+    },
+    {
+      "name": "Normal load uses both intended fonts",
+      "passed": true
+    },
+    {
+      "name": "Both fonts requested once from local hosting",
+      "passed": true,
+      "evidence": [
+        {
+          "name": "http://127.0.0.1:4230/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+          "transfer": 194636,
+          "duration": 6.600000023841858
+        },
+        {
+          "name": "http://127.0.0.1:4230/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+          "transfer": 135880,
+          "duration": 8
+        }
+      ]
+    },
+    {
+      "name": "Typography normal console/network clean",
+      "passed": true
+    }
+  ],
+  "timings": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/157.0.8103.79",
+    "revision": "@6dc9bc3bdaea5c35ed6d41fceab2f7a3a2227c4f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+    "jsVersion": "15.7.112.43"
+  },
+  "delayedBefore": {
+    "fonts": [
+      {
+        "selector": ".hero-title",
+        "fonts": [
+          {
+            "familyName": "Arial",
+            "postScriptName": "ArialMT",
+            "isCustomFont": false,
+            "glyphCount": 17
+          }
+        ]
+      },
+      {
+        "selector": ".eyebrow",
+        "fonts": [
+          {
+            "familyName": "Courier New",
+            "postScriptName": "CourierNewPSMT",
+            "isCustomFont": false,
+            "glyphCount": 26
+          }
+        ]
+      }
+    ],
+    "shifts": [],
+    "rect": {
+      "w": 342,
+      "h": 88.3125
+    }
+  },
+  "delayedAfter": {
+    "fonts": [
+      {
+        "selector": ".hero-title",
+        "fonts": [
+          {
+            "familyName": "Arial",
+            "postScriptName": "ArialMT",
+            "isCustomFont": false,
+            "glyphCount": 17
+          }
+        ]
+      },
+      {
+        "selector": ".eyebrow",
+        "fonts": [
+          {
+            "familyName": "Courier New",
+            "postScriptName": "CourierNewPSMT",
+            "isCustomFont": false,
+            "glyphCount": 26
+          }
+        ]
+      }
+    ],
+    "shifts": [],
+    "rect": {
+      "w": 342,
+      "h": 88.3125
+    }
+  },
+  "normalFonts": [
+    {
+      "selector": ".hero-title",
+      "fonts": [
+        {
+          "familyName": "Instrument Sans",
+          "postScriptName": "InstrumentSans-Medium",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "selector": ".eyebrow",
+      "fonts": [
+        {
+          "familyName": "IBM Plex Mono",
+          "postScriptName": "IBMPlexMono-Regular",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    }
+  ],
+  "normalShifts": [
+    {
+      "value": 0.0016266524181328432,
+      "sources": [
+        "inspect-control",
+        "gallery-caption"
+      ]
+    }
+  ],
+  "fontRequests": [
+    {
+      "name": "http://127.0.0.1:4230/fonts/instrument-sans/InstrumentSans-Variable.ttf",
+      "transfer": 194636,
+      "duration": 6.600000023841858
+    },
+    {
+      "name": "http://127.0.0.1:4230/fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "transfer": 135880,
+      "duration": 8
+    }
+  ],
+  "normalErrors": [],
+  "normalFailedRequests": []
+}
